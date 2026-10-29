@@ -90,2302 +90,2302 @@
 
 ## Bab 4: Pertukangan, Obeng, dan Senter Bapak
 
-4:1:1 Arahkanlah cahaya suluhmu tepat pada sekrup yang tersembunyi,
-4:1:2 jangan kau sorotkan ke mata ayahmu yang sedang bekerja;
-4:1:3 sebab bagaimana mungkin tangan ini mengurai kerusakan,
-4:1:4 bila pandangan dibutakan oleh silau yang salah sasaran?
+4:1:1 Dan arahkanlah sorot suluhmu tepat kepada sekrup yang tersembunyi di dalam gelap,
+4:1:2 dan janganlah kamu menyorotkannya ke arah mata bapakmu yang sedang bekerja;
+4:1:3 sebab bagaimanakah kedua tangan ini sanggup memperbaiki kerusakan,
+4:1:4 apabila penglihatannya dibutakan oleh cahaya yang salah arahnya?
 
-4:2:1 Ketahuilah bahwa mata obeng kembang dan pipih diciptakan berbeda;
-4:2:2 jangan kau paksa memutar yang tak sepadan ukurannya,
-4:2:3 agar kepala baut tak aus dan kehilangan pegangannya.
+4:2:1 Tidakkah kamu memperhatikan bahwa mata obeng kembang dan pipih itu diciptakan berbeda-beda?
+4:2:2 Maka janganlah kamu memaksakan pemutar yang tiada sepadan ukurannya,
+4:2:3 supaya tidak rusak kepala sekrup itu dan hilang pegangannya.
 
-4:3:1 Bila engsel pintu merintih setiap kali dibuka,
-4:3:2 cukup teteskan sedikit minyak dari dapur ibumu,
-4:3:3 tanpa perlu tergesa memanggil ahli dari luar rumah.
+4:3:1 Dan apabila engsel pintumu mengeluarkan derit suara setiap kali dibuka,
+4:3:2 maka cukuplah kamu teteskan sedikit minyak dari dapur ibumu,
+4:3:3 dan janganlah kamu tergesa-gesa memanggil tukang dari luar rumahmu.
 
-4:4:1 Peganglah batang paku dengan teguh dan tenang;
-4:4:2 sebab besi pemukul diciptakan untuk menundukkan kepala paku, bukan melukai ibu jarimu sendiri.
+4:4:1 Dan peganglah batang paku itu dengan teguh lagi tenang;
+4:4:2 karena sesungguhnya besi pemukul itu diciptakan untuk menundukkan kepala paku, dan bukanlah untuk melukai ibu jarimu sendiri.
 
-4:5:1 Selepas tang dan obeng menunaikan tugasnya,
-4:5:2 pulangkanlah kembali ke dalam kotak peraduannya;
-4:5:3 agar esok kala darurat memanggil,
-4:5:4 engkau tak mencari ke sana kemari dengan amarah.
+4:5:1 Maka apabila tang dan obeng itu telah selesai menunaikan urusannya,
+4:5:2 kembalikanlah keduanya ke dalam kotak tempat penyimpanannya;
+4:5:3 supaya apabila datang keperluan yang mendesak pada esok hari,
+4:5:4 kamu tidak mencarinya ke sana kemari dalam keadaan marah.
 
-4:6:1 Tatkala membongkar perkakas listrik di atas tikar,
-4:6:2 kumpulkanlah sekrup-sekrup kecilnya di dalam wadah yang terjaga;
-4:6:3 jangan sampai saat seluruh badan telah dirakit kembali,
-4:6:4 masih tersisa dua butir baut tanpa tuan,
-4:6:5 yang membuatmu bertanya-tanya dari mana asalnya.
+4:6:1 Dan tatkala kamu membongkar perkakas listrik di atas hamparan tikar,
+4:6:2 maka himpunkanlah sekrup-sekrup kecilnya di dalam suatu wadah yang terjaga;
+4:6:3 jangan sampai tatkala seluruh bagiannya telah kamu rakit kembali,
+4:6:4 masih tersisa dua butir sekrup tanpa tempat,
+4:6:5 sehingga kamu termangu bertanya-tanya dari manakah gerangan asalnya.
 
-4:7:1 Keran air yang meneteskan bulir tanpa henti,
-4:7:2 hanyalah merindukan lilitan pita putih pengikat ulir;
-4:7:3 putarlah hingga rapat agar lantai tak tergenang sia-sia.
+4:7:1 Dan adapun keran air yang meneteskan bulir-bulirnya tanpa henti,
+4:7:2 sesungguhnya ia hanyalah kekurangan lilitan pita putih pada ulirnya;
+4:7:3 maka putarlah ia dengan rapat supaya tidak tergenang lantaimu dengan sia-sia.
 
-4:8:1 Menggergaji bilah kayu menuntut irama tarik dan dorong yang sabar,
-4:8:2 bukan tekanan paksa yang terburu nafsu;
-4:8:3 agar bilah besinya tak melengkung,
-4:8:4 dan telapak tanganmu tak melepuh terluka.
+4:8:1 Dan ketahuilah bahwa menggergaji kayu itu menuntut irama tarik dan dorong dengan kesabaran,
+4:8:2 bukanlah dengan tekanan paksa yang memperturutkan hawa nafsu;
+4:8:3 supaya tidak melengkung bilah besinya,
+4:8:4 dan tidak pula melepuh telapak tanganmu karena luka.
 
-4:9:1 Jangan langsung mengoleskan cat dinding yang masih terlampau pekat;
-4:9:2 tuangkan sedikit air dan aduklah dengan bilah kayu hingga menyatu rata.
+4:9:1 Dan janganlah kamu langsung mengoleskan cat dinding yang masih terlampau pekat;
+4:9:2 melainkan tuangkanlah sedikit air ke dalamnya, lalu aduklah dengan bilah kayu hingga merata.
 
-4:10:1 Perbaikilah celah genteng yang retak selagi kemarau masih bersinar terik;
-4:10:2 jangan menunggu badai hujan mengguyur atap rumah,
-4:10:3 baru engkau kalut menadah tetesan dengan ember di ruang tengah.
+4:10:1 Dan perbaikilah celah-celah genteng yang retak selagi musim kemarau masih bersinar terik;
+4:10:2 dan janganlah kamu menunggu hingga turun hujan lebat mengguyur atap rumahmu,
+4:10:3 barulah kamu tergopoh-gopoh menadah tetesannya dengan ember di ruang tengah.
 
-4:11:1 Ukurlah dua kali dengan cermat sebelum mata gergaji memotong sekali;
-4:11:2 sebab bilah kayu yang terlampau panjang masih dapat diserut kembali,
-4:11:3 namun kayu yang terlanjur pendek terpotong,
-4:11:4 dengan apakah hendak kau sambung lagi?
+4:11:1 Maka ukurlah olehmu dua kali dengan teliti sebelum kamu memotongnya sekali;
+4:11:2 karena sesungguhnya kayu yang berlebih panjangnya masih dapat kamu serut kembali,
+4:11:3 akan tetapi kayu yang terlanjur pendek terpotong,
+4:11:4 maka dengan apakah lagi kamu hendak menyambungnya?
 
-4:12:1 Selipkanlah pena penguji arus di saku kemejamu kala memeriksa lubang listrik;
-4:12:2 sebab sengatan arus tak pernah menampakkan warnanya,
-4:12:3 maka jangan sekali-kali mengujinya dengan jari telanjang.
+4:12:1 Dan selipkanlah pena penguji arus di dalam saku bajumu tatkala kamu memeriksa aliran listrik;
+4:12:2 karena sesungguhnya sengatan listrik itu tiada menampakkan warnanya,
+4:12:3 maka janganlah sekali-kali kamu menyentuhnya dengan jari yang telanjang.
 
 ---
 
 ## Bab 5: Kardus, Kabel, dan Barang Simpanan
 
-5:1:1 Janganlah terburu membuang kotak kardus pembungkus harta,
-5:1:2 simpanlah ia dengan rapi di puncak lemari;
-5:1:3 sebab kelak saat langkah harus berpindah atau benda bertukar tuan,
-5:1:4 kotak yang kau anggap remeh itu akan kembali bernilai.
+5:1:1 Dan janganlah kamu tergesa-gesa mencampakkan kotak kardus pembungkus barangmu,
+5:1:2 melainkan simpanlah ia dengan tertib di atas puncak lemari;
+5:1:3 karena sesungguhnya apabila tiba masanya kamu berpindah atau menjual barang itu kembali,
+5:1:4 niscaya kotak yang kamu pandang hina itu akan memberikan manfaat yang besar.
 
-5:2:1 Bila kulit kabel terkelupas sedikit oleh usia,
-5:2:2 jangan tergesa membuangnya ke tempat sampah;
-5:2:3 balutlah erat dengan pita hitam perekat, niscaya arusnya masih mengalir setia.
+5:2:1 Dan apabila kulit pembungkus kabelmu terkelupas sedikit karena dimakan usia,
+5:2:2 maka janganlah kamu lekas membuangnya ke tempat pembuangan;
+5:2:3 melainkan balutlah ia dengan pita perekat hitam secara rapat, niscaya arusnya tetap mengalir dengan baik.
 
-5:3:1 Jangan mudah tertipu oleh kemegahan rupa luar;
-5:3:2 sebab kaleng biskuit kerajaan di atas meja tamu pun, acap kali hanya menyimpan rengginang di dalamnya.
+5:3:1 Dan janganlah sekali-kali kamu terperdaya oleh kemegahan rupa bagian luar;
+5:3:2 tidakkah kamu melihat kaleng biskuit kerajaan yang terhidang di meja tamu itu, padahal di dalamnya hanyalah berisi rengginang?
 
-5:4:1 Sungguh ganjil tabiat benda-benda di dalam rumah:
-5:4:2 tatkala dicari dengan peluh ia bersembunyi rapat,
-5:4:3 namun seusai kau tebus penggantinya di toko bangunan,
-5:4:4 ia mendadak muncul menampakkan diri di depan mata.
+5:4:1 Sungguh, amat mengherankan perihal barang-barang yang tersimpan di dalam rumah:
+5:4:2 tatkala kamu mencarinya dengan bersusah payah, ia seakan-akan bersembunyi darimu,
+5:4:3 namun tatkala kamu telah membeli penggantinya di pasar,
+5:4:4 tiba-tiba ia menampakkan dirinya dengan nyata di hadapan matamu.
 
-5:5:1 Lipatlah kantong plastik bekas belanjaan menjadi segitiga rapi di laci dapur;
-5:5:2 sebab benda sederhana yang kau simpan hari ini, pasti akan menemukan gunanya di kemudian hari.
+5:5:1 Dan lipatlah kantong-kantong plastik bekas belanjaanmu menjadi lipatan segitiga di dalam laci dapur;
+5:5:2 sesungguhnya sesuatu yang kamu simpan pada hari ini, kelak akan tiba masanya diperlukan.
 
-5:6:1 Botol kaca bekas kecap ataupun sirup manis janganlah lekas kau campakkan;
-5:6:2 basuhlah hingga bening berkilau tanpa sisa aroma,
-5:6:3 untuk menyimpan kesejukan air minum di dalam lemari pendingin.
+5:6:1 Dan janganlah kamu membuang botol-botol kaca bekas kecap maupun sirup manis;
+5:6:2 melainkan cucilah ia hingga bening lagi suci dari bau asalnya,
+5:6:3 supaya dapat kamu gunakan untuk menyimpan kesejukan air minum di dalam lemari pendingin.
 
-5:7:1 Kumpulkanlah mur, sekrup, dan paku yang bengkok di dalam kaleng tua;
-5:7:2 biarkan mereka beristirahat di sudut gudang,
-5:7:3 sebab kelak akan tiba masanya,
-5:7:4 satu di antaranya menjadi penyelamat ganjalan.
+5:7:1 Dan kumpulkanlah mur, sekrup, serta paku-paku yang bengkok ke dalam kaleng tua;
+5:7:2 lalu biarkanlah mereka menetap di sudut gudangmu,
+5:7:3 karena sesungguhnya kelak akan datang suatu hari,
+5:7:4 di mana salah satu di antara mereka menjadi penyelamat bagi barangmu yang goyah.
 
-5:8:1 Saat membuka ikatan tali plastik pada bungkusan,
-5:8:2 urailah simpulnya dengan jari yang sabar dan jangan tergesa memutusnya dengan pisau;
-5:8:3 gulunglah kembali, sebab panjangnya masih berguna untuk mengikat yang lain.
+5:8:1 Dan apabila kamu membuka ikatan tali plastik pada suatu bungkusan,
+5:8:2 maka urailah simpulnya dengan kesabaran dan janganlah kamu memutusnya dengan pisau;
+5:8:3 lalu gulunglah ia kembali, karena sesungguhnya ia masih berguna untuk mengikat yang lainnya.
 
-5:9:1 Jangan kau habiskan seluruh lembaran koran lama untuk membungkus kudapan;
-5:9:2 sisihkanlah sebagian di atas lemari sebagai pengusap kaca jendela agar bening berkilau.
+5:9:1 Dan janganlah kamu habiskan seluruh lembaran kertas kabar lama untuk membungkus gorengan;
+5:9:2 melainkan sisihkanlah sebagiannya di atas lemari untuk menyeka kaca jendelamu supaya berkilau.
 
-5:10:1 Lingkar karet gelang dari bungkusan sarapan pagi,
-5:10:2 gantungkanlah satu demi satu pada gagang pintu dapur;
-5:10:3 tampak sepele tak berharga di kala senggang,
-5:10:4 namun bila tiada saat dibutuhkan, setengah mati engkau mencarinya.
+5:10:1 Dan adapun gelang-gelang karet dari bungkusan santapan pagimu,
+5:10:2 maka gantungkanlah ia satu demi satu pada gagang pintu dapurmu;
+5:10:3 sesungguhnya ia tampak remeh di matamu pada waktu lapang,
+5:10:4 akan tetapi apabila ia tiada di kala sempit, niscaya kamu mencarinya dengan bersusah payah.
 
-5:11:1 Ember bekas cat dinding yang telah kosong melompong,
-5:11:2 basuhlah keraknya hingga bersih di bawah keran;
-5:11:3 lumayan untuk menimba air sumur atau menanam pohon cabai di halaman.
+5:11:1 Dan ember-ember bekas cat dinding yang telah kosong isinya,
+5:11:2 cucilah keraknya hingga bersih di bawah kucuran air;
+5:11:3 niscaya ia berguna bagimu untuk menimba air atau menumbuhkan tanaman cabai di pekarangan.
 
-5:12:1 Pakaian kaos yang telah pudar warnanya dan berlubang di tepinya,
-5:12:2 jangan langsung dibuang ke keranjang sampah;
-5:12:3 guntinglah menjadi dua lembar kain pengelap debu tungganganmu.
+5:12:1 Dan pakaian kaos yang telah pudar warnanya lagi berlubang tepinya,
+5:12:2 janganlah kamu langsung mencampakkannya ke tempat sampah;
+5:12:3 melainkan guntinglah ia menjadi dua helai kain untuk menyeka debu tungganganmu.
 
-5:13:1 Potongan kayu sisa pertukangan susunlah tertib di sudut belakang rumah;
-5:13:2 suatu hari kala kaki meja makan bergoyang pincang,
-5:13:3 engkau tinggal memungutnya sebagai pengganjal yang kokoh.
+5:13:1 Dan susunlah potongan-potongan kayu sisa pertukangan dengan rapi di sudut belakang rumahmu;
+5:13:2 supaya apabila kaki meja makanmu bergoyang pincang pada suatu hari nanti,
+5:13:3 kamu tinggal mengambilnya sebagai penopang yang teguh.
 
-5:14:1 Butir kancing cadangan yang tergantung kecil pada pakaian baru,
-5:14:2 simpanlah di dalam kotak benang dan jarum ibumu;
-5:14:3 jangan ikut terbuang bersama bungkus plastiknya.
+5:14:1 Dan kancing cadangan yang tergantung pada pakaian yang baru kamu beli,
+5:14:2 simpanlah ia ke dalam kotak benang dan jarum milik ibumu;
+5:14:3 dan janganlah kamu membiarkannya terbuang bersama bungkusnya.
 
 ---
 
 ## Bab 6: Merawat Kendaraan, Parkir, dan Polisi Tidur
 
-6:1:1 Nyalakanlah mesin tungganganmu barang sejenak di pagi hari,
-6:1:2 sekadar membangunkan minyak pelumas agar mengalir ke seluruh sendi besi;
-6:1:3 bukan ditinggal menyeruput kopi hingga kering bahan bakarnya.
+6:1:1 Dan hidupkanlah mesin tungganganmu barang sejenak pada waktu pagi,
+6:1:2 supaya mengalir minyak pelumas itu membasahi seluruh sendi besinya;
+6:1:3 dan janganlah kamu meninggalkannya menyeruput kopi hingga kering bahan bakarnya.
 
-6:2:1 Membasuh tunggangan kala langit menggantung mendung kelabu,
-6:2:2 memang bagai mengundang turunnya hujan dari langit;
-6:2:3 namun bila kau biarkan debu mengering,
-6:2:4 ia akan membatu menjadi kerak yang sukar dikikis.
+6:2:1 Sesungguhnya membasuh tunggangan tatkala langit diliputi awan mendung,
+6:2:2 seakan-akan mengundang turunnya curahan hujan dari langit;
+6:2:3 akan tetapi jika kamu biarkan lumpur dan debu itu mengering,
+6:2:4 niscaya ia mengeras menjadi kerak yang sukar kamu bersihkan.
 
-6:3:1 Tatkala gundukan penenang jalan melintang di hadapanmu,
-6:3:2 tariklah kendali perlahan dan rendahkan lajumu;
-6:3:3 sebab kita sedang menempuh perjalanan, bukan menguji ketahanan pegas besi.
+6:3:1 Dan apabila kamu melihat gundukan penenang jalan melintang di hadapanmu,
+6:3:2 maka tariklah kendali remmu dengan perlahan dan rendahkanlah laju tungganganmu;
+6:3:3 karena sesungguhnya kamu sedang menempuh perjalanan, bukanlah sedang menguji kekuatan pegas besimu.
 
-6:4:1 Cermin kecil di kiri dan kanan kemudi dipasang untuk mengawasi bahaya di belakang,
-6:4:2 bukan untuk kau putar menghadap wajahmu sendiri demi merapikan poni.
+6:4:1 Ketahuilah bahwa cermin di sebelah kiri dan kanan kemudi itu dipasang untuk mengawasi bahaya di belakangmu,
+6:4:2 dan bukanlah sekali-kali untuk kamu hadapkan ke wajahmu sendiri guna merapikan rambutmu.
 
-6:5:1 Saat menghentikan tunggangan di pelataran bersama,
-6:5:2 tegakkanlah penyangga tengah dan palingkan kemudi ke arah kiri;
-6:5:3 jangan biarkan posisimu menyempitkan jalan sesama pengemudi.
+6:5:1 Dan apabila kamu menghentikan tungganganmu di tempat perhentian umum,
+6:5:2 maka tegakkanlah penyangga tengahnya dan palingkanlah kemudinya ke sebelah kiri;
+6:5:3 dan janganlah kamu menyempitkan jalan bagi orang-orang yang hendak berlalu.
 
-6:6:1 Gantilah minyak pelumas mesin menurut hitungan jarak tempuhnya,
-6:6:2 jangan menunggu hingga deru mesinnya berderak kasar,
-6:6:3 bagai mesin jahit tua yang dipaksa berlari.
+6:6:1 Dan gantilah minyak pelumas mesinmu apabila telah genap hitungan jarak tempuhnya,
+6:6:2 dan janganlah kamu menunggu sampai deru mesinnya terdengar kasar,
+6:6:3 menyerupai derak mesin jahit tua yang dipaksa berlari.
 
-6:7:1 Isilah udara pada ban tungganganmu dengan takaran yang sedang:
-6:7:2 jangan terlampau keras membatu hingga mengguncang pinggang,
-6:7:3 dan jangan pula kempis hingga oleng kala membonceng beban.
+6:7:1 Dan isilah tekanan udara pada roda tungganganmu dengan takaran yang pertengahan:
+6:7:2 janganlah kamu membuatnya terlampau keras membatu hingga menyakiti pinggangmu,
+6:7:3 dan jangan pula kamu membiarkannya kempis hingga goyah tatkala memikul beban.
 
-6:8:1 Apabila rantai penggerak roda mulai kendur dan berderik nyaring,
-6:8:2 kencangkanlah bautnya dan teteskan minyak pelumas;
-6:8:3 jangan menunggu ia putus terlepas,
-6:8:4 tepat di tengah tanjakan yang curam.
+6:8:1 Dan apabila rantai penggerak rodamu telah mengendur dan mengeluarkan bunyi derik,
+6:8:2 maka kencangkanlah pengikatnya dan teteskanlah minyak pelumas ke atasnya;
+6:8:3 dan janganlah kamu melalaikannya hingga ia terputus,
+6:8:4 tatkala kamu sedang mendaki tanjakan yang terjal.
 
-6:9:1 Jangan membiasakan diri menunda pengisian bahan bakar hingga jarumnya rebah di garis merah;
-6:9:2 sebab tangki yang dibiarkan kering menghisap endapan hanya akan merusak jantung pompa mesinmu.
+6:9:1 Dan janganlah kamu membiasakan diri menunda pengisian bahan bakar hingga jarum penunjuknya rebah di garis merah;
+6:9:2 karena sesungguhnya tangki yang dibiarkan kering menghisap endapan itu akan merusakkan pompa mesinmu.
 
-6:10:1 Seusai menembus guyuran hujan di jalan raya,
-6:10:2 guyurlah tungganganmu dengan air sumur yang tawar sebelum masuk ke beranda;
-6:10:3 agar asamnya air langit tak menggerogoti besi menjadi karat.
+6:10:1 Maka apabila kamu baru saja tiba dari menembus guyuran hujan di jalanan,
+6:10:2 guyurlah tungganganmu itu dengan air tawar yang bersih sebelum kamu memasukkannya ke beranda;
+6:10:3 supaya sifat asam dari air hujan itu tidak menggerogoti besinya menjadi karat.
 
-6:11:1 Anak kunci cadangan tungganganmu simpanlah terpisah di dalam laci lemari rumah;
-6:11:2 jangan kau satukan pada gantungan yang sama dengan kunci utama,
-6:11:3 sebab bila terjatuh di jalan, hilanglah kedua tumpuanmu sekaligus.
+6:11:1 Dan simpanlah anak kunci cadangan tungganganmu di tempat yang terpisah di dalam lemari rumahmu;
+6:11:2 dan janganlah kamu menggabungkannya pada satu ikatan yang sama dengan kunci utamamu,
+6:11:3 sebab apabila ikatan itu terjatuh di jalan, niscaya lenyaplah kedua tumpuanmu sekaligus.
 
 ---
 
 ## Bab 7: Pekerjaan, Waktu, dan Disiplin Pagi
 
-7:1:1 Bangunlah saat fajar menyingsing dan bukalah daun jendela;
-7:1:2 sebab barang siapa terlelap hingga matahari meninggi, niscaya rezekinya lebih dulu dipatok unggas pagi.
+7:1:1 Bangunlah kamu tatkala fajar menyingsing dan bukalah daun-daun jendelamu;
+7:1:2 karena sesungguhnya barang siapa terus terlelap hingga matahari meninggi, niscaya bagian rezekinya telah lebih dulu dipatok oleh unggas pagi.
 
-7:2:1 Bila janji telah terikat pada pukul tujuh pagi,
-7:2:2 hadirkanlah dirimu sebelum lonceng berdentang;
-7:2:3 sebab terlambat lima menit ataupun satu jam, keduanya tetaplah ingkar pada waktu.
+7:2:1 Dan apabila kamu telah mengikat perjanjian waktu pada pukul tujuh pagi,
+7:2:2 maka hadirkanlah dirimu sebelum lonceng waktu itu berdentang;
+7:2:3 karena sesungguhnya terlambat lima menit maupun terlambat satu jam, kedua-duanya adalah perbuatan menyalahi janji.
 
-7:3:1 Tunaikanlah pekerjaanmu dengan dada yang lapang dan ikhlas;
-7:3:2 sebab bekerja sambil menggerutu hanya menyisakan letih di raga,
-7:3:3 sementara berkah dan ketenangan batinnya terbang entah ke mana.
+7:3:1 Dan kerjakanlah urusan penghidupanmu dengan dada yang lapang lagi ikhlas;
+7:3:2 sebab barang siapa bekerja sambil menggerutu, tiadalah yang ia peroleh melainkan keletihan belaka,
+7:3:3 sedangkan keberkahan dan ketenangan hatinya lenyap darinya.
 
-7:4:1 Bila penunjuk waktu di dinding berhenti berdetak,
-7:4:2 gantilah dayanya dan jangan sekadar kau tatap termangu;
-7:4:3 sebab jarum jam boleh mati, namun waktu tak pernah berhenti menunggumu.
+7:4:1 Dan apabila penunjuk waktu pada dinding rumahmu telah berhenti berdetak,
+7:4:2 maka gantilah batu dayanya dan janganlah kamu hanya menatapnya dengan termangu;
+7:4:3 karena sesungguhnya jarum jam itu dapat berhenti, sedangkan putaran waktu tiada pernah berhenti menunggumu.
 
-7:5:1 Semirlah alas kakimu sejak malam dan siapkan pakaianmu sejak petang;
-7:5:2 agar pagi harimu diawali dengan langkah yang tenang,
-7:5:3 bukan dengan kepanikan yang mengacaukan pikiran,
-7:5:4 hingga tertinggal barang-barang penting di meja rumah.
+7:5:1 Maka bersihkanlah alas kakimu sejak waktu malam dan siapkanlah pakaianmu sejak waktu petang;
+7:5:2 supaya kamu dapat melangkah keluar pada pagi hari dengan hati yang tenang,
+7:5:3 bukanlah dengan ketergesa-gesaan yang mengacaukan pikiranmu,
+7:5:4 sehingga tertinggal barang-barang keperluanmu di atas meja.
 
-7:6:1 Selesaikanlah tanggungan kerja hari ini sebelum matahari terbenam;
-7:6:2 sebab menumpuk beban untuk esok hari bukanlah meringankan pundak,
-7:6:3 melainkan mengundang gelisah ke dalam mimpi tidurmu.
+7:6:1 Dan selesaikanlah tanggungan pekerjaanmu pada hari ini sebelum matahari terbenam;
+7:6:2 karena sesungguhnya menumpuk pekerjaan untuk hari esok itu bukanlah meringankan beban pundakmu,
+7:6:3 melainkan mendatangkan kegelisahan ke dalam tidur malammu.
 
-7:7:1 Kala tanganmu sedang bekerja, janganlah matamu sebentar-sebentar melirik jarum jam;
-7:7:2 sebab kian kerap engkau menghitung detik yang berjalan, kian terasa lambat waktu merangkak menuju petang.
+7:7:1 Dan tatkala kedua tanganmu sedang bekerja, janganlah pandanganmu sebentar-sebentar melirik ke arah penunjuk waktu;
+7:7:2 sebab semakin kerap kamu menghitung detik yang berjalan, semakin terasa lambat waktu itu merangkak menuju petang.
 
-7:8:1 Gunakanlah jeda istirahat siang untuk mengisi perut dan meluruskan punggung sejenak;
-7:8:2 jangan kau habiskan berkelana tak tentu arah,
-7:8:3 hingga lalai kembali saat lonceng kerja berbunyi lagi.
+7:8:1 Dan pergunakanlah waktu istirahat siangmu untuk menyantap makanan dan meluruskan punggungmu sejenak;
+7:8:2 dan janganlah kamu menghabiskannya untuk berkelana tanpa tujuan,
+7:8:3 sehingga kamu terlambat kembali tatkala waktu bekerja telah tiba.
 
-7:9:1 Ketahuilah bahwa manusia yang cerdas berlimpah ruah di muka bumi,
-7:9:2 namun mereka yang teguh memegang disiplin dan menepati jadwalnya,
-7:9:3 adalah permata langka yang selalu dicari di mana saja.
+7:9:1 Ketahuilah bahwasanya orang-orang yang pandai itu amatlah banyak jumlahnya di muka bumi,
+7:9:2 akan tetapi orang-orang yang teguh menjaga kedisiplinan serta menepati waktunya,
+7:9:3 merekalah yang paling dicari lagi dipercaya di dalam setiap urusan.
 
-7:10:1 Saat melangkah pulang dari tempat bekerja, bawalah serta ilmu dan upahmu;
-7:10:2 namun tinggalkanlah segala keruwetan kantor di atas meja kerjamu,
-7:10:3 jangan kau bawa masuk hingga ke atas kasur peraduanmu.
+7:10:1 Dan apabila kamu melangkah pulang dari tempatmu bekerja, maka bawalah pulang ilmu serta hasil upahmu;
+7:10:2 akan tetapi tinggalkanlah segala kesempitan urusan pekerjaanmu di atas meja kerjamu,
+7:10:3 dan janganlah kamu membawanya masuk hingga ke atas tilam peraduanmu.
 
-7:11:1 Pasanglah satu dering pengingat bangun pagi lalu segeralah bangkit duduk;
-7:11:2 jangan memasang sepuluh dering beruntun setiap lima menit,
-7:11:3 yang hanya kau matikan satu demi satu dalam kantuk.
+7:11:1 Dan pasanglah satu dering pengingat waktu bangunmu, lalu bersegeralah kamu bangkit duduk;
+7:11:2 dan janganlah kamu memasang sepuluh dering pengingat secara beruntun,
+7:11:3 yang hanya kamu bungkam satu demi satu di dalam selimut kemalasanmu.
 
-7:12:1 Apabila engkau belum memahami tugas baru di tempatmu bekerja,
-7:12:2 bertanyalah dengan santun kepada mereka yang lebih berpengalaman;
-7:12:3 sebab berpura-pura mengerti adalah awal dari pekerjaan yang berantakan.
+7:12:1 Dan apabila diserahkan kepadamu suatu urusan pekerjaan yang belum kamu pahami ilmunya,
+7:12:2 maka bertanyalah dengan sopan kepada orang-orang yang lebih dahulu berpengalaman daripadamu;
+7:12:3 karena sesungguhnya berpura-pura mengetahui itu adalah pangkal dari kerusakan pekerjaan.
 
-7:13:1 Luangkanlah lima menit sebelum pulang untuk merapikan meja tempatmu mencari nafkah;
-7:13:2 agar esok pagi saat engkau datang kembali,
-7:13:3 pikiranmu disambut oleh kerapian yang menjernihkan akal.
+7:13:1 Dan luangkanlah waktumu barang sejenak sebelum pulang untuk merapikan meja tempatmu mencari nafkah;
+7:13:2 supaya tatkala kamu datang kembali pada esok paginya,
+7:13:3 hatimu disambut oleh keteraturan yang menjernihkan pikiranmu.
 
-7:14:1 Janganlah mengarang alasan sakit hanya karena engkau malas beranjak dari kasur;
-7:14:2 sebab kelak tatkala ragamu benar-benar terbaring demam,
-7:14:3 tiada lagi kawan dan atasan yang mempercayai ucapanmu.
+7:14:1 Dan janganlah sekali-kali kamu mengada-adakan alasan sakit hanya karena kamu merasa berat beranjak dari kasurmu;
+7:14:2 sebab dikhawatirkan apabila kelak jasadmu benar-benar ditimpa demam,
+7:14:3 tiada seorang pun di antara kawan dan pemimpinmu yang mempercayai perkataanmu.
 
-7:15:1 Gunakanlah petang di hari Minggu untuk beristirahat menghimpun tenaga di rumah,
-7:15:2 agar hari Seninmu disambut dengan raga yang bugar dan siap bekerja.
+7:15:1 Maka jadikanlah waktu petang pada hari Ahad itu sebagai waktu beristirahat menghimpun kekuatan di dalam rumahmu,
+7:15:2 supaya kamu menyongsong hari Senin dengan raga yang segar lagi siap berusaha.
 
 ---
 
 ## Bab 8: Mencari Nafkah dan Keberkahan Rezeki
 
-8:1:1 Ketahuilah bahwa peluh orang yang mencari nafkah itu berasa asin;
-8:1:2 maka janganlah engkau heran bila perjalanan hidup tak selamanya menyuguhkan rasa manis.
+8:1:1 Ketahuilah olehmu bahwasanya peluh orang yang mencari nafkah itu asin rasanya;
+8:1:2 maka janganlah kamu merasa heran apabila kehidupan dunia ini tidak selamanya menyuguhkan rasa manis kepadamu.
 
-8:2:1 Takaran rezeki memang telah digariskan oleh Sang Pemilik Semesta,
-8:2:2 namun bila ragamu hanya terbaring malas sepanjang hari,
-8:2:3 keberuntungan pun enggan singgah mengetuk pintu rumahmu.
+8:2:1 Sesungguhnya takaran rezeki tiap-tiap jiwa itu telah ditetapkan oleh Sang Pemilik Semesta,
+8:2:2 akan tetapi apabila kamu hanya membaringkan diri dalam kemalasan sepanjang hari,
+8:2:3 niscaya karunia itu pun enggan singgah mengetuk pintu rumahmu.
 
-8:3:1 Upah yang kecil bila disyukuri dan dikelola dengan bijak,
-8:3:2 kelak mampu berubah menjadi sebidang tanah di kampung halaman;
-8:3:3 sedangkan upah besar yang dihamburkan demi gengsi,
-8:3:4 akan lenyap tak berbekas bagai angin lalu.
+8:3:1 Dan ketahuilah bahwa penghasilan yang sedikit namun disyukuri serta diatur dengan cermat,
+8:3:2 niscaya kelak dapat menjelma menjadi sebidang tanah di kampung halaman;
+8:3:3 adapun penghasilan yang besar namun dihambur-hamburkan demi kemegahan semu,
+8:3:4 maka ia akan lenyap tak berbekas bagaikan debu yang ditiup angin kencang.
 
-8:4:1 Pemimpin yang keras menegur di hadapan mata adalah hal biasa;
-8:4:2 namun waspadalah pada senyum manis yang menyimpan diam,
-8:4:3 yang tiba-tiba menyodorkan surat peringatan di atas mejamu.
+8:4:1 Sesungguhnya pemimpin yang keras suaranya tatkala menegurmu secara terang-terangan adalah perkara yang biasa;
+8:4:2 akan tetapi berhati-hatilah kamu terhadap orang yang tersenyum manis namun menyimpan kemarahan,
+8:4:3 yang tiba-tiba menjatuhkan surat peringatan ke atas mejamu.
 
-8:5:1 Carilah penghidupan dari jalan yang bersih lagi halal;
-8:5:2 meski sedikit yang dibawa pulang ke meja makan,
-8:5:3 ia menghadirkan tidur yang nyenyak tanpa debar ketakutan.
+8:5:1 Maka tuntutlah rezeki itu dari jalan yang baik lagi halal;
+8:5:2 sekalipun sedikit jumlah yang kamu bawa pulang ke meja makanmu,
+8:5:3 sesungguhnya ia mendatangkan tidur yang lelap tanpa rasa takut di dalam dada.
 
-8:6:1 Janganlah engkau malu bekerja keras dengan telapak tangan yang kasar berdebu;
-8:6:2 sebab jauh lebih memalukan mereka yang berpakaian necis nan wangi,
-8:6:3 namun mengisi perutnya dari hasil memperdaya sesama.
+8:6:1 Dan janganlah sekali-kali kamu merasa hina karena bekerja keras dengan telapak tangan yang kasar lagi berdebu;
+8:6:2 karena sesungguhnya jauh lebih hina orang-orang yang mengenakan pakaian indah lagi harum,
+8:6:3 namun mereka mengisi perutnya dengan memakan harta sesamanya secara batil.
 
-8:7:1 Tatkala upah bulanan baru saja singgah di genggaman tanganmu,
-8:7:2 sisihkanlah lebih dulu bagian untuk orang tua dan simpanan masa darurat;
-8:7:3 barulah sisanya kau atur dengan cermat untuk mengepulkan asap dapur.
+8:7:1 Dan apabila upah bulananmu telah sampai ke dalam genggaman tanganmu,
+8:7:2 maka sisihkanlah terlebih dahulu hak bagi kedua orang tuamu serta simpanan untuk masa kesempitanmu;
+8:7:3 kemudian barulah sisanya kamu belanjakan secara patut untuk mencukupi kebutuhan dapurmu.
 
-8:8:1 Janganlah menyempitkan makna rezeki hanya pada deretan angka di lembar gaji;
-8:8:2 sebab raga yang bugar, anak-anak yang tumbuh berbudi,
-8:8:3 serta tetangga yang rukun damai,
-8:8:4 adalah karunia rezeki agung yang tak ternilai harganya.
+8:8:1 Dan janganlah kamu menyempitkan arti rezeki itu hanya pada bilangan angka di dalam lembar upahmu;
+8:8:2 karena sesungguhnya kesehatan badanmu, anak-anak yang tumbuh dalam kebaikan budi,
+8:8:3 serta tetangga yang hidup rukun bersamamu,
+8:8:4 semuanya itu adalah karunia rezeki yang amat besar nilainya.
 
-8:9:1 Palingkanlah matamu dari kebiasaan membandingkan isi amplop gajimu dengan milik kawanmu;
-8:9:2 sebab kita tak pernah tahu seberapa berat beban tanggungan di atas pundak mereka.
+8:9:1 Dan janganlah kamu memanjangkan pandangan matamu untuk membanding-bandingkan upahmu dengan upah kawan-kawanmu;
+8:9:2 karena sesungguhnya kamu tiada mengetahui seberapa berat beban tanggungan yang dipikulkan ke atas pundak mereka.
 
-8:10:1 Melangkah keluar rumah saat fajar dan kembali saat senja turun adalah ibadah yang mulia,
-8:10:2 apabila diniatkan tulus demi menghidupi keluarga;
-8:10:3 sebab setiap tetes lelahmu hari ini akan menjelma senyuman di meja makan.
+8:10:1 Ketahuilah bahwa melangkah keluar saat fajar dan kembali pulang saat senja adalah ibadah yang agung,
+8:10:2 apabila kamu meniatkannya dengan tulus untuk mencukupi nafkah keluargamu;
+8:10:3 maka setiap tetes keletihanmu pada hari ini akan diganti dengan senyuman di meja makanmu.
 
-8:11:1 Bila engkau berniaga di pasar atau membuka warung, jujurlah dalam menakar timbangan;
-8:11:2 mengurangi satu ons takkan membuatmu kaya raya,
-8:11:3 namun sanggup mengusir keberkahan dari lapak daganganmu.
+8:11:1 Dan apabila kamu berniaga di pasar atau membuka kedai, maka sempurnakanlah takaran dan timbanganmu dengan adil;
+8:11:2 sesungguhnya mengurangi timbangan barang sedikit tidaklah akan menjadikanmu kaya,
+8:11:3 melainkan hanya akan mencabut keberkahan dari perniagaanmu.
 
-8:12:1 Jangan mudah melompat pindah dari satu pekerjaan ke pekerjaan lain hanya karena silau rumput seberang;
-8:12:2 sebab setiap ladang pencarian nafkah memiliki terik dan letihnya masing-masing.
+8:12:1 Dan janganlah kamu mudah berpindah-pindah dari satu ladang pekerjaan ke ladang yang lain hanya karena tergiur pandangan semata;
+8:12:2 sebab pada tiap-tiap tempat mencari penghidupan itu pasti ada terik dan keletihannya masing-masing.
 
-8:13:1 Harta panas yang didapat dari jalan pintas yang curang memang cepat datangnya,
-8:13:2 namun cepat pula menguapnya,
-8:13:3 sembari meninggalkan bara masalah baru di dalam rumahmu.
+8:13:1 Sesungguhnya harta yang panas yang diperoleh dari jalan kecurangan itu memang cepat datangnya,
+8:13:2 akan tetapi amat cepat pula lenyapnya,
+8:13:3 seraya meninggalkan bara bencana di dalam rumah tanggamu.
 
 ---
 
 ## Bab 9: Hutang, Piutang, dan Janji Bayar
 
-9:1:1 Perhatikanlah tabiat manusia kala datang meminjam harta:
-9:1:2 wajahnya tunduk memelas bagai kucing basah diterpa hujan,
-9:1:3 namun saat tiba masa penagihan, suaranya lebih garang daripada sang pemilik harta.
+9:1:1 Tidakkah kamu memperhatikan tingkah laku sebagian manusia tatkala mereka datang hendak berhutang?
+9:1:2 Wajah mereka tertunduk memelas bagaikan kucing yang basah diguyur hujan,
+9:1:3 namun tatkala tiba waktu penagihan, suara mereka lebih keras lagi garang daripada pemilik harta itu sendiri.
 
-9:2:1 Bila isi kantongmu sedang setipis kulit bawang,
-9:2:2 janganlah memaksakan diri duduk bergaya di kedai mewah;
-9:2:3 sebab kemewahan semu itu hanya bertahan sehari,
-9:2:4 namun beban hutangnya membuntutimu hingga tua.
+9:2:1 Dan apabila perbendaharaan saku celanamu sedang tipis lagi sempit,
+9:2:2 maka janganlah kamu memaksakan diri duduk bermegah-megahan di kedai yang mahal;
+9:2:3 karena sesungguhnya kemegahan yang semu itu hanyalah bertahan sehari,
+9:2:4 sedangkan beban hutangnya akan membuntutimu sampai hari tua.
 
-9:3:1 Saat engkau mengulurkan pinjaman uang kepada seorang kawan,
-9:3:2 siapkanlah hatimu menghadapi dua kemungkinan pahit:
-9:3:3 kehilangan keping hartamu, atau kehilangan batang hidung kawanmu.
+9:3:1 Dan ketahuilah bahwa tatkala kamu mengulurkan pinjaman harta kepada kawanmu,
+9:3:2 maka siapkanlah hatimu untuk menghadapi salah satu dari dua kepahitan:
+9:3:3 lenyapnya harta yang kamu pinjamkan itu, atau lenyapnya kawanmu dari pandangan matamu.
 
-9:4:1 Kalimat sakti "akan kubayar seusai gajian nanti",
-9:4:2 tanpa pernah menyebut tanggal dan purnama yang pasti, adalah janji paling fana di kolong langit ini.
+9:4:1 Sesungguhnya perkataan "akan kulunasi setelah turunnya upah nanti",
+9:4:2 tanpa menyebutkan hari dan bulan yang terang, adalah janji yang paling semu di muka bumi ini.
 
-9:5:1 Bila keadaan memaksamu berhutang, catatlah dengan terang dan cicillah sebelum diminta;
-9:5:2 sebab manusia yang menjaga kehormatan janjinya,
-9:5:3 akan dipercaya namanya sepanjang usia.
+9:5:1 Maka apabila kesempitan hidup memaksamu untuk berhutang, hendaklah kamu menulisnya dan mencicilnya sebelum kamu ditagih;
+9:5:2 karena sesungguhnya orang yang menepati janji hutangnya,
+9:5:3 niscaya akan terpelihara kehormatan namanya sepanjang umurnya.
 
-9:6:1 Jangan sekali-kali engkau menutup lubang hutang lama dengan menggali pinjaman berbunga mencekik;
-9:6:2 sebab pada mulanya ia tampak bagai pelampung penyelamat,
-9:6:3 namun pada akhirnya ia melilit leher hingga sesak napasmu.
+9:6:1 Dan janganlah sekali-kali kamu menutup lubang hutang yang lama dengan menggali pinjaman baru yang berlipat ganda bunganya;
+9:6:2 karena sesungguhnya pada mulanya ia tampak bagaikan pertolongan bagimu,
+9:6:3 padahal pada akhirnya ia adalah jerat yang mencekik lehermu sendiri.
 
-9:7:1 Apabila saat jatuh tempo tiba namun tanganmu belum sanggup melunasi janji,
-9:7:2 datanglah menghadap dengan rendah hati dan sampaikan keadaanmu secara jujur;
-9:7:3 jangan memutus sambungan pesan,
-9:7:4 apalagi bersembunyi memutar jalan kala berpapasan.
+9:7:1 Dan apabila telah tiba batas waktu pembayaran sedangkan tanganmu belum sanggup melunasinya,
+9:7:2 maka datanglah kamu menemui pemberi hutang itu dengan rendah hati dan terangkanlah keadaanmu dengan jujur;
+9:7:3 dan janganlah kamu memutus tali hubungan pesan,
+9:7:4 dan jangan pula kamu bersembunyi memalingkan langkah tatkala berpapasan di jalan.
 
-9:8:1 Meminjam harta karena darurat pengobatan atau menyambung modal usaha adalah hal yang dimaklumi;
-9:8:2 namun berhutang demi pelesiran mewah dan memamerkan potret kesenangan,
-9:8:3 adalah penyakit hati yang merusak masa depanmu sendiri.
+9:8:1 Sesungguhnya berhutang karena darurat pengobatan atau untuk menyambung modal perniagaan adalah perkara yang dimaklumi;
+9:8:2 akan tetapi berhutang demi pelesiran dan memamerkan kemewahan,
+9:8:3 sungguh yang demikian itu adalah penyakit hati yang membinasakan masa depanmu.
 
-9:9:1 Barang siapa masih menggantung hutang yang belum lunas pada sesamanya,
-9:9:2 namun setiap hari memamerkan santapan lezat di jagat maya,
-9:9:3 sesungguhnya ia sedang menguji batas kesabaran orang yang menolongnya.
+9:9:1 Dan barang siapa masih menanggung hutang yang belum dilunasinya kepada sesamanya,
+9:9:2 sedangkan ia tiada henti memamerkan santapan mewah di hadapan khalayak,
+9:9:3 maka sesungguhnya ia sedang menguji kesabaran orang yang telah berbuat baik kepadanya.
 
-9:10:1 Ketahuilah bahwa selelap-lelapnya tidur manusia di malam hari,
-9:10:2 adalah berbaring di atas tilam sederhana tanpa beban hutang,
-9:10:3 dan tanpa rasa cemas akan ketukan penagih di pintu esok pagi.
+9:10:1 Ketahuilah bahwa senyenyak-nyenyaknya tidur seorang manusia pada malam hari,
+9:10:2 adalah tidur di atas hamparan kasur yang sederhana tanpa tanggungan hutang,
+9:10:3 dan tanpa rasa takut akan ketukan penagih di pintu rumahnya pada esok pagi.
 
-9:11:1 Jangan mudah terbuai oleh bujukan "beli hari ini, bayar bulan depan";
-9:11:2 sebab pergantian purnama datangnya secepat kedipan mata.
+9:11:1 Dan janganlah kamu terperdaya oleh bujuk rayu "ambillah barang ini sekarang dan bayarlah pada bulan hadapan";
+9:11:2 karena sesungguhnya datangnya bulan hadapan itu hanyalah secepat kedipan mata.
 
-9:12:1 Apabila kawan lama yang bertahun-tahun tak terdengar kabarnya mendadak menyapa dengan ramah,
-9:12:2 sambutlah dengan hangat namun siapkanlah jawaban bijak di dalam dadamu.
+9:12:1 Dan apabila seorang kawan lama yang telah bertahun-tahun tiada terdengar beritanya tiba-tiba menyapamu dengan amat manis,
+9:12:2 maka jawablah sapaannya dengan baik, akan tetapi siapkanlah keteguhan hati di dalam dadamu.
 
-9:13:1 Jangan pernah merelakan namamu tertulis sebagai penjamin hutang orang lain,
-9:13:2 apabila pundakmu sendiri tak sangup memikul cicilannya,
-9:13:3 tatkala sang peminjam melarikan diri dari tanggung jawabnya.
+9:13:1 Dan janganlah sekali-kali kamu menyerahkan namamu sebagai penjamin bagi hutang orang lain,
+9:13:2 apabila pundakmu sendiri tiada sanggup memikul beban pembayarannya,
+9:13:3 tatkala orang yang berhutang itu berpaling lari dari tanggung jawabnya.
 
-9:14:1 Hutang seribu perak di warung tetangga tetaplah hutang yang tercatat di langit;
-9:14:2 jangan menganggapnya lunas dengan sendirinya hanya karena sang pemilik warung enggan menagihmu.
+9:14:1 Ketahuilah bahwa hutang seribu perak di warung tetanggamu itu tetaplah hutang yang tercatat dengan nyata;
+9:14:2 maka janganlah kamu menganggapnya gugur dengan sendirinya hanya karena pemilik warung itu segan menagihmu.
 
-9:15:1 Bila hendak menolong kawan yang gemar berhutang dan sukar membayar,
-9:15:2 berikanlah sekadar kemampuanmu sebagai sedekah yang ikhlas;
-9:15:3 agar hatimu tak mendongkol menunggu pengembalian yang tak kunjung tiba.
+9:15:1 Dan apabila kamu hendak menolong seorang kawan yang telah dikenal sukar mengembalikan pinjaman,
+9:15:2 maka berikanlah kepadanya sekadar kerelaan hatimu sebagai pemberian sedekah;
+9:15:3 supaya dadamu tidak menjadi sempit karena menanti pengembalian yang tiada kunjung tiba.
 
-9:16:1 Jauh lebih terhormat menggenggam gawai tua yang retak sudut kacanya namun telah lunas dibayar,
-9:16:2 daripada memamerkan gawai keluaran terbaru,
-9:16:3 namun setiap akhir bulan bersembunyi dari ketukan penagih cicilan.
+9:16:1 Sungguh, jauh lebih mulia orang yang menggenggam gawai tua yang retak kacanya namun telah lunas pembayarannya,
+9:16:2 daripada orang yang membanggakan gawai keluaran terbaru,
+9:16:3 sedangkan pada tiap-tiap akhir bulan ia bersembunyi ketakutan dari kedatangan penagih.
 
 ---
 
 ## Bab 10: Meja Makan dan Butir Nasi Terakhir
 
-10:1:1 Habiskanlah setiap butir nasi yang tersaji di piringmu;
-10:1:2 ingatlah betapa berbulan-bulan petani membungkuk di lumpur sawah,
-10:1:3 maka janganlah kau sia-siakan jerih payah itu di tempat sampah.
+10:1:1 Maka habiskanlah tiap-tiap butir nasi yang telah terhidang di atas piringmu;
+10:1:2 dan ingatlah betapa berbulan-bulan lamanya para petani membungkukkan punggungnya di lumpur sawah,
+10:1:3 maka janganlah kamu mencampakkan hasil jerih payah mereka itu ke tempat pembuangan dengan sia-sia.
 
-10:2:1 Kala mulutmu sedang mengunyah rezeki di meja makan,
-10:2:2 tahanlah lidahmu dari perbincangan yang panjang;
-10:2:3 sebab tersedak sebutir nasi saja mampu menggemparkan seisi rumah.
+10:2:1 Dan tatkala mulutmu sedang mengunyah karunia makanan di meja perjamuan,
+10:2:2 maka tahanlah lisanmu dari memperpanjang perbincangan;
+10:2:3 karena sesungguhnya tersedak oleh sebutir nasi saja sudah cukup untuk menggemparkan seisi rumahmu.
 
-10:3:1 Tak perlu engkau bingung mencari hidangan apa yang paling lezat;
-10:3:2 sebab sebaik-baiknya bumbu dan selezat-lezatnya lauk di dunia ini adalah rasa lapar di perutmu.
+10:3:1 Dan janganlah kamu bingung mencari-cari hidangan apakah yang paling lezat rasanya;
+10:3:2 karena sesungguhnya sebaik-baik bumbu dan selezat-lezat hidangan di muka bumi ini tiada lain hanyalah rasa lapar di dalam perutmu.
 
-10:4:1 Jangan sekali-kali lidahmu mencela masakan ibumu kurang garam;
-10:4:2 sebab bila engkau sendiri yang berdiri memegang spatula di depan tungku,
-10:4:3 niscaya hanguslah seluruh isi wajan itu.
+10:4:1 Dan janganlah sekali-kali lisanmu mencela masakan ibumu dengan mengatakan kurang asin rasanya;
+10:4:2 sebab sekiranya kamu sendiri yang diserahi urusan memasak di hadapan tungku api,
+10:4:3 niscaya hanguslah seluruh apa yang ada di dalam kuali itu.
 
-10:5:1 Saat keluarga berkumpul mengelilingi meja makan,
-10:5:2 letakkanlah gawai dari genggaman tanganmu;
-10:5:3 sebab hangat nasi dan wajah keluargamu jauh lebih nyata daripada kerlip layar kaca.
+10:5:1 Dan apabila keluargamu telah duduk berkumpul mengelilingi meja makan,
+10:5:2 maka letakkanlah gawai yang ada di dalam genggaman tanganmu;
+10:5:3 karena sesungguhnya hangatnya hidangan dan kehadiran keluargamu itu jauh lebih nyata daripada bayang-bayang di dalam layar.
 
-10:6:1 Saat hendak mengambil lauk dari mangkuk perjamuan bersama,
-10:6:2 gunakanlah sendok khusus yang tersedia di tengah meja;
-10:6:3 jangan mencelupkan sendok bekas suapan mulutmu sendiri ke dalam kuah bersama.
+10:6:1 Dan apabila kamu hendak mengambil lauk dari mangkuk perjamuan bersama,
+10:6:2 maka ambillah dengan menggunakan sendok yang telah disediakan di tengah meja;
+10:6:3 dan janganlah kamu mencelupkan sendok bekas suapan mulutmu sendiri ke dalam kuah hidangan bersama.
 
-10:7:1 Kunyahlah santapan dan kerupukmu dengan bibir yang terkatup sopan;
-10:7:2 jangan biarkan bunyi kecap mulutmu menggema nyaring hingga terdengar ke beranda depan.
+10:7:1 Dan kunyahlah makanan serta kerupukmu itu dengan bibir yang terkatup secara patut;
+10:7:2 dan janganlah kamu memperdengarkan bunyi kecap mulutmu dengan nyaring hingga terdengar sampai ke beranda rumah.
 
-10:8:1 Basuhlah kedua tanganmu sebelum menyentuh nasi di bakul,
-10:8:2 dan seusai bersantap, angkatlah sendiri piring kotor bekas makanmu ke tempat pembasuhan;
-10:8:3 jangan langsung bangkit melenggang meninggalkan meja begitu saja.
+10:8:1 Dan basuhlah kedua belah tanganmu sebelum kamu menyentuh hidangan,
+10:8:2 kemudian apabila kamu telah selesai makan, maka angkatlah sendiri piring bekas makanmu itu ke tempat pencucian;
+10:8:3 dan janganlah kamu langsung bangkit berpaling meninggalkan meja begitu saja.
 
-10:9:1 Apabila tersisa sepotong lauk terakhir di atas piring saji,
-10:9:2 tawarkanlah lebih dulu kepada anggota keluarga yang belum sempat bersantap;
-10:9:3 jangan terburu menyambarnya demi memuaskan selera sendiri.
+10:9:1 Dan apabila tinggal tersisa sepotong lauk yang terakhir di atas piring hidangan,
+10:9:2 maka tawarkanlah ia terlebih dahulu kepada keluargamu yang belum sempat menyantap makanan;
+10:9:3 dan janganlah kamu terburu-buru menyambarnya demi memuaskan keinginan perutmu sendiri.
 
-10:10:1 Syukurilah apa pun hidangan yang tersimpan di balik tudung saji hari ini;
-10:10:2 sebab di luar pintu rumah kita,
-10:10:3 masih banyak insan yang menatap langit,
-10:10:4 kebingungan mencari sebutir nasi untuk mengganjal perutnya hari ini.
+10:10:1 Maka syukurilah olehmu apa saja hidangan yang tersaji di bawah tudung saji pada hari ini;
+10:10:2 karena sesungguhnya di luar pintu rumahmu itu,
+10:10:3 masih banyak manusia yang menengadahkan wajahnya dalam kebingungan,
+10:10:4 mencari sebutir makanan untuk mengganjal rasa lapar di perutnya.
 
-10:11:1 Janganlah meniup kuah atau santapan yang masih mendidih dengan napas mulutmu secara keras;
-10:11:2 kipasilah perlahan atau bersabarlah menunggu uap panasnya mereda.
+10:11:1 Dan janganlah kamu meniup kuah atau makanan yang masih mendidih dengan hembusan napas mulutmu;
+10:11:2 melainkan kipasilah ia dengan perlahan atau tunggulah dengan sabar hingga uap panasnya mereda.
 
-10:12:1 Seusai makan bersama, tutuplah kembali tudung saji dengan rapat di atas meja;
-10:12:2 jangan membiarkan lalat datang berpesta di atas rezeki keluarga.
+10:12:1 Dan apabila kamu telah selesai dari perjamuan makan, maka tutuplah kembali tudung saji itu dengan rapat;
+10:12:2 supaya tidak datang kawanan lalat merusak sisa rezeki keluargamu.
 
 ---
 
 ## Bab 11: Kopi Hitam, Teh Panas, dan Gorengan Sore
 
-11:1:1 Seruputlah seduhan kopi hitam selagi uap panasnya mengepul;
-11:1:2 sebab bila telah dingin terlupakan sejak pagi, hilanglah sudah ruh dan kenikmatannya.
+11:1:1 Maka teguklah seduhan kopi hitam itu selagi uap panasnya masih mengepul;
+11:1:2 karena sesungguhnya apabila ia telah dingin terbiarkan sejak waktu pagi, niscaya lenyaplah sudah kenikmatannya.
 
-11:2:1 Ketahuilah bahwa bakwan yang paripurna kenikmatannya,
-11:2:2 adalah yang tepiannya garing berderak kala digigit,
-11:2:3 dan disantap hangat sesaat setelah diangkat dari kuali.
+11:2:1 Ketahuilah bahwasanya sebaik-baik kudapan bakwan yang sempurna rasanya,
+11:2:2 adalah yang garing berderak tepiannya tatkala dikunyah,
+11:2:3 dan disantap selagi hangat sesaat setelah diangkat dari minyak penggorengan.
 
-11:3:1 Bila kepalamu mulai berat dihimpit seribu pikiran dunia,
-11:3:2 seduhlah teh panas pekat dengan sebutir gula batu;
-11:3:3 niscaya manis dan hangatnya menjadi penawar paling mujarab.
+11:3:1 Dan apabila kepalamu terasa berat karena memikirkan rupa-rupa urusan dunia,
+11:3:2 maka seduhlah air teh panas yang pekat bersama sebutir gula batu;
+11:3:3 sesungguhnya pada rasa manis dan hangatnya itu terdapat penawar yang menenangkan.
 
-11:4:1 Ambillah kudapan gorengan dan letakkan di piringmu sendiri;
-11:4:2 janganlah tanganmu menyambar diam-diam dari piring ayahmu,
-11:4:3 tatkala pandangannya sedang lengah menatap jalanan.
+11:4:1 Dan apabila kamu hendak mengambil gorengan, maka letakkanlah ia terlebih dahulu di atas piringmu sendiri;
+11:4:2 dan janganlah tanganmu menyambar secara sembunyi-sembunyi dari atas piring bapakmu,
+11:4:3 tatkala pandangannya sedang berpaling ke arah jalanan.
 
-11:5:1 Duduk bersandar di beranda sore ditemani teh hangat dan pisang goreng,
-11:5:2 adalah kemewahan hidup yang menenteramkan jiwa,
-11:5:3 yang takkan pernah bisa kau beli di pusat perbelanjaan mana pun.
+11:5:1 Sesungguhnya duduk bersandar di beranda rumah pada waktu petang ditemani teh hangat dan pisang goreng,
+11:5:2 adalah karunia ketenteraman hidup yang amat besar,
+11:5:3 yang tiada akan sanggup kamu tebus di pusat perbelanjaan mana pun.
 
-11:6:1 Aduklah kopi tubruk dengan perlahan lalu biarkan sejenak hingga bubuknya mengendap ke dasar cangkir;
-11:6:2 jangan tergesa menyeruputnya selagi keruh berputar,
-11:6:3 agar ampas hitamnya tak menempel menghiasi deretan gigimu.
+11:6:1 Dan aduklah seduhan kopi tubruk itu dengan perlahan, kemudian biarkanlah sejenak hingga mengendap ampasnya ke dasar cangkir;
+11:6:2 dan janganlah kamu tergesa-gesa meneguknya selagi bubuknya masih berputar keruh,
+11:6:3 supaya tidak menempel ampas hitam itu pada deretan gigimu.
 
-11:7:1 Saat menyantap tahu isi yang baru diangkat dari minyak mendidih,
-11:7:2 gigitlah sedikit sudutnya lalu hembuskan napas penyejuk perlahan;
-11:7:3 jangan langsung kau lahap bulat-bulat hingga melepuh lidahmu.
+11:7:1 Dan tatkala kamu menyantap tahu isi yang baru saja diangkat dari kuali yang mendidih,
+11:7:2 maka gigitlah sedikit pada sudutnya dan keluarkanlah uap panasnya dengan perlahan;
+11:7:3 dan janganlah kamu langsung melahapnya bulat-bulat sehingga melepuh lidahmu.
 
-11:8:1 Pilihlah cabai rawit yang masih hijau muda sebagai pengiring kudapan sore;
-11:8:2 sebab bila tak sengaja tergigit yang tua membara, pedasnya membakar hingga ke daun telingamu.
+11:8:1 Dan pilihlah cabai rawit yang masih hijau lagi muda sebagai pengiring kudapan soremu;
+11:8:2 sebab apabila tergigit olehmu cabai yang telah tua membara, niscaya rasa pedasnya membakar sampai ke telingamu.
 
-11:9:1 Tutup cangkir yang bertengger di atas gelas kopi ayahmu,
-11:9:2 dipasang untuk menghalau lalat yang hendak singgah,
-11:9:3 bukanlah pertanda bahwa seduhan kopi itu telah selesai diminum.
+11:9:1 Ketahuilah bahwa tutup cangkir yang diletakkan di atas gelas kopi bapakmu itu,
+11:9:2 tiada lain hanyalah untuk menghalau lalat yang hendak hinggap di atasnya,
+11:9:3 dan bukanlah sekali-kali sebagai pertanda bahwa kopi itu telah selesai diminum.
 
-11:10:1 Kala hujan sore turun membasahi dedaunan di halaman,
-11:10:2 sepiring singkong rebus yang mengepul hangat adalah sahabat terbaik;
-11:10:3 murah harganya di pasar,
-11:10:4 namun sanggup menghangatkan perbincangan keluarga sepanjang petang.
+11:10:1 Dan apabila turun hujan pada waktu petang membasahi pekarangan rumahmu,
+11:10:2 maka sepiring singkong rebus yang mengepul hangat itulah sebaik-baik teman dudukmu;
+11:10:3 sungguh ringan harganya di pasar,
+11:10:4 namun ia sanggup menghangatkan perbincangan keluargamu sepanjang petang.
 
-11:11:1 Air untuk menyeduh kopi tubruk wajiblah mendidih bergolak sempurna;
-11:11:2 sebab bila airnya hanya hangat tanggung,
-11:11:3 bubuk kopinya akan mengapung enggan turun ke dasar gelas.
+11:11:1 Dan hendaklah air yang kamu gunakan untuk menyeduh kopi tubruk itu benar-benar mendidih dengan sempurna;
+11:11:2 sebab apabila air itu hanyalah hangat semata,
+11:11:3 niscaya bubuk kopinya akan tetap mengapung enggan turun ke dasar gelas.
 
-11:12:1 Tempe mendoan yang sejati digoreng setengah matang selagi tepungnya lembut basah,
-11:12:2 lalu dicocol ke dalam sambal kecap bercabai rawit;
-11:12:3 bukan digoreng garing hingga keras menyerupai keripik.
+11:12:1 Sesungguhnya tempe mendoan yang sejati itu diangkat selagi balutan tepungnya masih lembut lagi hangat,
+11:12:2 kemudian dicelupkan ke dalam kecap pedas bercabai rawit;
+11:12:3 dan bukanlah ia digoreng hingga kering mengeras bagaikan keripik.
 
-11:13:1 Mengambil lima potong gorengan di warung namun mengaku hanya makan tiga saat membayar,
-11:13:2 bukanlah kecerdikan berhemat, melainkan kelancangan yang menghilangkan berkah.
+11:13:1 Dan barang siapa mengambil lima potong gorengan di kedai lalu ia mengaku hanya memakan tiga potong tatkala membayar,
+11:13:2 maka yang demikian itu bukanlah penghematan, melainkan perbuatan curang yang melenyapkan keberkahan.
 
-11:14:1 Kantong teh celup cukuplah dicelupkan tiga atau empat kali ke dalam air panas lalu diangkat;
-11:14:2 jangan dibiarkan terendam hingga petang, agar rasanya tak berubah kelat bagai jamu.
+11:14:1 Dan adapun kantong teh celup itu, maka cukuplah kamu celupkan tiga atau empat kali ke dalam air panas lalu angkatlah ia;
+11:14:2 dan janganlah kamu membiarkannya terendam hingga waktu petang, supaya tidak berubah rasanya menjadi kelat bagaikan jamu.
 
-11:15:1 Janganlah menenggak kopi hitam pekat selepas pukul delapan malam,
-11:15:2 bila engkau tak ingin terjaga menghitung cicak di langit-langit kamar hingga subuh tiba.
+11:15:1 Dan janganlah kamu meminum kopi hitam yang pekat setelah lewat pukul delapan malam,
+11:15:2 jika kamu tidak ingin matamu terus terjaga menghitung cicak di langit-langit kamar hingga waktu subuh.
 
-11:16:1 Pisang kepok yang kulitnya telah berbintik hitam janganlah kau sangka busuk tak berguna;
-11:16:2 sebab justru pada saat itulah dagingnya paling manis bila dibalut tepung dan digoreng hangat.
+11:16:1 Dan janganlah kamu menyangka pisang kepok yang telah berbintik hitam kulitnya itu telah busuk lagi sia-sia;
+11:16:2 karena sesungguhnya pada saat itulah buahnya paling manis rasanya apabila digoreng dengan tepung.
 
-11:17:1 Noda kecokelatan yang membekas di dasar cangkir kopi kesayangan ayahmu,
-11:17:2 janganlah kau gosok paksa dengan pasir kasar;
-11:17:3 sebab itulah prasasti sejarah dari ribuan pagi yang telah dilalui.
+11:17:1 Dan noda kecokelatan yang telah melekat di dasar cangkir kopi kesayangan bapakmu,
+11:17:2 janganlah sekali-kali kamu menggosoknya secara paksa dengan pasir maupun kawat kasar;
+11:17:3 karena sesungguhnya itulah jejak peninggalan dari ribuan pagi yang telah dilalui.
 
-11:18:1 Apabila ada tamu yang singgah bertandang ke beranda rumah di sore hari,
-11:18:2 suguhkanlah setidaknya segelas teh hangat manis;
-11:18:3 sebab memuliakan tamu tak harus menunggu tersedianya kue-kue mewah di meja.
+11:18:1 Dan apabila datang seorang tamu bertandang ke beranda rumahmu pada waktu sore,
+11:18:2 maka muliakanlah ia setidak-tidaknya dengan menyuguhkan segelas teh hangat yang manis;
+11:18:3 karena sesungguhnya memuliakan tamu itu tiada harus menunggu tersedianya hidangan yang mewah.
 
 ---
 
 ## Bab 12: Pasar, Warung Langganan, dan Memilih Buah
 
-12:1:1 Saat memilih buah semangka di keramaian pasar,
-12:1:2 tepuklah kulit tebalnya dan dengarkan gema suaranya;
-12:1:3 bila terdengar nyaring dan mantap, itulah tanda manis daging di dalamnya.
+12:1:1 Dan apabila kamu hendak memilih buah semangka di tengah keramaian pasar,
+12:1:2 maka tepuklah kulitnya dengan telapak tanganmu dan dengarkanlah gema suaranya;
+12:1:3 apabila terdengar nyaring lagi mantap bunyinya, maka itulah tanda telah matang lagi manis isinya.
 
-12:2:1 Janganlah membeli beras hanya karena silau oleh putih warnanya;
-12:2:2 genggam dan rasakanlah dengan telapak tanganmu sendiri,
-12:2:3 agar engkau tahu bersih tidaknya ia dari kutu yang merusak.
+12:2:1 Dan janganlah kamu membeli beras hanya karena pandanganmu silau oleh putih berkilau warnanya;
+12:2:2 melainkan genggamlah ia dengan tanganmu sendiri dan periksalah dengan teliti,
+12:2:3 supaya kamu mengetahui bersih tidaknya beras itu dari kutu yang merusak.
 
-12:3:1 Menunda bayaran di warung tetangga haruslah mengenal batas malu;
-12:3:2 jangan biarkan buku catatan hutang atas namamu tumbuh lebih tebal daripada kamus bahasa asing.
+12:3:1 Dan ketahuilah bahwa menangguhkan pembayaran belanja di warung tetangga itu ada batas malunya;
+12:3:2 maka janganlah kamu membiarkan kitab catatan hutangmu tumbuh lebih tebal daripada kitab kamus bahasa asing.
 
-12:4:1 Berbelanja di warung tetangga meski selisih seribu dua ribu perak,
-12:4:2 janganlah kau hitung sebagai kerugian;
-12:4:3 anggaplah itu jalan berbagi berkah dengan saudara terdekatmu.
+12:4:1 Dan berbelanjalah kamu di warung tetangga dekat rumahmu sekalipun berselisih seribu atau dua ribu perak harganya,
+12:4:2 dan janganlah kamu menghitung selisih yang sedikit itu sebagai kerugian;
+12:4:3 melainkan jadikanlah ia sebagai jalan untuk berbagi rezeki dengan tetangga terdekatmu.
 
-12:5:1 Tatkala ibumu sedang beradu tawar harga hingga separuh nilai di pasar,
-12:5:2 berdirilah tenang di belakangnya dan kunci rapat mulutmu;
-12:5:3 sebab itu adalah ilmu luhur yang tak sembarang orang menguasainya.
+12:5:1 Dan tatkala kamu menyaksikan ibumu sedang menawar harga barang hingga separuh nilainya di pasar,
+12:5:2 maka berdirilah kamu dengan tenang di belakangnya dan tahanlah lisanmu dari berbicara;
+12:5:3 karena sesungguhnya itu adalah ilmu pengetahuan tinggi yang tiada dikuasai oleh sembarang manusia.
 
-12:6:1 Bila hendak membeli ikan segar di los pasar pagi,
-12:6:2 periksalah insangnya yang masih merah menyala dan matanya yang bening;
-12:6:3 jangan tertipu mengambil yang telah pucat dan lembek dagingnya.
+12:6:1 Dan apabila kamu hendak membeli ikan basah di pasar pada waktu pagi,
+12:6:2 maka perhatikanlah insangnya yang masih merah menyala serta matanya yang bening;
+12:6:3 dan janganlah kamu terpedaya mengambil ikan yang telah pucat lagi lunak dagingnya.
 
-12:7:1 Apabila ibumu mengutusmu membeli rempah bumbu ke warung,
-12:7:2 catatlah namanya di atas kertas dan jangan mengandalkan hafalan semata;
-12:7:3 sebab kencur, jahe, lengkuas, dan kemiri,
-12:7:4 tampak serupa bagi mata yang jarang menyentuh dapur.
+12:7:1 Dan apabila ibumu mengutusmu ke warung untuk membeli rempah-rempah bumbu dapur,
+12:7:2 maka tuliskanlah namanya di atas secarik kertas dan janganlah kamu hanya mengandalkan ingatanmu semata;
+12:7:3 karena sesungguhnya kencur, jahe, lengkuas, dan kemiri itu,
+12:7:4 tampak serupa bentuknya bagi mata orang-orang yang jarang memasuki dapur.
 
-12:8:1 Hitunglah uang kembalian belanjaanmu sebelum melangkah meninggalkan lapak;
-12:8:2 namun bila ternyata sang pedagang keliru memberi lebih barang seribu perak,
-12:8:3 kembalikanlah seketika, sebab untung mereka tak seberapa.
+12:8:1 Dan hitunglah uang kembalian belanjaanmu dengan cermat sebelum kamu melangkah meninggalkan tempat jual beli;
+12:8:2 akan tetapi apabila pedagang itu keliru memberikan kelebihan kepadamu walau hanya seribu perak,
+12:8:3 maka kembalikanlah haknya itu seketika, karena sesungguhnya keuntungan mereka hanyalah sedikit.
 
-12:9:1 Janganlah gemar menekan-nekan buah mangga atau alpukat di lapak pedagang bila tak berniat membeli;
-12:9:2 kasihanilah sang penjual bila buah dagangannya memar oleh jari-jari yang sekadar lewat.
+12:9:1 Dan janganlah kamu suka menekan-nekan buah mangga atau alpukat di lapak penjual sedangkan kamu tiada berniat membelinya;
+12:9:2 kasihanilah pedagang itu apabila buah dagangannya menjadi memar karena ulah jari-jarimu.
 
-12:10:1 Melangkahlah ke pasar tradisional kala fajar baru saja menyingsing;
-12:10:2 saat sayur-mayur masih basah oleh embun kebun, dan pilihan terbaik belum habis dipetik pembeli lain.
+12:10:1 Maka berangkatlah kamu menuju pasar tradisional tatkala fajar baru saja menyingsing;
+12:10:2 ketika sayur-mayur masih basah oleh embun pagi, dan barang-barang yang terbaik belum habis dipilih oleh orang lain.
 
-12:11:1 Pilihlah butir telur ayam yang cangkangnya terasa agak kasar dan mantap bobotnya di telapak tangan;
-12:11:2 apabila saat diguncang perlahan terdengar bunyi kocokan di dalamnya,
-12:11:3 letakkanlah kembali, sebab kesegarannya telah pudar.
+12:11:1 Dan pilihlah olehmu butir-butir telur ayam yang terasa agak kasar kulit cangkangnya lagi mantap timbangannya di tanganmu;
+12:11:2 dan apabila terdengar bunyi guncangan air di dalamnya tatkala kamu menggerakkannya,
+12:11:3 maka tinggalkanlah ia, karena sesungguhnya kesegarannya telah rusak.
 
 ---
 
 ## Bab 13: Rumah Tangga, Titah Ibu, dan Pantangan Dapur
 
-13:1:1 Apabila keluar kata "terserah" dari bibir ibumu,
-13:1:2 jangan sekali-kali engkau mengartikannya sebagai kebebasan mutlak;
-13:1:3 sebab itu adalah teka-teki rumit yang salah langkah sedikit saja, panjang urusannya.
+13:1:1 Dan apabila telah keluar perkataan "terserah" dari lisan ibumu,
+13:1:2 maka janganlah sekali-kali kamu menyangkanya sebagai izin untuk berbuat sesuka hatimu;
+13:1:3 karena sesungguhnya perkataan itu adalah ujian yang pelik, yang apabila kamu salah melangkah sedikit saja, niscaya panjanglah urusannya.
 
-13:2:1 Saat ibumu sedang bertempur dengan masakan besar di dapur,
-13:2:2 janganlah engkau sekadar berlalu-lalang membuka tutup panci;
-13:2:3 ulurkan tangan membantu mengiris bawang, atau menyingkirlah dengan tertib.
+13:2:1 Dan tatkala ibumu sedang sibuk memasak hidangan besar di dalam dapur,
+13:2:2 maka janganlah kamu hanya berlalu-lalang membuka tutup panci tanpa guna;
+13:2:3 melainkan ulurkanlah tanganmu untuk membantu mengiris bawang, atau menyingkirlah kamu dari dapur dengan tertib.
 
-13:3:1 Lantai rumah yang baru saja basah diseka kain pel,
-13:3:2 adalah tanah larangan yang pantang kau jejak dengan telapak kotor;
-13:3:3 tunggulah hingga mengering, atau melangkahlah jinjit menyusuri tepian dinding.
+13:3:1 Ketahuilah bahwa lantai rumah yang baru saja basah dibersihkan dengan kain pel,
+13:3:2 adalah wilayah larangan yang pantang kamu injak dengan telapak kaki yang kotor;
+13:3:3 maka tunggulah dengan sabar hingga ia mengering, atau berjalanlah kamu dengan berjinjit di tepian dinding.
 
-13:4:1 Wadah bekal titipan ibumu hendaklah kau jaga bagai pusaka;
-13:4:2 sebab hilang satu saja tutup plastiknya di perantauan,
-13:4:3 tujuh hari tujuh malam telinga kita akan mendengar riwayatnya.
+13:4:1 Dan peliharalah wadah bekal makanan milik ibumu itu sebagaimana kamu menjaga harta pusaka yang berharga;
+13:4:2 sebab apabila hilang satu saja tutupnya di perjalanan,
+13:4:3 niscaya tujuh hari tujuh malam lamanya telinga seisi rumah akan mendengar peringatannya.
 
-13:5:1 Sesungguhnya rumus kedamaian rumah tangga itu amatlah sederhana:
-13:5:2 selama wajah ibumu hari ini teduh tersenyum tanpa omelan, maka amanlah seluruh isi bumi ini.
+13:5:1 Sesungguhnya rahasia ketenteraman sebuah rumah tangga itu amatlah terang lagi nyata:
+13:5:2 selama wajah ibumu pada hari ini tampak teduh tersenyum tanpa amarah, maka tenteramlah seluruh isi rumah itu.
 
-13:6:1 Gunting kain pusaka milik ibumu jangan sekali-kali kau gunakan memotong kawat atau kardus tebal;
-13:6:2 sebab tumpul sedikit saja mata besinya, niscaya hilanglah kedamaian sore di ruang keluarga.
+13:6:1 Dan janganlah sekali-kali kamu menggunakan gunting kain kesayangan ibumu untuk memotong kawat ataupun kardus yang keras;
+13:6:2 sebab apabila tumpul mata gunting itu, niscaya lenyaplah kedamaian petang di dalam rumahmu.
 
-13:7:1 Seusai menuang air sejuk dari botol di dalam lemari pendingin,
-13:7:2 isilah kembali botol itu dengan air matang hingga penuh;
-13:7:3 jangan kau sisakan setetes di dasar botol lalu kau simpan kembali begitu saja.
+13:7:1 Dan apabila kamu telah menuangkan air sejuk dari botol di dalam lemari pendingin,
+13:7:2 maka penuhilah kembali botol itu dengan air minum sebelum kamu mengembalikannya;
+13:7:3 dan janganlah kamu menyisakan setetes air saja di dasarnya lalu kamu memasukkannya kembali dengan curang.
 
-13:8:1 Bila ibumu meminta tolong mencarikan suatu benda di dalam lemari,
-13:8:2 carilah dengan mata yang terbuka lebar dan tangan yang menyibak tumpukan;
-13:8:3 jangan cepat berteriak "tidak ada!",
-13:8:4 sebab bila ibumu turun tangan dan menemukannya tepat di depan hidungmu,
-13:8:5 tiada lagi tempat bagimu untuk berdalih.
+13:8:1 Dan apabila ibumu menyuruhmu mencari suatu barang di dalam lemari,
+13:8:2 maka carilah ia dengan penglihatan yang teliti serta tangan yang membuka lipatan-lipatan kain;
+13:8:3 dan janganlah kamu tergesa-gesa berseru dari kejauhan, "Tiada barang itu di sini!",
+13:8:4 sebab apabila ibumu datang sendiri lalu menemukan barang itu tepat di hadapan matamu,
+13:8:5 maka tiada lagi alasan bagimu untuk membela diri.
 
-13:9:1 Wajan berlapis hitam anti-lengket janganlah kau keruk dengan sendok besi atau kawat kasar;
-13:9:2 tergores sehelai garis saja permukaannya,
-13:9:3 ayahmu jualah yang akan ikut mendengar khotbah panjang di meja makan.
+13:9:1 Dan janganlah kamu mengeruk wajan berlapis hitam milik ibumu dengan sendok besi atau penggosok kawat yang kasar;
+13:9:2 karena sesungguhnya tergores sehelai garis saja pada permukaannya,
+13:9:3 niscaya bapakmu jualah yang akan turut mendengarkan keluh kesahnya di meja makan.
 
-13:10:1 Catatlah tanggal kelahiran ibumu dengan tinta tebal di kalender dinding;
-13:10:2 sebab lupa membayar tagihan air hanya terkena denda recehan,
-13:10:3 namun lupa hari ulang tahun ibumu, dendanya adalah diam seribu bahasa berbulan-bulan.
+13:10:1 Dan tuliskanlah hari kelahiran ibumu dengan tanda yang terang pada penanggalan dindingmu;
+13:10:2 sebab sesungguhnya lalai membayar tagihan air itu hanyalah berbuah denda yang sedikit,
+13:10:3 sedangkan lalai mengingat hari ulang tahun ibumu, niscaya dendanya adalah kebisuan yang panjang berbulan-bulan.
 
-13:11:1 Apabila ibumu bercerita panjang lebar sepulang dari perkumpulan warga,
-13:11:2 simaklah dengan sabar sembari menganggukkan kepala;
-13:11:3 sebab beliau hanya butuh telinga yang mendengar, bukan hakim yang menyanggah.
+13:11:1 Dan apabila ibumu pulang dari perkumpulan warga lalu menceritakan kisahnya panjang lebar kepadamu,
+13:11:2 maka dengarkanlah ia dengan penuh kesabaran seraya menganggukkan kepalamu;
+13:11:3 karena sesungguhnya ia hanyalah menghendaki telinga yang sudi mendengar, dan bukanlah hakim yang membantah perkataannya.
 
-13:12:1 Jangan sekali-kali meletakkan handuk basah seusai mandi di atas kasur peraduan;
-13:12:2 sebab itulah pelanggaran pasal utama yang paling mengundang badai di dalam rumah.
+13:12:1 Dan janganlah sekali-kali kamu melemparkan handuk yang basah seusai mandi ke atas hamparan kasur tidurmu;
+13:12:2 karena sesungguhnya perbuatan itu adalah pelanggaran besar yang paling mendatangkan murka di dalam rumah.
 
-13:13:1 Ketika ibumu menitipkan masakan di atas tungku api barang sebentar,
-13:13:2 berdirilah berjaga di hadapan kompor dan jangan terpaku menatap gawai;
-13:13:3 hingga kuahnya mengering hangus dan asapnya memenuhi dapur.
+13:13:1 Dan tatkala ibumu menitipkan masakan di atas nyala tungku api barang sejenak kepadamu,
+13:13:2 maka berdirilah kamu dengan teguh di hadapan tungku itu dan janganlah kamu lalai menatap layar gawaimu;
+13:13:3 sehingga kering hanguslah masakan itu dan memenuhi rumah dengan kepulan asap.
 
-13:14:1 Seusai menyapu lantai, gantungkanlah sapu ijuk atau berdirikan dengan tangkai di bawah;
-13:14:2 jangan dibiarkan tertekuk bulunya di sudut dinding hingga cepat mekar dan rusak.
+13:14:1 Dan apabila kamu telah selesai menyapu lantai, maka gantungkanlah sapu ijuk itu atau tegakkanlah tangkainya di sebelah bawah;
+13:14:2 dan janganlah kamu membiarkan bulu ijuknya tertekuk menahan beban hingga lekas rusak.
 
-13:15:1 Bila ibumu berkata dari dapur, "Tidak usah dibantu, duduk saja di depan",
-13:15:2 ketahuilah bahwa arti sebenarnya adalah engkau wajib tetap berdiri siaga di dekat pintu dapur.
+13:15:1 Ketahuilah bahwasanya apabila ibumu berkata dari dalam dapur, "Janganlah kamu repot membantu, duduklah saja di ruang depan",
+13:15:2 maka sesungguhnya maksud yang tersembunyi di balik perkataan itu adalah wajib atasmu tetap berdiri siaga di dekat pintu dapur.
 
-13:16:1 Janganlah berdiri membuka pintu lemari pendingin berlama-lama sembari melamun mencari kudapan;
-13:16:2 sebab hawa dinginnya terbang keluar, dan tagihan listriknya membengkak masuk.
+13:16:1 Dan janganlah kamu berdiri membuka pintu lemari pendingin berlama-lama sambil termenung memikirkan kudapan;
+13:16:2 karena sesungguhnya kesejukannya terbang keluar dengan sia-sia, sedangkan beban tagihan listriknya bertambah berat.
 
-13:17:1 Setinggi apa pun jabatan seorang ayah di kantornya bekerja,
-13:17:2 begitu kakinya melangkah masuk melewati pintu rumah,
-13:17:3 ia tetaplah petugas utama pengangkat galon air dan pemasang tabung gas dapur.
+13:17:1 Ketahuilah bahwa setinggi apa pun pangkat dan kedudukan seorang bapak di tempatnya bekerja,
+13:17:2 tatkala kakinya telah melangkah masuk melewati ambang pintu rumahnya,
+13:17:3 maka sesungguhnya ia tetaplah pemikul utama galon air minum dan pemasang tabung gas di dapur.
 
 ---
 
 ## Bab 14: Mendidik Anak dan Ketegasan Kasih
 
-14:1:1 Bila suara ayahmu terdengar keras menegur langkahmu yang keliru,
-14:1:2 ketahuilah bahwa itu bukanlah tanda benci di dalam dada;
-14:1:3 melainkan karena ayahmu tahu, engkau mampu tumbuh jauh lebih mulia dari hari ini.
+14:1:1 Wahai anakku, apabila suara bapakmu terdengar keras menegur langkahmu yang menyimpang,
+14:1:2 maka ketahuilah bahwa yang demikian itu bukanlah sekali-kali karena kebencian di dalam hati;
+14:1:3 melainkan karena bapakmu mengetahui bahwasanya kamu sanggup menjadi manusia yang jauh lebih baik daripada hari ini.
 
-14:2:1 Seorang pemuda hendaklah terampil mengganti roda cadangan dan memasang tabung gas di dapur;
-14:2:2 sebab bagaimana mungkin urusan rumah sendiri selalu kau gantungkan pada tangan orang lain?
+14:2:1 Dan hendaklah seorang pemuda itu mengetahui cara mengganti roda cadangan serta memasang tabung gas di dalam rumahnya;
+14:2:2 sebab bagaimanakah kamu hendak memimpin rumah tangga kelak, jika urusan yang demikian itu selalu kamu gantungkan kepada orang lain?
 
-14:3:1 Bila langkahmu tersandung gagal dan dadamu sesak oleh duka,
-14:3:2 menangislah barang sejenak untuk meluruhkan bebanmu;
-14:3:3 lalu basuhlah wajahmu, usap air matamu,
-14:3:4 dan berdirilah kembali lebih tegak dari sebelumnya.
+14:3:1 Dan apabila kamu ditimpa kegagalan sehingga dadamu terasa sempit oleh kesedihan,
+14:3:2 maka tiada mengapa kamu menangis barang sejenak untuk meluruhkan beban di hatimu;
+14:3:3 kemudian basuhlah wajahmu, keringkanlah air matamu,
+14:3:4 dan bangkitlah kembali dengan pijakan yang lebih teguh daripada sebelumnya.
 
-14:4:1 Angka yang buruk di lembar ujian sekolah masih bisa diperbaiki tahun depan,
-14:4:2 namun bila adab dan sopan santunmu yang runtuh berantakan, amatlah sukar mencari obat penawarnya.
+14:4:1 Sesungguhnya nilai ujian yang buruk di bangku perguruan masih dapat kamu perbaiki pada tahun berikutnya,
+14:4:2 akan tetapi apabila adab dan kesopananmu yang telah rusak binasa, maka sungguh amat sukar mencari penawarnya.
 
-14:5:1 Ayahmu tak pernah menuntutmu menjadi manusia paling termasyhur di muka bumi;
-14:5:2 cukuplah engkau hidup jujur dan tidak menyusahkan sesama,
-14:5:3 itu sudah lebih dari cukup untuk membuat dada ini lapang berbangga.
+14:5:1 Ketahuilah bahwa bapakmu tiada pernah menuntutmu menjadi manusia yang paling mashyur di seluruh penjuru bumi;
+14:5:2 cukuplah kamu tumbuh menjadi orang yang jujur lagi tidak mendatangkan kesusahan bagi sesamamu,
+14:5:3 maka sungguh yang demikian itu telah mencukupkan kebanggaan di dalam dada bapakmu.
 
-14:6:1 Janganlah terbiasa merengek meminta segala keinginanmu dituruti seketika;
-14:6:2 belajarlah menyisihkan uang sakumu sedikit demi sedikit,
-14:6:3 agar engkau mengerti betapa mahalnya nilai sebuah perjuangan.
+14:6:1 Dan janganlah kamu terbiasa meminta agar setiap keinginan hatimu dipenuhi pada saat itu juga;
+14:6:2 melainkan belajarlah kamu menyisihkan perbekalanmu sedikit demi sedikit,
+14:6:3 supaya kamu mengerti betapa beratnya perjuangan mencari harta yang halal.
 
-14:7:1 Apabila tanganmu sendiri yang telah berbuat keliru,
-14:7:2 berdirilah tegak menghadapi akibatnya dengan jiwa ksatria;
-14:7:3 jangan berlari sembunyi di balik punggung ayah dan ibumu.
+14:7:1 Dan apabila tanganmu sendiri telah terlanjur melakukan suatu kesalahan,
+14:7:2 maka berdirilah kamu dengan gagah berani untuk memikul akibat perbuatanmu itu;
+14:7:3 dan janganlah kamu berlari menyembunyikan diri di balik punggung kedua orang tuamu.
 
-14:8:1 Lisan seorang ayah memang jarang merangkai kata-kata kasih yang berbunga-bunga;
-14:8:2 namun selama roda motor tua ini masih berputar mengantar dan menjemput langkahmu,
-14:8:3 itulah kalimat cinta paling nyata yang dapat ayahmu berikan.
+14:8:1 Sesungguhnya lisan seorang bapak itu amat jarang merangkai kata-kata kasih sayang yang manis;
+14:8:2 akan tetapi selama roda tunggangan tua ini masih terus berputar mengantar dan menjemput langkahmu,
+14:8:3 maka ketahuilah bahwa itulah tanda kasih sayang yang paling nyata darinya untukmu.
 
-14:9:1 Memilih kawan sepergaulan ibarat memilih duduk di dekat penjual minyak wangi atau pandai besi;
-14:9:2 salah memilih lingkaran tempatmu berpijak, percikan apinya dapat menghanguskan masa depanmu.
+14:9:1 Ketahuilah bahwa perumpamaan memilih kawan bergaul itu adalah ibarat duduk di dekat penjual minyak wangi atau di dekat pandai besi;
+14:9:2 maka barang siapa salah memilih lingkaran pergaulannya, niscaya percikan apinya akan membakar masa depannya sendiri.
 
-14:10:1 Muliakanlah guru yang mengajarimu di bangku sekolah sebagaimana engkau menghormati orang tuamu;
-14:10:2 sebab ilmu setinggi langit pun akan kehilangan berkahnya,
-14:10:3 bila hati sang pengajar kau lukai dengan kesombonganmu.
+14:10:1 Dan muliakanlah guru-guru yang mengajarkan ilmu kepadamu sebagaimana kamu memuliakan bapak dan ibumu sendiri;
+14:10:2 karena sesungguhnya ilmu yang tinggi sekalipun tiada akan mendatangkan keberkahan,
+14:10:3 apabila kamu merendahkan orang-orang yang telah mengajarkannya kepadamu.
 
-14:11:1 Janganlah malu mengenakan sepatu atau tas sekolah yang telah dijahit ulang oleh tangan ayahmu;
-14:11:2 sebab yang ditimbang di ruang belajar adalah isi kepalamu, bukan mahalnya merek di punggungmu.
+14:11:1 Dan janganlah sekali-kali kamu merasa malu mengenakan alas kaki atau tas sekolah yang telah dijahit kembali oleh tangan bapakmu;
+14:11:2 sebab sesungguhnya yang ditimbang di majelis ilmu itu adalah isi kepalamu, dan bukanlah kemewahan barang yang melekat di punggungmu.
 
-14:12:1 Tatkala ayah dan ibumu sedang berbincang serius dengan suara tertahan di ruang tamu,
-14:12:2 masuklah dengan tertib ke dalam kamarmu;
-14:12:3 sebab ada beban orang tua yang belum saatnya dipikul oleh pundak mudamu.
+14:12:1 Dan apabila kamu melihat bapak dan ibumu sedang berbincang dengan suara yang tertahan di ruang depan,
+14:12:2 maka masuklah kamu ke dalam bilik kamarmu dengan tertib;
+14:12:3 karena sesungguhnya ada beban kehidupan orang tua yang belum tiba waktunya untuk dipikulkan ke atas pundak mudamu.
 
-14:13:1 Belajarlah berenang, mengayuh sepeda, dan mengurus dirimu sendiri sejak usia muda;
-14:13:2 sebab ayahmu tak selamanya dapat berjalan mendampingi di sisimu.
+14:13:1 Maka pelajarilah olehmu cara berenang, mengayuh sepeda, serta mengurus keperluan dirimu sendiri sejak kamu masih belia;
+14:13:2 karena sesungguhnya bapakmu tiada akan selamanya hidup berjalan mendampingi langkahmu di dunia ini.
 
-14:14:1 Doa seorang ayah di keheningan malam sesungguhnya hanyalah satu:
-14:14:2 semoga langkah kakimu kelak melampaui langkah ayahmu,
-14:14:3 dengan pundak yang lebih ringan dan hati yang lebih bahagia.
+14:14:1 Dan ketahuilah bahwa doa seorang bapak di dalam keheningan malam itu hanyalah satu:
+14:14:2 semoga langkah kakimu kelak melampaui capaian langkah bapakmu,
+14:14:3 dengan beban pundak yang lebih ringan serta kehidupan yang lebih berbahagia.
 
 ---
 
 ## Bab 15: Bekal Merantau dan Kabar untuk Rumah
 
-15:1:1 Di tanah rantau tempatmu mencari penghidupan, jagalah laku dan tutur katamu;
-15:1:2 peganglah teguh petuah leluhur sepanjang masa:
-15:1:3 di mana bumi kau pijak, di situlah langit wajib kau junjung.
+15:1:1 Dan apabila kamu melangkah pergi merantau ke negeri orang, maka peliharalah tingkah laku serta perkataan lisanmu;
+15:1:2 dan peganglah teguh wasiat orang-orang terdahulu:
+15:1:3 di mana saja bumi kamu pijak, maka di situlah langitnya wajib kamu junjung dengan hormat.
 
-15:2:1 Menghubungi ayah dan ibumu di rumah tak perlu menunggu engkau kaya atau menerima upah;
-15:2:2 sebab mendengar suaramu masih sehat walafiat saja sudah menjadi obat penenang rindu ibumu.
+15:2:1 Dan janganlah kamu menunggu hingga kamu menjadi kaya atau menerima upah barulah kamu mengirim kabar kepada kedua orang tuamu;
+15:2:2 karena sesungguhnya mendengar suaramu dalam keadaan sehat saja sudah cukup menjadi penawar rindu bagi hati ibumu.
 
-15:3:1 Ingatlah niat awalmu melangkah jauh meninggalkan kampung halaman:
-15:3:2 engkau pergi untuk mengumpulkan ilmu, bekal, dan pengalaman hidup,
-15:3:3 bukan untuk menabur perselisihan dan mencari musuh.
+15:3:1 Dan ingatlah senantiasa niat pertamamu tatkala kamu melangkah meninggalkan halaman rumahmu:
+15:3:2 bahwasanya kamu pergi untuk menuntut ilmu, mencari penghidupan, serta menghimpun bekal pengalaman,
+15:3:3 dan bukanlah sekali-kali untuk menyulut permusuhan di negeri orang.
 
-15:4:1 Selipkanlah sehelai sarung dari rumah di dasar tas perantauanmu;
-15:4:2 sebab kala dingin meriang atau rindu kampung menyergap di kamar sewaan,
-15:4:3 kain tenun itulah yang akan memelukmu dengan kehangatan rumah.
+15:4:1 Dan selipkanlah sehelai kain sarung dari rumahmu di dalam dasar kantong perbekalanmu;
+15:4:2 karena sesungguhnya tatkala dingin meriang atau kerinduan menyergapmu di kamar perantauan,
+15:4:3 niscaya kain tenun itulah yang akan menyelimutimu dengan kehangatan rumahmu.
 
-15:5:1 Sesibuk apa pun engkau mengejar mimpi di kota orang, janganlah lalai mengisi perut tepat waktu;
-15:5:2 sebab bila ragamu jatuh terbaring sakit seorang diri di perantauan,
-15:5:3 siapakah yang akan mengerok punggungmu dengan penuh kasih sayang?
+15:5:1 Dan sesibuk apa pun kamu bekerja mengejar cita-citamu di kota orang, janganlah kamu melalaikan waktu makanmu;
+15:5:2 sebab apabila ragamu jatuh terbaring sakit seorang diri di kamar sewaan,
+15:5:3 maka siapakah lagi yang akan mengerok punggungmu dengan penuh kasih sayang?
 
-15:6:1 Kenalilah pemilik rumah sewaan serta tetangga di kiri dan kanan kamarmu;
-15:6:2 sebab di tanah perantauan yang jauh dari sanak famili,
-15:6:3 saudara terdekatmu kala darurat adalah mereka yang berada di balik dinding sebelahmu.
+15:6:1 Dan kenalilah olehmu pemilik tempat tinggalmu serta tetangga yang berdiam di sebelah kiri dan kanan bilikmu;
+15:6:2 karena sesungguhnya di tanah rantau yang jauh dari sanak saudara,
+15:6:3 kerabat terdekatmu tatkala datang kesempitan darurat adalah mereka yang berdiam di sebelah pintumu.
 
-15:7:1 Simpanlah uang seharga tiket kepulangan di dalam amplop khusus yang pantang kau sentuh;
-15:7:2 agar bilamana datang kabar genting memanggil dari rumah,
-15:7:3 langkah kakimu tak tertahan oleh kosongnya saku.
+15:7:1 Dan simpanlah sejumlah uang seharga biaya perjalanan pulang di dalam suatu lipatan khusus yang pantang kamu belanjakan;
+15:7:2 supaya apabila datang panggilan kabar yang genting dari kampung halamanmu,
+15:7:3 langkah kakimu tidak tertahan oleh kosongnya perbekalan.
 
-15:8:1 Janganlah gengsi bersantap tempe dan tahu sederhana di warung pinggir jalan kala merantau;
-15:8:2 sebab jauh lebih terhormat berhemat di awal bulan daripada meminta belas kasihan di akhir bulan.
+15:8:1 Dan janganlah kamu merasa gengsi menyantap tahu dan tempe di kedai sederhana selama kamu berada di perantauan;
+15:8:2 karena sesungguhnya berhemat pada awal bulan itu jauh lebih mulia daripada menadahkan tangan berhutang pada akhir bulan.
 
-15:9:1 Apabila langkahmu di kota besar belum juga menemukan hasil yang kau impikan,
-15:9:2 janganlah malu berterus terang kepada ayahmu;
-15:9:3 sebab pintu rumah ini tak pernah dikunci,
-15:9:4 bagi anak yang ingin pulang menata langkah kembali.
+15:9:1 Dan apabila usahamu di kota perantauan itu belum juga membuahkan hasil sebagaimana yang kamu harapkan,
+15:9:2 maka janganlah kamu merasa malu untuk berkata jujur kepada bapakmu;
+15:9:3 karena sesungguhnya pintu rumah ini tiada pernah terkunci,
+15:9:4 bagi anak-anaknya yang hendak pulang menata langkahnya kembali.
 
-15:10:1 Bawalah toples abon dan sambal kering racikan tangan ibumu di dalam koper keberangkatanmu;
-15:10:2 sebab taburan rasanya di atas nasi putih hangat di kamar kos,
-15:10:3 akan menghadirkan kembali suasana meja makan rumah yang kau rindukan.
+15:10:1 Dan bawalah olehmu bekal abon serta sambal kering buatan tangan ibumu di dalam koper perjalananmu;
+15:10:2 karena sesungguhnya taburan lauk itu di atas nasi hangat di tanah rantau,
+15:10:3 akan menghadirkan kembali keberkahan meja makan rumah yang kamu rindukan.
 
-15:11:1 Janganlah lalai menjaga ibadah dan kehormatan dirimu di belantara kota besar;
-15:11:2 sebab di sana tiada lagi ketukan tangan ayahmu yang membangunkan subuh,
-15:11:3 engkaulah penjaga tunggal bagi keselamatan jiwamu sendiri.
+15:11:1 Dan janganlah sekali-kali kamu melalaikan sembahyangmu serta kehormatan dirimu di tengah gemerlap kota besar;
+15:11:2 sebab di sana tiada lagi tangan bapakmu yang mengetuk pintu membangunkanmu pada waktu subuh,
+15:11:3 melainkan dirimu sendirilah yang menjadi penjaga atas keselamatan jiwamu.
 
-15:12:1 Saat mengirim kabar ke rumah, janganlah selalu berbohong berkata "semua baik-baik saja" kala dadamu sedang dihimpit kesulitan besar;
-15:12:2 sebab batin orang tua memiliki firasat yang tak dapat kau kelabui.
+15:12:1 Dan tatkala kamu mengirimkan kabar ke rumah, janganlah kamu selalu berdusta dengan mengatakan "segala urusanku baik-baik saja" sedangkan dadamu sedang dihimpit kesusahan yang berat;
+15:12:2 karena sesungguhnya hati kedua orang tuamu itu dikaruniai firasat yang tiada dapat kamu sembunyikan.
 
 ---
 
 ## Bab 16: Pergaulan, Tetangga, dan Sopan Santun
 
-16:1:1 Tatkala langkahmu melintas di hadapan orang yang lebih sepuh usianya,
-16:1:2 tundukkanlah sedikit bahumu seraya mengucap salam permisi;
-16:1:3 janganlah engkau melenggang angkuh seolah jalanan itu milikmu seorang.
+16:1:1 Dan apabila kamu berjalan melintas di hadapan orang-orang yang lebih tua usianya daripadamu,
+16:1:2 maka rendahkanlah sedikit bahumu seraya mengucapkan salam penghormatan;
+16:1:3 dan janganlah kamu berjalan dengan angkuh seakan-akan jalanan itu milikmu seorang diri.
 
-16:2:1 Tetangga sebelah yang terkadang cerewet menyapa urusanmu,
-16:2:2 balaslah cukup dengan senyuman yang teduh;
-16:2:3 sebab kala rumahmu menggelar hajat atau ditimpa musibah, merekalah tangan pertama yang menolong.
+16:2:1 Adapun tetangga sebelahmu yang terkadang banyak bertanya mengenai urusanmu,
+16:2:2 maka sambutlah ia cukup dengan senyuman yang baik;
+16:2:3 karena sesungguhnya tatkala rumahmu menggelar hajat atau ditimpa kemalangan, merekalah orang pertama yang mengulurkan pertolongan.
 
-16:3:1 Kawan yang datang merapat saat pundi-pundimu penuh memang tak terhitung banyaknya,
-16:3:2 namun sahabat yang tetap duduk menemani kala kantongmu kering,
-16:3:3 dapat kau hitung cukup dengan jari sebelah tangan.
+16:3:1 Ketahuilah bahwa kawan yang datang mengerumunimu tatkala pundi-pundi hartamu sedang melimpah itu amatlah banyak bilangannya,
+16:3:2 akan tetapi sahabat yang tetap setia duduk di sisimu tatkala kantongmu kering,
+16:3:3 niscaya dapat kamu hitung cukup dengan jari sebelah tanganmu.
 
-16:4:1 Tiada guna engkau membangun pagar besi menjulang ke langit,
-16:4:2 apabila pintu kepedulian terhadap tetangga sebelah ikut kau gembok rapat di dalam hatimu.
+16:4:1 Maka tiadalah berguna kamu mendirikan pagar besi yang tinggi menjulang ke angkasa,
+16:4:2 apabila pintu kepedulian terhadap tetangga di sebelah rumahmu ikut kamu kunci rapat di dalam hatimu.
 
-16:5:1 Bila engkau bertamu ke kediaman orang lain, pahamilah bahasa waktu;
-16:5:2 janganlah terus duduk berbincang tanpa ujung,
-16:5:3 hingga tuan rumah berkali-kali menahan kantuk di hadapanmu.
+16:5:1 Dan apabila kamu bertamu ke rumah seseorang, maka perhatikanlah batas-batas waktu kunjunganmu;
+16:5:2 dan janganlah kamu duduk memperpanjang percakapan hingga larut malam,
+16:5:3 sehingga tuan rumah itu berkali-kali menahan kantuk karena segan mengusirmu.
 
-16:6:1 Saat mengendarai motor memasuki lorong kampung yang sempit,
-16:6:2 kecilkanlah deru mesinmu dan anggukkan kepala menyapa warga di beranda;
-16:6:3 jangan meraungkan knalpot seolah engkau penguasa tunggal jalanan itu.
+16:6:1 Dan tatkala kamu mengendarai tungganganmu memasuki lorong pemukiman yang sempit,
+16:6:2 maka lunakkanlah deru mesinmu dan anggukkanlah kepalamu menyapa warga yang duduk di beranda;
+16:6:3 dan janganlah kamu meraungkan suara knalpotmu dengan sombong di hadapan mereka.
 
-16:7:1 Apabila dapurmu memasak hidangan yang harumnya membubung menembus pagar tetangga,
-16:7:2 tuangkanlah semangkuk kecil untuk dikirimkan ke rumah sebelah;
-16:7:3 agar harum masakanmu menjadi pengikat kasih, bukan pemantik iri.
+16:7:1 Dan apabila kamu memasak suatu hidangan di dapurmu sehingga harum aromanya tercium sampai ke rumah tetanggamu,
+16:7:2 maka ambillah semangkuk darinya untuk kamu hadiahkan kepada tetangga di sebelahmu;
+16:7:3 supaya harum masakanmu itu menjadi pengikat kasih sayang, dan bukanlah pemantik rasa iri di dalam hati.
 
-16:8:1 Jangan sekali-kali memarkirkan kendaraanmu tepat melintang di depan gerbang rumah tetangga,
-16:8:2 meskipun engkau merasa hanya singgah lima menit saja;
-16:8:3 sebab kita tak pernah tahu kapan mereka harus bergegas keluar karena urusan darurat.
+16:8:1 Dan janganlah sekali-kali kamu memarkirkan kendaraanmu melintang tepat di hadapan pintu pagar tetanggamu,
+16:8:2 sekalipun kamu menyangka hanya akan berhenti barang lima menit saja;
+16:8:3 sebab kamu tiada pernah mengetahui bilamana mereka harus bergegas keluar karena urusan yang mendesak.
 
-16:9:1 Ketika orang yang lebih tua mengajakmu berbicara,
-16:9:2 lepaskanlah penyumbat suara dari kedua telingamu dan tataplah wajahnya dengan hormat.
+16:9:1 Dan apabila orang yang lebih tua mengajakmu berbicara,
+16:9:2 maka lepaskanlah alat pendengar suara dari kedua telingamu dan hadapkanlah wajahmu kepadanya dengan penuh hormat.
 
-16:10:1 Ingatlah bahwa tetangga dekatlah yang pertama kali menyiramkan air bila atap rumahmu terbakar,
-16:10:2 jauh sebelum kerabat jauhmu di seberang kota sempat mendengar kabarnya;
-16:10:3 maka peliharalah kerukunan bertetangga bagai menjaga saudara kandung sendiri.
+16:10:1 Ketahuilah bahwasanya tetangga yang dekat itulah yang lebih dahulu menyiramkan air tatkala atap rumahmu dilalap api,
+16:10:2 jauh sebelum sanak kerabatmu yang berdiam di kota seberang mendengar beritanya;
+16:10:3 maka peliharalah hubungan baik dengan tetanggamu sebagaimana kamu menjaga saudara kandungmu sendiri.
 
-16:11:1 Apabila engkau telah mengetuk pintu rumah seseorang sebanyak tiga kali namun tiada sahutan,
-16:11:2 berbaliklah pulang dengan tertib;
-16:11:3 janganlah melongok-longok mengintip melalui celah tirai jendelanya.
+16:11:1 Dan apabila kamu telah mengetuk pintu rumah seseorang sampai tiga kali lalu tiada seorang pun yang menjawabmu,
+16:11:2 maka kembalilah kamu pulang dengan cara yang baik;
+16:11:3 dan janganlah kamu mengintip-intip ke dalam rumahnya melalui celah jendela kaca.
 
-16:12:1 Bila dahan pohon di pekarangan kita menggugurkan daun kering ke teras tetangga sebelah,
-16:12:2 bawalah sapu dan bantulah membersihkan halamannya tanpa menunggu ditegur.
+16:12:1 Dan apabila dahan pohon yang tumbuh di pekarangan rumahmu menggugurkan daun-daun keringnya ke halaman tetanggamu,
+16:12:2 maka bawalah sapumu dan bersihkanlah halaman mereka itu sebelum kamu ditegur olehnya.
 
-16:13:1 Janganlah gemar mencampuri urusan dapur rumah tangga tetangga;
-16:13:2 apa yang tak sengaja terdengar oleh telingamu, cukuplah berhenti di dalam dadamu sendiri.
+16:13:1 Dan janganlah kamu gemar menyelidiki serta mencampuri urusan rumah tangga tetanggamu;
+16:13:2 maka apa saja pertikaian mereka yang tak sengaja terdengar oleh telingamu, hendaklah berhenti cukup di dalam dadamu sendiri.
 
-16:14:1 Sapalah penjaga keamanan lingkungan dan pedagang sayur keliling dengan menyebut namanya secara hormat;
-16:14:2 sebab dimanusiakan dengan sapaan yang ramah adalah kebahagiaan bagi setiap jiwa.
+16:14:1 Dan sapalah penjaga keamanan lingkunganmu serta pedagang sayur yang melintas dengan memanggil namanya secara baik;
+16:14:2 karena sesungguhnya memuliakan sesama manusia dengan sapaan yang ramah itu adalah penyejuk bagi tiap-tiap jiwa.
 
-16:15:1 Apabila anak-anak kecil terlibat pertengkaran saat bermain bersama di pelataran,
-16:15:2 lerailah dan ajarkan mereka berjabat tangan kembali;
-16:15:3 jangan sampai anak-anak telah kembali tertawa bermain bersama,
-16:15:4 sementara para orang tuanya justru saling membuang muka berbulan-bulan.
+16:15:1 Dan apabila anak-anak kecil berselisih saat bermain bersama di halaman kampung,
+16:15:2 maka damaikanlah di antara mereka dan suruhlah mereka saling berjabat tangan;
+16:15:3 dan janganlah sampai anak-anak itu telah kembali tertawa bermain bersama,
+16:15:4 sedangkan kedua orang tua mereka justru saling memalingkan muka selama berbulan-bulan.
 
 ---
 
 ## Bab 17: Kerja Bakti, Ronda Malam, dan Pinjam Barang
 
-17:1:1 Kala hari Minggu pagi memanggil warga membersihkan lingkungan,
-17:1:2 keluarlah dari pintu rumahmu dengan menggenggam sapu lidi;
-17:1:3 meski hanya menyapu segenggam daun kering, kehadiranmulah yang merajut kebersamaan.
+17:1:1 Dan apabila telah tiba hari Ahad pagi yang memanggil warga untuk membersihkan lingkungan bersama-sama,
+17:1:2 maka keluarlah kamu dari rumahmu dengan membawa sapu lidi di tanganmu;
+17:1:3 sekalipun kamu hanyalah menyapu segenggam dedaunan, sesungguhnya kehadiranmu di tengah mereka itulah yang menguatkan tali persaudaraan.
 
-17:2:1 Berjaga di pos ronda kala malam merambat sunyi,
-17:2:2 bukanlah semata memukul kentongan kayu mengelilingi lorong;
-17:2:3 melainkan ruang mempererat persaudaraan antarwarga satu pemukiman.
+17:2:1 Ketahuilah bahwa berjaga di gardu ronda pada keheningan malam itu,
+17:2:2 bukanlah semata-mata berkeliling memukul kentongan kayu di sepanjang lorong;
+17:2:3 melainkan suatu majelis untuk saling mengenal dan mempererat ikatan warga satu pemukiman.
 
-17:3:1 Seusai meminjam tangga atau perkakas milik tetangga,
-17:3:2 bersihkanlah ia dan segera kembalikan ke tangan pemiliknya;
-17:3:3 jangan biarkan sang pemilik harus datang mengetuk pintu menagih miliknya.
+17:3:1 Dan apabila kamu telah selesai meminjam tangga ataupun cangkul milik tetanggamu,
+17:3:2 maka basuhlah tanah yang melekat padanya dan bersegeralah mengembalikannya kepada pemiliknya;
+17:3:3 dan janganlah kamu membiarkan pemilik barang itu datang mengetuk pintumu untuk menagih haknya sendiri.
 
-17:4:1 Di atas bangku kayu pos ronda, segala pangkat duniawi ditanggalkan;
-17:4:2 baik pejabat tinggi maupun pengemudi ojek duduk sejajar,
-17:4:3 dan siapa yang takluk di papan catur tetap wajib bergilir menyeduh kopi.
+17:4:1 Sesungguhnya di atas bangku kayu pos ronda itu segala kemegahan pangkat duniawi ditanggalkan;
+17:4:2 baik ia seorang pejabat tinggi maupun seorang pengemudi ojek duduk sama rendahnya,
+17:4:3 dan barang siapa dikalahkan di atas papan catur, maka wajib atasnya bergilir menyeduh kopi bagi kawan-kawannya.
 
-17:5:1 Apabila tugas pekerjaan menghalangimu turun memeras keringat saat kerja bakti kampung,
-17:5:2 kirimkanlah sepiring gorengan hangat dan setermos kopi melalui ketua lingkungan;
-17:5:3 sebagai tanda bahwa hatimu tetap hadir bersama warga.
+17:5:1 Dan apabila tuntutan pekerjaan menghalangi langkahmu untuk ikut berpeluh dalam kerja bakti kampung,
+17:5:2 maka kirimkanlah sepiring gorengan hangat beserta setermos kopi melalui tetua lingkunganmu;
+17:5:3 sebagai tanda yang nyata bahwa hatimu tetap bersama mereka.
 
-17:6:1 Keruklah endapan lumpur di selokan depan rumahmu sendiri secara berkala;
-17:6:2 jangan membiarkannya tersumbat sampah hingga air meluap di musim hujan, lalu sibuk menuding saluran tetangga.
+17:6:1 Dan keruklah endapan lumpur pada saluran air di hadapan rumahmu sendiri secara berkala;
+17:6:2 dan janganlah kamu membiarkannya tersumbat sampah, sehingga tatkala air meluap di musim hujan kamu sibuk menyalahkan saluran tetanggamu.
 
-17:7:1 Saat memukul kentongan bambu pada pukul dua dini hari,
-17:7:2 ketuklah dengan irama secukupnya sekadar penanda kampung terjaga aman;
-17:7:3 jangan kau tabuh membabi buta hingga membangunkan seluruh bayi yang sedang terlelap.
+17:7:1 Dan tatkala kamu memukul kentongan bambu pada pukul dua dini hari,
+17:7:2 maka pukullah ia dengan ketukan yang terukur sekadar memberi isyarat bahwa kampung dalam keadaan aman;
+17:7:3 dan janganlah kamu menabuhnya secara melampaui batas sehingga mengejutkan bayi-bayi yang sedang terlelap.
 
-17:8:1 Barang pinjaman wajib kembali ke tangan pemiliknya dalam keadaan utuh dan bersih;
-17:8:2 dan apabila perkakas itu patah atau rusak di dalam genggamanmu,
-17:8:3 gantilah ia dengan yang baru tanpa menunggu diminta.
+17:8:1 Sesungguhnya barang pinjaman itu wajib dikembalikan ke tangan pemiliknya dalam keadaan utuh lagi bersih;
+17:8:2 maka apabila perkakas pinjaman itu patah atau rusak di dalam genggaman tanganmu,
+17:8:3 wajiblah atasmu menggantinya dengan barang yang baru tanpa menunggu ditagih olehnya.
 
-17:9:1 Hadirilah musyawarah warga bulanan di balai lingkungan dan simaklah dengan seksama;
-17:9:2 jangan menjadi warga yang absen saat diundang berembuk,
-17:9:3 namun paling nyaring menggerutu di belakang seusai keputusan disepakati.
+17:9:1 Dan hadirilah musyawarah bulanan warga di balai lingkunganmu serta dengarkanlah perbincangannya dengan baik;
+17:9:2 dan janganlah kamu menjadi golongan orang yang mangkir tatkala diundang bermusyawarah,
+17:9:3 namun paling keras suaranya membantah di belakang setelah keputusan ditetapkan bersama.
 
-17:10:1 Tunaikanlah iuran kebersihan dan keamanan kampung di awal bulan sebelum bendahara mengetuk pintu;
-17:10:2 sebab lingkungan yang bersih, terang, dan tenteram adalah hasil gotong royong bersama.
+17:10:1 Dan tunaikanlah iuran kebersihan serta keamanan kampungmu pada awal bulan sebelum petugas penagih mengetuk pintumu;
+17:10:2 karena sesungguhnya lingkungan yang bersih, terang, lagi aman itu ditegakkan dengan gotong royong bersama.
 
-17:11:1 Jangan sekali-kali meminjamkan kembali barang pinjaman kepada orang ketiga tanpa seizin pemilik aslinya;
-17:11:2 agar perkakas itu tak mengembara keliling kampung hingga kabur jejak rimbanya.
+17:11:1 Dan janganlah sekali-kali kamu meminjamkan kembali barang yang kamu pinjam kepada orang ketiga tanpa izin dari pemilik aslinya;
+17:11:2 supaya tidak berpindah-pindah barang itu berkeliling kampung hingga lenyap tak tentu rimbanya.
 
-17:12:1 Saat tiba giliranmu berjaga malam di pos ronda, bawalah suluh yang terang dan jaket penahan angin;
-17:12:2 jangan datang ke gardu penjagaan hanya untuk berpindah tempat mendengkur di atas bangku panjang.
+17:12:1 Dan apabila telah tiba giliran jadwalmu berjaga malam di gardu ronda, maka bawalah suluh yang terang serta pakaian penahan angin;
+17:12:2 dan janganlah kamu datang ke gardu penjagaan itu hanya untuk memindahkan tempat tidurmu sambil mendengkur di atas bangku panjang.
 
-17:13:1 Apabila ada warga baru yang pindahan memasuki lorong lingkungan kita,
-17:13:2 ulurkanlah tangan membantu mengangkat kardusnya dan ajaklah duduk menyeruput kopi;
-17:13:3 ingatlah bahwa dahulu kala saat kita pertama kali datang, warga lama jualah yang menyambut langkah kita.
+17:13:1 Dan apabila ada warga baru yang berpindah masuk ke dalam lingkungan tempat tinggalmu,
+17:13:2 maka ulurkanlah tanganmu membantu mengangkat beban angkutannya dan ajaklah ia duduk menyeruput kopi;
+17:13:3 dan ingatlah bahwasanya dahulu tatkala kamu pertama kali datang menempati rumahmu, warga yang lama jualah yang telah menyambut kedatanganmu.
 
 ---
 
 ## Bab 18: Kondangan, Amplop, dan Prasmanan
 
-18:1:1 Sebelum melangkah menghadiri perjamuan pernikahan sesama,
-18:1:2 tuliskanlah nama dan asalmu dengan terang di punggung amplop sumbangan;
-18:1:3 jangan biarkan ia putih tanpa tanda bagai dermawan bayangan.
+18:1:1 Dan sebelum kamu berangkat menghadiri undangan perjamuan pernikahan sesamamu,
+18:1:2 maka tuliskanlah nama serta alamat tempat tinggalmu dengan terang pada bagian luar amplop sumbanganmu;
+18:1:3 dan janganlah kamu membiarkannya kosong tanpa nama bagaikan pemberian orang yang tak dikenal.
 
-18:2:1 Saat mengantre di meja hidangan prasmanan,
-18:2:2 ambillah nasi dan lauk-pauk sekadar cukup bagi perutmu;
-18:2:3 jangan kau tumpuk menjulang bagai gunung,
-18:2:4 hingga kuahnya meluber membasahi tepian piring.
+18:2:1 Dan tatkala kamu berdiri mengantre di hadapan meja hidangan prasmanan,
+18:2:2 maka ambillah nasi beserta lauk-pauknya sekadar mencukupi takaran perutmu;
+18:2:3 dan janganlah kamu menumpuknya secara berlebih-lebihan bagaikan gunung yang tinggi,
+18:2:4 sehingga meluber kuahnya membasahi tepian piringmu.
 
-18:3:1 Sehelai kemeja batik berlengan panjang adalah jubah kehormatan bapak-bapak Nusantara;
-18:3:2 dikenakan di perjamuan sederhana maupun gedung megah, ia senantiasa memancarkan wibawa.
+18:3:1 Ketahuilah bahwasanya kemeja batik berlengan panjang itu adalah pakaian kehormatan bagi kaum bapak di negeri ini;
+18:3:2 baik ia dikenakan di bawah tenda halaman yang sederhana maupun di dalam gedung yang megah, ia senantiasa memancarkan kewibawaan.
 
-18:4:1 Bila engkau memenuhi undangan perhelatan, datanglah di awal waktu saat tenda baru dibuka;
-18:4:2 tatkala hidangan masih mengepul hangat,
-18:4:3 dan tusukan sate ayam belum tandas diserbu tamu.
+18:4:1 Maka apabila kamu hendak memenuhi undangan perhelatan, datanglah pada awal waktu tatkala perjamuan baru dibuka;
+18:4:2 ketika hidangan-hidangan masih mengepul hangat,
+18:4:3 dan tusukan sate ayam belum lagi habis diserbu oleh para tetamu.
 
-18:5:1 Siapkanlah lembaran uang yang masih rapi dan bersih untuk dimasukkan ke dalam amplop sumbangan;
-18:5:2 sebab cara kita memuliakan tuan rumah yang sedang berbahagia,
-18:5:3 tercermin dari ketulusan kita menyiapkan hal-hal yang kecil.
+18:5:1 Dan siapkanlah lembaran uang yang masih rapi lagi bersih untuk kamu masukkan ke dalam amplop sumbanganmu;
+18:5:2 karena sesungguhnya kemuliaan hatimu dalam menghormati tuan rumah yang sedang berbahagia,
+18:5:3 tampak nyata dari kesungguhanmu menyiapkan perkara-perkara yang kecil.
 
-18:6:1 Seusai berjabat tangan memberi doa restu dan menuntaskan santapan di piringmu,
-18:6:2 janganlah duduk berlama-lama menguasai kursi perjamuan,
-18:6:3 bila dilihatnya masih banyak tamu baru yang berdiri mencari tempat duduk.
+18:6:1 Dan apabila kamu telah berjabat tangan mendoakan mempelai serta telah menuntaskan santapan di piringmu,
+18:6:2 maka janganlah kamu duduk berlama-lama menguasai kursi perjamuan itu,
+18:6:3 sedangkan kamu melihat banyak tamu yang baru tiba masih berdiri kebingungan mencari tempat duduk.
 
-18:7:1 Tahanlah tanganmu dari membungkus makanan prasmanan dengan kertas tisu ke dalam tas selagi pesta berlangsung;
-18:7:2 jagalah martabat dirimu di hadapan mata para tetangga semeja.
+18:7:1 Dan tahanlah tanganmu dari perbuatan membungkus hidangan prasmanan dengan kertas tisu untuk dimasukkan ke dalam tasmu selagi perjamuan masih berlangsung;
+18:7:2 dan peliharalah kehormatan dirimu di hadapan pandangan tetangga yang duduk semeja denganmu.
 
-18:8:1 Apabila dalam satu hari Ahad terdapat tiga undangan perhelatan sekaligus,
-18:8:2 susunlah rute perjalananmu mulai dari lokasi yang paling dekat lebih dahulu;
-18:8:3 agar waktumu tak habis menua di tengah kemacetan jalan.
+18:8:1 Dan apabila pada satu hari Ahad terkumpul atasmu tiga undangan perhelatan sekaligus,
+18:8:2 maka susunlah langkah perjalananmu dimulai dari tempat yang paling dekat jaraknya darimu;
+18:8:3 supaya tidak habis umurmu tertahan di tengah kemacetan jalan raya.
 
-18:9:1 Tatkala berjumpa kawan lama di bawah tenda perjamuan,
-18:9:2 tanyakanlah kabar kesehatannya dan doakan kebaikannya dengan tulus;
-18:9:3 jangan mencerca dengan pertanyaan "kapan menyusul menikah?",
-18:9:4 atau "berapa besaran gajimu kini?".
+18:9:1 Dan tatkala kamu berjumpa dengan kawan lamamu di bawah tenda perjamuan,
+18:9:2 maka tanyakanlah kabar keselamatannya dan doakanlah keberkahan baginya dengan tulus;
+18:9:3 dan janganlah kamu mempersempit dadanya dengan pertanyaan "kapankah kamu menyusul menikah?",
+18:9:4 atau "berapakah besaran penghasilanmu pada saat ini?".
 
-18:10:1 Undangan hajatan tetangga satu lorong yang digelar sederhana di halaman rumah,
-18:10:2 jauh lebih wajib kau hadiri dengan langkah ringan,
-18:10:3 dibandingkan undangan pesta megah orang besar yang jauh di pusat kota.
+18:10:1 Ketahuilah bahwa undangan hajatan tetangga satu lorong yang digelar sederhana di pelataran rumahnya,
+18:10:2 jauh lebih utama untuk kamu penuhi dengan langkah yang ringan,
+18:10:3 daripada undangan perjamuan megah orang berpangkat yang jauh di pusat kota.
 
-18:11:1 Jangan sekali-kali mencela rasa hidangan di tempat perhelatan orang;
-18:11:2 sebab sang pemilik hajat telah mencurahkan jerih payah dan hartanya untuk menjamu kita.
+18:11:1 Dan janganlah sekali-kali lisanmu mencela rasa masakan di tempat perjamuan orang lain;
+18:11:2 karena sesungguhnya tuan rumah itu telah mencurahkan harta serta tenaganya semata-mata untuk menjamu kedatanganmu.
 
 ---
 
 ## Bab 19: Layar Kaca dan TV yang Menonton Bapak Tidur
 
-19:1:1 Janganlah tanganmu lancang memadamkan layar kaca yang sedang menyala!
-19:1:2 Ayahmu ini bukannya terlelap dalam tidur,
-19:1:3 melainkan sedang memejamkan mata sejenak sembari menyimak warta berita.
+19:1:1 Janganlah sekali-kali tanganmu lancang memadamkan pesawat televisi yang sedang menyala itu!
+19:1:2 Sesungguhnya bapakmu ini bukanlah sedang terlelap dalam tidur,
+19:1:3 melainkan hanyalah sedang memejamkan kedua matanya sejenak sembari mendengarkan siaran berita.
 
-19:2:1 Apabila gambar di layar kaca berbayang penuh bintik semut,
-19:2:2 putarlah tiang penangkap sinyal di luar rumah dengan perlahan;
-19:2:3 janganlah kotak televisinya yang kau pukul dengan telapak tangan.
+19:2:1 Dan apabila gambar pada layar kaca itu tampak kabur dipenuhi bintik-bintik semut,
+19:2:2 maka putarlah tiang penangkap sinyal di luar rumahmu itu dengan perlahan-lahan;
+19:2:3 dan janganlah kamu memukul-mukul kotak televisinya dengan telapak tanganmu.
 
-19:3:1 Tongkat kendali jarak jauh di tangan ayahmu kala warta malam berlangsung,
-19:3:2 adalah takhta yang tak boleh diganggu gugat;
-19:3:3 bersabarlah menunggu hingga siaran usai sebelum engkau memindahkan saluran.
+19:3:1 Ketahuilah bahwa alat pengendali jarak jauh yang berada di dalam genggaman bapakmu pada jam siaran berita malam,
+19:3:2 adalah kekuasaan mutlak yang tiada boleh diganggu gugat;
+19:3:3 maka bersabarlah kamu menanti hingga siaran berita itu berakhir sebelum kamu memindahkan salurannya.
 
-19:4:1 Janganlah engkau duduk terlalu rapat menatap cahaya layar kaca;
-19:4:2 mundurlah duduk bersandar di kursi belakang agar cahaya mata mudamu tak lekas kabur.
+19:4:1 Dan janganlah kamu duduk terlampau dekat menatap pancaran cahaya layar kaca;
+19:4:2 melainkan mundurlah kamu duduk di kursi bagian belakang, supaya tidak lekas rabun penglihatan matamu.
 
-19:5:1 Bila daya baterai pada kendali televisi mulai melemah tak merespons,
-19:5:2 tepuklah perlahan di telapak tangan atau tukarlah letak kedua baterainya;
-19:5:3 niscaya ia masih sanggup bertahan melayani seminggu lagi.
+19:5:1 Dan apabila batu baterai pada alat pengendali televisi itu mulai melemah kekuatannya,
+19:5:2 maka tepuk-tepuklah ia perlahan pada telapak tanganmu atau tukarlah letak kedua baterainya;
+19:5:3 niscaya dengan izin Tuhan ia masih sanggup bertahan melayani selama sepekan lagi.
 
-19:6:1 Bungkus plastik bening yang menyelimuti kendali televisi baru janganlah kau kelupas;
-19:6:2 ikatlah rapat dengan karet gelang,
-19:6:3 agar angka-angka pada tombolnya tak luntur tergerus keringat jari.
+19:6:1 Dan janganlah kamu mengelupas bungkus plastik bening yang menyelimuti alat pengendali televisi yang baru;
+19:6:2 bahkan ikatlah ia rapat-rapat dengan gelang karet,
+19:6:3 supaya angka-angka pada tombolnya tidak pudar tergerus oleh peluh jari-jarimu.
 
-19:7:1 Kecilkanlah suara televisi tatkala malam telah merambat larut;
-19:7:2 hormatilah tetangga sebelah yang telah lebih dulu memejamkan mata.
+19:7:1 Dan rendahkanlah suara televisimu tatkala waktu malam telah merambat larut;
+19:7:2 dan peliharalah hak ketenangan tetangga sebelahmu yang telah lebih dahulu beristirahat.
 
-19:8:1 Ketika langit malam memuntahkan hujan deras disertai kilat petir yang menyambar,
-19:8:2 cabutlah segera kabel antena beserta tusuk kontak televisi dari dinding;
-19:8:3 lebih baik kehilangan tontonan semalam,
-19:8:4 daripada kehilangan televisi tersambar petir.
+19:8:1 Maka apabila langit malam mencurahkan hujan lebat yang disertai sambaran kilat dan halilintar,
+19:8:2 bersegeralah kamu mencabut kabel antena beserta tusuk kontak televisi itu dari dinding rumahmu;
+19:8:3 karena sesungguhnya kehilangan tontonan selama satu malam itu jauh lebih ringan bagimu,
+19:8:4 daripada kehilangan pesawat televisi karena disambar petir.
 
-19:9:1 Tekanlah tombol-tombol kendali dengan ujung jari yang lembut tanpa perlu menghunjamkan kuku;
-19:9:2 sebab menekan dengan halus ataupun menekan sekuat tenaga, saluran yang berpindah tetaplah sama cepatnya.
+19:9:1 Dan tekanlah tombol-tombol pengendali itu dengan ujung jari yang lembut tanpa perlu menghunjamkan kukumu;
+19:9:2 karena sesungguhnya menekan dengan lembut maupun menekan dengan sekuat tenaga, perpindahan salurannya tetaplah sama saja.
 
-19:10:1 Seusai menonton di penghujung malam, padamkanlah tombol daya televisi hingga benar-benar mati;
-19:10:2 jangan hanya membiarkan lampu merah kecilnya menyala sepanjang malam,
-19:10:3 sebab arus listrik tetap mengalir diam-diam meski layarnya telah gelap.
+19:10:1 Dan apabila kamu telah selesai menonton pada penghujung malam, maka matikanlah tombol daya utama televisi itu hingga padam seluruhnya;
+19:10:2 dan janganlah kamu membiarkan lampu merah kecilnya terus menyala sepanjang malam,
+19:10:3 sebab arus listrik itu tetap berjalan secara sembunyi-sembunyi sekalipun layarnya telah gelap.
 
-19:11:1 Kala jeda pariwara melintas di layar, bolehlah engkau menengok saluran sebelah barang sejenak;
-19:11:2 namun jangan terlena hingga terlewat acara utama yang kau tunggu sejak petang.
+19:11:1 Dan tatkala tayangan jeda niaga melintas di layar kaca, maka bolehlah kamu menengok saluran yang lain barang sebentar;
+19:11:2 akan tetapi janganlah kamu terlena di sana sehingga terlewat tayangan utama yang telah kamu tunggu sejak petang.
 
-19:12:1 Jangan pernah meletakkan gelas berisi air atau teh manis di atas kotak televisi;
-19:12:2 sebab tersenggol tumpah setetes saja ke dalam celah mesinnya,
-19:12:3 padamlah hiburan seisi rumah.
+19:12:1 Dan janganlah sekali-kali kamu meletakkan gelas berisi air atau teh manis di atas kotak televisi maupun di dekat kabelnya;
+19:12:2 sebab apabila ia tersenggol tumpah barang sedikit saja ke dalam celah mesinnya,
+19:12:3 niscaya binasalah hiburan seisi rumahmu.
 
-19:13:1 Usaplah debu yang menempel di permukaan layar kaca dengan kain kering yang lembut;
-19:13:2 jangan kau guyur dengan air basah bagaikan mencuci jendela kendaraan.
+19:13:1 Dan sapulah debu yang melekat pada permukaan layar kaca itu dengan kain kering yang halus;
+19:13:2 dan janganlah kamu menyiramnya dengan air yang basah sebagaimana kamu mencuci kaca kendaraanmu.
 
-19:14:1 Apabila anak-anak kecil turut duduk berkumpul di ruang tengah,
-19:14:2 pilihlah tayangan yang menenteramkan hati;
-19:14:3 jangan menyuguhkan warta kejahatan yang menakutkan mata polos mereka.
+19:14:1 Dan apabila anak-anak kecil turut duduk berkumpul di ruang tengah rumahmu,
+19:14:2 maka pilihkanlah bagi mereka tayangan yang baik lagi menenteramkan jiwa;
+19:14:3 dan janganlah kamu mempertontonkan siaran kejahatan yang menanamkan ketakutan ke dalam hati mereka.
 
-19:15:1 Seusai menggunakan kendali televisi, letakkanlah kembali di atas meja tengah;
-19:15:2 jangan kau selipkan di sela bantal kursi hingga terduduki oleh tamu yang datang.
+19:15:1 Dan setiap kali kamu selesai menggunakan alat pengendali televisi, maka kembalikanlah ia ke atas meja tengah di dekat asbak;
+19:15:2 dan janganlah kamu menyelipkannya di bawah bantal kursi sehingga terduduki oleh orang yang datang.
 
-19:16:1 Sekalipun zaman kini telah memberi setiap tangan layar gawainya masing-masing,
-19:16:2 duduk berkumpul menonton satu layar televisi bersama di ruang keluarga pada malam Minggu,
-19:16:3 tetaplah kehangatan yang tak tergantikan oleh kecanggihan apa pun.
+19:16:1 Ketahuilah bahwasanya sekalipun zaman ini telah memberikan kepada tiap-tiap tangan layar gawainya sendiri-sendiri,
+19:16:2 sesungguhnya duduk berkumpul menonton satu layar televisi bersama keluarga pada malam Ahad,
+19:16:3 tetaplah suatu kenikmatan kasih sayang yang tiada tergantikan oleh kecanggihan apa pun.
 
 ---
 
 ## Bab 20: Grup WhatsApp Keluarga dan Kabar Berantai
 
-20:1:1 Bila singgah pesan berantai yang mengancam kesialan jika tak disebarkan ke sepuluh orang,
-20:1:2 hapuslah ia seketika tanpa ragu di hatimu;
-20:1:3 sebab gawai di genggamanmu takkan meledak hanya karena mengabaikan takhayul maya.
+20:1:1 Dan apabila sampai kepadamu suatu pesan berantai yang mengancamkan kesialan jika tidak kamu sebarkan kepada sepuluh orang,
+20:1:2 maka hapuslah pesan itu seketika tanpa keraguan sedikit pun di dalam dadamu;
+20:1:3 karena sesungguhnya gawai di tanganmu tiada akan meledak hanya karena kamu mengabaikan ancaman yang dusta itu.
 
-20:2:1 Tatkala paman atau bibimu mengirim sapaan pagi di ruang percakapan keluarga,
-20:2:2 sambutlah setidaknya dengan lambang ibu jari atau untaian doa kesehatan;
-20:2:3 jangan biarkan sapaan kasih itu membisu tanpa sahutan.
+20:2:1 Dan apabila paman atau bibimu mengirimkan sapaan pagi di dalam ruang percakapan keluarga besar,
+20:2:2 maka balaslah sapaan itu setidak-tidaknya dengan tanda ibu jari atau doa keselamatan;
+20:2:3 dan janganlah kamu membiarkan sapaan kasih sayang mereka itu membisu tanpa seorang pun yang menyahutinya.
 
-20:3:1 Ketika membaca kabar gempar yang beredar di grup keluarga,
-20:3:2 saringlah kebenarannya dengan akal yang jernih terlebih dahulu;
-20:3:3 jangan hanya membaca tajuknya lalu tergesa menyebarkan kabar dusta.
+20:3:1 Wahai anakku, apabila datang kepadamu suatu berita yang menggemparkan di dalam grup percakapan keluarga,
+20:3:2 maka periksalah kebenarannya dengan akal yang jernih terlebih dahulu;
+20:3:3 dan janganlah kamu hanya membaca judulnya semata lalu tergesa-gesa menyebarkannya kepada orang banyak, sehingga kamu termasuk golongan orang-orang yang menyesal.
 
-20:4:1 Gambar ucapan selamat pagi berhias mawar mekar dan secangkir kopi,
-20:4:2 janganlah kau tertawakan sebagai keusangan zaman;
-20:4:3 sebab itulah cara tulus orang tua mengabarkan bahwa mereka masih sehat dan mengingatmu.
+20:4:1 Adapun gambar ucapan selamat pagi yang berhiaskan sekuntum mawar dan secangkir kopi itu,
+20:4:2 janganlah kamu menertawakannya sebagai tanda ketinggalan zaman;
+20:4:3 karena sesungguhnya yang demikian itu adalah cara yang tulus dari orang-orang tua untuk mengabarkan bahwa mereka masih sehat dan senantiasa mengingatmu.
 
-20:5:1 Periksalah baik-baik nama ruang percakapan sebelum ibu jarimu menekan tombol kirim;
-20:5:2 jangan sampai keluh kesah atau gurauan kawan sebaya salah mendarat di grup keluarga besar,
-20:5:3 hingga menanggung malu sampai hari raya tahun depan.
+20:5:1 Dan perhatikanlah dengan cermat nama ruang percakapan itu sebelum ibu jarimu menekan tombol pengiriman;
+20:5:2 janganlah sampai keluh kesah atau senda gurau kawan sebayamu salah terkirim ke dalam majelis keluarga besar,
+20:5:3 sehingga kamu menanggung rasa malu sampai tiba hari raya tahun hadapan.
 
-20:6:1 Apabila ada kerabat yang membagikan potret keberhasilan anaknya di ruang keluarga,
-20:6:2 kirimkanlah ucapan selamat dan doa yang tulus dari hatimu;
-20:6:3 jangan membiarkan kebahagiaan saudara berlalu dalam sunyi yang dingin.
+20:6:1 Dan apabila ada seorang kerabatmu yang membagikan potret keberhasilan anaknya di dalam grup keluarga,
+20:6:2 maka ucapkanlah selamat dan panjatkanlah doa kebaikan baginya dengan hati yang bersih;
+20:6:3 dan janganlah kamu mendiamkan kebahagiaan saudaramu itu dengan hati yang dingin.
 
-20:7:1 Ukuran huruf pada layar gawai ayahmu sengaja diatur sebesar jempol tangan,
-20:7:2 bukanlah karena ingin tampil beda dari yang muda;
-20:7:3 melainkan agar mata tua ini dapat membaca pesanmu,
-20:7:4 tanpa harus menempelkan kacamata ke layar kaca.
+20:7:1 Ketahuilah bahwa ukuran huruf pada layar gawai bapakmu yang diatur sebesar ibu jari itu,
+20:7:2 bukanlah sekali-kali untuk bermegah-megahan di hadapan manusia;
+20:7:3 melainkan supaya mata yang telah menua ini sanggup membaca pesanmu,
+20:7:4 tanpa harus menempelkan layar kaca itu tepat ke hadapan kacamata.
 
-20:8:1 Bila hendak meluruskan kekeliruan keponakan atau kerabat,
-20:8:2 sapalah ia melalui jalur pesan pribadi empat mata;
-20:8:3 jangan menegur di tengah ruang percakapan bersama hingga meruntuhkan air mukanya.
+20:8:1 Dan apabila kamu hendak menasihati keponakan atau saudaramu yang berbuat kekeliruan,
+20:8:2 maka hubungilah ia melalui jalur pesan pribadi secara empat mata;
+20:8:3 dan janganlah kamu mempermalukannya di tengah ruang percakapan keluarga besar sehingga jatuh kehormatannya.
 
-20:9:1 Janganlah mengunduh setiap video dan rekaman suara tak jelas yang berseliweran di dalam grup;
-20:9:2 sebab itulah biang keladi yang membuat ruang penyimpanan gawai ayahmu menjerit penuh setiap pekan.
+20:9:1 Dan janganlah kamu mengunduh segala gambar bergerak serta rekaman suara yang tiada jelas asal-usulnya di dalam grup;
+20:9:2 karena sesungguhnya perbuatan itulah yang menyebabkan ruang penyimpanan gawai bapakmu sesak lagi penuh pada tiap-tiap pekan.
 
-20:10:1 Apabila sambungan telepon internet terdengar terputus-putus bagai suara robot,
-20:10:2 matikanlah sejenak dan beralihlah ke sambungan telepon biasa agar terang urusannya.
+20:10:1 Dan apabila panggilan suara melalui jaringan internet itu terdengar terputus-putus bagaikan suara besi yang berderak,
+20:10:2 maka putuskanlah ia sejenak dan beralihlah kepada panggilan telepon biasa supaya terang pembicaraanmu.
 
-20:11:1 Tatkala ayahmu tampak lama mengetik balasan pesan dengan satu jari telunjuknya,
-20:11:2 tunggulah dengan sabar dan jangan menghujaninya dengan tanda tanya.
+20:11:1 Dan tatkala kamu melihat bapakmu membutuhkan waktu yang lama untuk mengetik balasan pesan dengan satu jari telunjuknya,
+20:11:2 maka bersabarlah kamu menantinya dan janganlah kamu mendesaknya dengan deretan tanda tanya.
 
-20:12:1 Jangan sekali-kali jarimu menekan tautan hadiah undian atau kiriman paket asing di dalam grup;
-20:12:2 sebab pencuri zaman kini tak lagi mencongkel jendela kayu,
-20:12:3 melainkan menyelinap masuk melalui tautan layar gawai.
+20:12:1 Dan janganlah sekali-kali jarimu menekan tautan hadiah undian ataupun kiriman bungkusan yang tiada kamu ketahui asalnya;
+20:12:2 karena sesungguhnya pencuri pada zaman ini tiada lagi mencongkel jendela kayu di malam hari,
+20:12:3 melainkan mereka menyelinap menguras hartamu melalui tautan di dalam layar gawai.
 
-20:13:1 Meninggalkan ruang percakapan keluarga hanya karena tersinggung perkara sepele adalah laku kekanak-kanakan;
-20:13:2 cukuplah bisukan dering pemberitahuannya sejenak bila suasana sedang terlalu riuh.
+20:13:1 Ketahuilah bahwa keluar meninggalkan ruang percakapan keluarga hanya karena tersinggung perkara yang kecil adalah perbuatan yang kurang dewasa;
+20:13:2 maka cukuplah kamu membisukan dering pemberitahuannya barang sejenak apabila perbincangan di dalamnya sedang terlampau riuh.
 
-20:14:1 Potret kenangan masa silam yang dikirimkan kembali ke dalam grup keluarga,
-20:14:2 adalah pengobat rindu paling sederhana,
-20:14:3 bagi saudara sekandung yang kini terpisah jarak antarbenua dan kota.
+20:14:1 Sesungguhnya potret-potret kenangan masa lampau yang dikirimkan kembali ke dalam ruang percakapan keluarga itu,
+20:14:2 adalah sebaik-baik penawar kerinduan yang paling sederhana,
+20:14:3 bagi saudara-saudara sekandung yang kini telah dipisahkan oleh jauhnya jarak kota.
 
 ---
 
 ## Bab 21: Kata Sandi, Kacamata Baca, dan Lupa Menaruh Barang
 
-21:1:1 Janganlah merangkai kata sandi yang terlampau rumit lagi berliku,
-21:1:2 tulislah ia di buku catatan kecil dan simpan di laci pribadimu;
-21:1:3 jangan sampai pencuri belum datang, namun engkau sendiri telah terkunci di luar.
+21:1:1 Dan janganlah kamu membuat kata sandi atau angka rahasia yang terlampau rumit lagi berbelit-belit,
+21:1:2 melainkan catatlah ia di dalam kitab catatan kecil dan simpanlah di dalam laci lemarimu;
+21:1:3 janganlah sampai orang jahat belum lagi datang mendekat, sedangkan kamu sendiri telah terkunci tidak dapat membukanya.
 
-21:2:1 Terkadang kacamata baca dicari berkeliling rumah dengan hati yang gelisah,
-21:2:2 padahal sejak mula ia bertengger tenang di atas dahi sendiri;
-21:2:3 demikianlah manusia kerap mencari jauh apa yang sudah menempel di dirinya.
+21:2:1 Dan sungguh, adakalanya kacamata baca itu dicari berkeliling rumah dengan hati yang amat gelisah,
+21:2:2 padahal sejak semula ia telah bertengger dengan tenang di atas dahimu sendiri;
+21:2:3 demikianlah perumpamaan manusia yang kerap kali mencari ke tempat yang jauh apa yang sesungguhnya telah melekat pada dirinya.
 
-21:3:1 Setiap kali kembali dari perjalanan, gantungkanlah anak kunci tungganganmu pada pengait di dekat pintu;
-21:3:2 jangan kau letakkan sembarangan di atas lemari pendingin atau meja makan,
-21:3:3 agar tak habis waktumu esok pagi hanya untuk mencari benda sekecil jari.
+21:3:1 Maka setiap kali kamu kembali pulang dari bepergian, gantungkanlah anak kunci tungganganmu pada pengait yang tetap di dekat pintu;
+21:3:2 dan janganlah kamu meletakkannya secara sembarangan di atas lemari pendingin atau meja makan,
+21:3:3 supaya tidak habis waktumu pada esok pagi hanya untuk mencari benda yang sekecil jari.
 
-21:4:1 Bertambahnya usia memang membuat ingatan tentang letak benda kian memendek,
-21:4:2 namun sungguh ajaib ingatan seorang ayah:
-21:4:3 perihal kawan lama yang meminjam uang sepuluh tahun silam,
-21:4:4 tetap terukir terang di luar kepala.
+21:4:1 Ketahuilah bahwasanya bertambahnya umur seseorang itu memang menjadikan ingatannya tentang letak barang kian memendek,
+21:4:2 akan tetapi sungguh menakjubkan ingatan seorang bapak:
+21:4:3 mengenai kawan lama yang berhutang kepadanya sepuluh tahun yang silam,
+21:4:4 niscaya tetap terukir dengan terang di dalam ingatannya.
 
-21:5:1 Adakalanya kaki melangkah gagah dari ruang tengah menuju ke dapur,
-21:5:2 namun setibanya di hadapan lemari pendingin, raga hanya berdiri termangu;
-21:5:3 lupa sama sekali apa gerangan yang hendak diambil tadi.
+21:5:1 Dan di antara tanda-tanda bertambahnya usia adalah tatkala seseorang melangkah dengan gagah dari ruang tamu menuju ke dapur,
+21:5:2 namun setibanya ia di hadapan pintu lemari pendingin, ia hanya berdiri termangu dalam kebingungan;
+21:5:3 terlupa sama sekali apakah gerangan hajat yang hendak diambilnya tadi.
 
-21:6:1 Biasakanlah menyelipkan karcis parkir di saku kemeja dada yang sama setiap waktu;
-21:6:2 agar saat hendak keluar dari gerbang pelataran parkir,
-21:6:3 engkau tak panik menepuk-nepuk seluruh saku celana di depan antrean kendaraan.
+21:6:1 Dan biasakanlah menyelipkan lembar karcis parkir kendaraanmu di dalam saku kemeja dada yang sama pada setiap waktu;
+21:6:2 supaya tatkala kamu hendak melangkah keluar melewati palang gerbang perhentian,
+21:6:3 kamu tidak gugup menepuk-nepuk seluruh saku celanamu di hadapan antrean orang banyak.
 
-21:7:1 Bila ayahmu hendak memanggil namamu namun lidahnya keliru menyebut deretan nama saudaramu lebih dulu,
-21:7:2 tersenyumlah dan maklumilah dengan hangat;
-21:7:3 sebab di dalam benak ayahmu, kalian semua tersimpan di ruang kasih yang sama.
+21:7:1 Dan apabila bapakmu hendak memanggil namamu lalu lisannya keliru menyebutkan nama saudara-saudaramu terlebih dahulu satu demi satu,
+21:7:2 maka tersenyumlah kamu dan maafkanlah kekeliruannya itu dengan dada yang lapang;
+21:7:3 karena sesungguhnya di dalam hati bapakmu, kalian semua menempati bilik kasih sayang yang satu.
 
-21:8:1 Kumpulkanlah surat-surat berharga keluarga di dalam satu tas map khusus di lemari utama;
-21:8:2 jangan biarkan akta, ijazah, dan surat kendaraan tercecer di berbagai laci.
+21:8:1 Dan himpunkanlah surat-surat berharga milik keluargamu ke dalam satu kantong penyimpanan khusus di dalam lemari yang aman;
+21:8:2 dan janganlah kamu membiarkan surat tanah, ijazah, serta surat kendaraanmu tercerai-berai di berbagai tempat.
 
-21:9:1 Sungguh misteri terbesar di dalam rumah tangga adalah keberadaan pemotong kuku:
-21:9:2 meski telah dibeli berulang kali hingga lima jumlahnya,
-21:9:3 setiap hari Jumat tiba, tak satu pun yang menampakkan batang besinya.
+21:9:1 Dan sesungguhnya salah satu rahasia yang paling mengherankan di dalam rumah tangga adalah perihal alat pemotong kuku:
+21:9:2 sekalipun ia telah dibeli berulang-ulang hingga lima banyaknya,
+21:9:3 setiap kali tiba hari Jumat, tiada satu batang pun darinya yang menampakkan dirinya.
 
-21:10:1 Sebelum melangkah keluar meninggalkan ambang pintu rumah,
-21:10:2 tepuklah saku untuk memastikan tiga pusaka utama: dompet, kunci, dan gawai;
-21:10:3 selama ketiganya telah bersama di saku, tenanglah perjalananmu.
+21:10:1 Maka sebelum kakimu melangkah keluar meninggalkan ambang pintu rumahmu untuk bepergian,
+21:10:2 raba dan periksalah tiga benda utama di dalam sakumu: dompetmu, anak kuncimu, serta gawaimu;
+21:10:3 apabila ketiganya telah lengkap bersamamu, maka berjalanlah kamu dengan hati yang tenang.
 
-21:11:1 Ikatlah tangkai kacamata bacamu dengan tali pengalung di leher,
-21:11:2 agar ia tak lagi tertinggal sendirian di meja warung kopi.
+21:11:1 Dan ikatkanlah tangkai kacamata bacamu itu dengan tali pengalung di lehermu,
+21:11:2 supaya ia tidak lagi tertinggal seorang diri di atas meja warung kopi.
 
-21:12:1 Apabila ada barang penting yang wajib kau bawa esok pagi,
-21:12:2 letakkanlah ia malam ini tepat di dekat sepatu kerjamu;
-21:12:3 sebab ingatan kepala boleh jadi terlupa, namun langkah kaki pasti akan menyentuhnya.
+21:12:1 Dan apabila ada suatu barang penting yang wajib kamu bawa pada esok paginya,
+21:12:2 maka letakkanlah barang itu pada malam ini tepat di dekat alas kaki kerjamu;
+21:12:3 karena sesungguhnya ingatan kepalamu boleh jadi terlupa, akan tetapi langkah kakimu pasti akan menyentuhnya.
 
 ---
 
 ## Bab 22: Halaman Rumah, Tanaman Teras, dan Jemuran
 
-22:1:1 Janganlah sembarangan menyiramkan sisa ampas kopi ayahmu ke pot tanaman hias kesayangan ibumu;
-22:1:2 sebab bila daun-daunnya layu menguning, niscaya hilanglah ketenangan kita di beranda rumah.
+22:1:1 Dan janganlah kamu menyiramkan sisa ampas kopi bapakmu secara sembarangan ke dalam pot tanaman hias kesayangan ibumu;
+22:1:2 sebab apabila daun-daun tanaman itu layu menguning, niscaya lenyaplah pula ketenangan duduk kita di beranda rumah.
 
-22:2:1 Tatkala awan hitam menggantung dan rintik gerimis mulai jatuh ke bumi,
-22:2:2 bergegaslah berlari menyelamatkan pakaian di tali jemuran;
-22:2:3 jangan hanya berdiri di ambang pintu sembari bertanya, "apakah sedang turun hujan?"
+22:2:1 Maka apabila kamu melihat awan hitam telah menggantung pekat dan rintik hujan mulai jatuh dari langit,
+22:2:2 bersegeralah kamu berlari menyelamatkan pakaian-pakaian yang tergantung pada tali jemuran;
+22:2:3 dan janganlah kamu hanya berdiri terpaku di ambang pintu seraya bertanya, "Apakah di luar sedang turun hujan?"
 
-22:3:1 Sapulah pelataran depan rumahmu setiap pagi selagi embun belum kering;
-22:3:2 sebab halaman yang bersih dan asri tanpa guguran daun,
-22:3:3 mengundang langkah tamu yang baik serta melapangkan jalan rezeki.
+22:3:1 Dan sapulah pelataran depan rumahmu pada tiap-tiap pagi selagi embun belum mengering;
+22:3:2 karena sesungguhnya halaman rumah yang bersih lagi asri dari guguran dedaunan,
+22:3:3 akan mengundang kedatangan tamu yang membawa berkah serta melapangkan pintu rezeki.
 
-22:4:1 Dahan pohon mangga atau jambu tetangga yang menjulur menyeberangi pagar rumahmu,
-22:4:2 tetaplah berakar di tanah milik tetanggamu;
-22:4:3 mintalah izin dengan santun sebelum memetik buahnya, agar manis rasanya dan berkah di perutmu.
+22:4:1 Ketahuilah bahwa dahan pohon mangga atau jambu milik tetanggamu yang menjulur melewati batas pagar rumahmu,
+22:4:2 sesungguhnya akarnya tetaplah tertanam di atas tanah milik tetanggamu itu;
+22:4:3 maka mintalah izin kepadanya dengan cara yang patut sebelum kamu memetik buahnya, supaya halal lagi berkah apa yang masuk ke dalam perutmu.
 
-22:5:1 Siramlah tanaman di pot beranda pada kesejukan pagi atau saat matahari sore mulai meredup;
-22:5:2 jangan kau guyur di tengah terik siang bolong yang menyengat,
-22:5:3 agar akar-akarnya tak terkejut layu kepanasan.
+22:5:1 Dan siramlah tanaman-tanaman di pekaranganmu pada kesejukan waktu pagi atau tatkala panas matahari petang telah meredup;
+22:5:2 dan janganlah kamu mengguyurnya di tengah terik matahari siang yang menyengat,
+22:5:3 supaya tidak terkejut akar-akarnya lalu mati kekeringan.
 
-22:6:1 Seusai menggunakan selang air untuk membasahi halaman,
-22:6:2 gulunglah kembali melingkar rapi pada gantungannya di dekat keran;
-22:6:3 jangan dibiarkan melintang bagai ular di pelataran hingga terlindas roda kendaraan.
+22:6:1 Dan apabila kamu telah selesai menggunakan selang air untuk menyirami halamanmu,
+22:6:2 maka gulunglah ia kembali dengan melingkar rapi pada gantungannya di dekat keran;
+22:6:3 dan janganlah kamu membiarkannya melintang di tengah jalan sehingga terlindas oleh roda kendaraan.
 
-22:7:1 Jemurlah bantal dan kasur di bawah terik matahari sembari ditepuk dengan sapu lidi kasur;
-22:7:2 niscaya debu dan tungau berhamburan pergi,
-22:7:3 dan tidur malammu akan harum beraroma mentari yang hangat.
+22:7:1 Dan jemurlah bantal serta tilam kasurmu di bawah sinar matahari yang terik sembari kamu pukul-pukul dengan pemukul kasur;
+22:7:2 supaya berhamburan pergi segala debu dan kutu yang bersembunyi di dalamnya,
+22:7:3 sehingga tidurmu pada malam hari terasa hangat lagi harum beraroma matahari.
 
-22:8:1 Cabutlah rumput liar yang menyembul di sela batu halaman sesaat setelah hujan reda;
-22:8:2 sebab kala tanah masih basah dan gembur, akarnya mudah terangkat tanpa menguras tenaga.
+22:8:1 Dan cabutlah rumput-rumput liar yang tumbuh menyembul di sela-sela batu halamanmu sesaat setelah hujan mereda;
+22:8:2 karena sesungguhnya tatkala tanah itu masih basah lagi lunak, niscaya terangkatlah ia sampai ke akar-akarnya dengan mudah.
 
-22:9:1 Jepitlah bahu pakaian yang tergantung di tali jemuran dengan penjepit yang kuat;
-22:9:2 agar saat angin kencang berhembus melintasi halaman,
-22:9:3 bajumu tak terbang melayang hingga tersangkut di atap rumah tetangga.
+22:9:1 Dan jepitlah pakaian yang kamu gantungkan pada tali jemuran itu dengan penjepit yang kuat;
+22:9:2 supaya tatkala angin kencang berhembus menerpa pekaranganmu,
+22:9:3 pakaianmu tidak terbang melayang hingga tersangkut di atas atap rumah tetanggamu.
 
-22:10:1 Nyalakanlah pelita teras depan tepat saat senja turun dan padamkanlah kala fajar menyingsing;
-22:10:2 sebab beranda rumah yang terang benderang di malam hari,
-22:10:3 menjaga keselamatan rumahmu sekaligus menerangi langkah warga yang melintas.
+22:10:1 Dan nyalakanlah lampu beranda depan rumahmu tatkala senja telah turun, dan padamkanlah ia tatkala fajar telah terang;
+22:10:2 karena sesungguhnya beranda rumah yang terang pada waktu malam itu,
+22:10:3 menjaga keamanan rumahmu sekaligus menerangi jalan bagi orang-orang yang melintas di lorongmu.
 
-22:11:1 Bersihkanlah guguran daun kering yang menyumbat talang air di tepi atap sebelum musim penghujan tiba;
-22:11:2 agar curahan air langit mengalir lancar ke selokan,
-22:11:3 dan tidak meluap merembes merusak langit-langit kamar.
+22:11:1 Dan bersihkanlah guguran daun-daun kering yang menyumbat saluran talang atapmu sebelum datangnya musim penghujan;
+22:11:2 supaya air hujan yang turun dari langit itu mengalir lancar menuju selokan,
+22:11:3 dan tidak meluap merembes merusakkan langit-langit rumahmu.
 
-22:12:1 Saat menjemur pakaian berwarna di bawah terik matahari, baliklah bagian dalamnya menghadap keluar;
-22:12:2 agar warna kain kesayanganmu tak lekas pudar dimakan cahaya siang.
+22:12:1 Dan apabila kamu menjemur pakaian yang berwarna di bawah terik matahari, maka balikkanlah bagian dalamnya menghadap ke luar;
+22:12:2 supaya warna pakaianmu itu tidak lekas pudar ditelan oleh teriknya cahaya siang.
 
-22:13:1 Tanamlah setidaknya serumpun cabai, batang serai, dan daun jeruk di sudut pekarangan;
-22:13:2 agar kala ibumu membutuhkan bumbu dapur secara mendadak di malam hari,
-22:13:3 tanganmu tinggal memetik dari tanah sendiri.
+22:13:1 Dan tanamlah olehmu setidak-tidaknya serumpun pohon cabai, serai, serta daun jeruk di sudut pekarangan rumahmu;
+22:13:2 supaya apabila ibumu memerlukan bumbu masakan secara mendadak pada waktu malam,
+22:13:3 tanganmu cukup memetiknya dari hasil tanamanmu sendiri.
 
-22:14:1 Janganlah membakar tumpukan sampah plastik di pelataran depan rumah;
-22:14:2 sebab kepulan asap hitamnya yang pekat akan menyergap jemuran dan ruang tamu tetangga sebelah.
+22:14:1 Dan janganlah sekali-kali kamu membakar tumpukan sampah plastik di halaman depan rumahmu;
+22:14:2 karena sesungguhnya kepulan asap hitamnya yang busuk itu akan menyergap pakaian jemuran serta menyesakkan dada tetangga di sebelahmu.
 
-22:15:1 Usaplah kursi kayu di beranda depan setiap pagi dari endapan debu jalanan;
-22:15:2 agar kapan pun tetangga atau kerabat singgah bertandang,
-22:15:3 tempat duduk yang bersih telah siap menyambut mereka.
+22:15:1 Dan sekalah kursi-kursi kayu di beranda depan rumahmu pada tiap-tiap pagi dari endapan debu jalanan;
+22:15:2 supaya bilamana saja datang tetangga atau kerabat bertandang ke rumahmu,
+22:15:3 telah tersedia tempat duduk yang suci lagi bersih untuk menyambut mereka.
 
 ---
 
 ## Bab 23: Burung Kicau, Ikan Hias, dan Kucing Liar
 
-23:1:1 Jemurlah burung kicau di bawah hangat mentari pagi sembari kau sapa dengan siulan;
-23:1:2 meski ia tak pernah membalas dengan kata-kata manusia,
-23:1:3 nyanyian merdunya adalah penyejuk bagi hati yang penat.
+23:1:1 Dan jemurlah burung kicaumu di bawah hangatnya sinar matahari pagi sembari kamu menyapanya dengan siulan;
+23:1:2 sekalipun ia tiada pernah menjawabmu dengan perkataan manusia,
+23:1:3 sesungguhnya kicauannya yang merdu itu adalah penyejuk bagi dada yang sempit oleh kepenatan.
 
-23:2:1 Dua ekor ikan cupang jantan bila disatukan dalam satu wadah kaca,
-23:2:2 niscaya akan saling menerjang mengembangkan insang;
-23:2:3 persis seperti tingkah kalian bersaudara kala berebut kendali televisi di ruang tengah.
+23:2:1 Tidakkah kamu memperhatikan dua ekor ikan cupang jantan apabila disatukan di dalam sebuah bejana kaca?
+23:2:2 Niscaya keduanya akan saling menerjang seraya mengembangkan insangnya;
+23:2:3 demikianlah perumpamaan tingkah laku kalian bersaudara tatkala saling memperebutkan kendali televisi di ruang tengah.
 
-23:3:1 Bila seekor kucing kampung datang mengeong meminta belas kasih di dekat meja makan,
-23:3:2 berikanlah sedikit potongan ikan dan jangan kau usir dengan tendangan;
-23:3:3 sebab berbagi kepada makhluk tak berdosa akan melunakkan kerasnya hati.
+23:3:1 Dan apabila datang seekor kucing kampung mengeong meminta belas kasihan di dekat meja makanmu,
+23:3:2 maka berikanlah kepadanya sepotong bagian ikan dan janganlah kamu menghardiknya dengan tendangan kakimu;
+23:3:3 karena sesungguhnya berbuat kasih sayang kepada makhluk yang lemah itu akan melembutkan hati yang keras.
 
-23:4:1 Mendengarkan alunan suara burung perkutut di teras pagi sungguh menenteramkan jiwa;
-23:4:2 terlebih lagi bila terdengar merdu,
-23:4:3 tepat setelah tagihan cicilan bulan ini lunas terbayar semuanya.
+23:4:1 Sesungguhnya mendengarkan alunan suara burung perkutut di beranda rumah pada waktu pagi itu amatlah menenteramkan jiwa;
+23:4:2 terlebih lagi apabila suaranya terdengar olehmu,
+23:4:3 sesaat setelah seluruh tanggungan cicilanmu pada bulan ini telah lunas terbayar.
 
-23:5:1 Barang siapa memelihara burung di sangkar atau ikan di kolam,
-23:5:2 wajiblah memeriksa kecukupan air minum dan pakannya setiap pagi;
-23:5:3 jangan hanya gemar menikmati keindahannya, namun lalai memberi hak hidupnya.
+23:5:1 Maka barang siapa memelihara burung di dalam sangkar atau ikan di dalam kolam,
+23:5:2 wajiblah atasnya memeriksa kecukupan air minum serta makanannya pada tiap-tiap pagi;
+23:5:3 dan janganlah kamu hanya menyukai keindahan rupanya semata, sedangkan kamu melalaikan hak-hak hidupnya.
 
-23:6:1 Taburkanlah butiran pakan ikan di akuarium secukupnya saja sesuai takaran;
-23:6:2 sebab pakan yang berlebihan hanya akan membuat air lekas keruh dan membahayakan ikanmu.
+23:6:1 Dan taburkanlah butir-butir makanan ikan ke dalam akuarium itu sekadar takaran yang patut;
+23:6:2 karena sesungguhnya pemberian yang melampaui batas itu hanyalah akan mengeruhkan kejernihan airnya dan mencelakakan ikanmu sendiri.
 
-23:7:1 Bersihkanlah alas sangkar burung setiap petang dengan semprotan air yang mengalir;
-23:7:2 agar teras tempat keluarga bersantai tetap segar udaranya,
-23:7:3 dan tidak menjadi sarang penyakit maupun nyamuk malam.
+23:7:1 Dan bersihkanlah alas kotoran pada sangkar burungmu pada tiap-tiap waktu petang dengan kucuran air yang mengalir;
+23:7:2 supaya beranda tempat keluargamu duduk bercengkerama senantiasa suci udaranya,
+23:7:3 dan tidak menjadi tempat bersarangnya penyakit maupun nyamuk di malam hari.
 
-23:8:1 Suara gemericik air yang jatuh dari saringan akuarium di sudut ruang tamu,
-23:8:2 adalah musik alam yang perlahan meluruhkan ketegangan kepala seusai seharian bekerja.
+23:8:1 Dan di antara tanda-tanda keteduhan rumah adalah suara gemericik air yang jatuh dari saringan akuarium di sudut ruang tamu,
+23:8:2 yang perlahan-lahan meluruhkan ketegangan pikiranmu seusai seharian berpeluh mencari nafkah.
 
-23:9:1 Apabila kucing liar gemar meringkuk tidur di atas sadel motor ayahmu di malam hari,
-23:9:2 halaulah dengan tepukan lembut lalu bentangkan keset tua di atas sadelnya;
-23:9:3 agar kucing tak terluka, dan kulit sadel pun selamat dari cakarannya.
+23:9:1 Dan apabila seekor kucing liar gemar meringkuk tidur di atas pelana tunggangan bapakmu pada waktu malam,
+23:9:2 maka halaulah ia dengan tepukan yang lembut lalu hamparkanlah pengelap kaki yang usang di atas pelana itu;
+23:9:3 supaya kucing itu tiada tersakiti, dan kulit pelana tungganganmu terpelihara dari goresan kukunya.
 
-23:10:1 Menyayangi hewan peliharaan di rumah adalah latihan melembutkan nurani;
-23:10:2 bila makhluk yang tak pandai bicara saja kita perhatikan kebutuhannya,
-23:10:3 tentulah kita akan lebih peka lagi,
-23:10:4 dalam menyayangi sesama anggota keluarga.
+23:10:1 Ketahuilah bahwasanya menyayangi binatang peliharaan di dalam rumah itu adalah latihan untuk melembutkan hati nuranimu;
+23:10:2 sebab apabila terhadap makhluk yang tiada pandai berbicara saja kamu menaruh belas kasihan,
+23:10:3 maka sudah barang tentu kamu akan lebih peka lagi,
+23:10:4 dalam mencurahkan kasih sayang kepada sesama anggota keluargamu.
 
-23:11:1 Saat malam turun menyelimuti beranda, selubungilah sangkar burung dengan kain penutupnya;
-23:11:2 sebab burung kecil pun butuh beristirahat dalam hangat tanpa gigil angin malam.
+23:11:1 Dan apabila gelap malam telah turun menyelimuti beranda rumahmu, maka selubungilah sangkar burung itu dengan kain penutupnya;
+23:11:2 karena sesungguhnya burung yang kecil itu pun memerlukan istirahat yang hangat dari terpaan angin malam.
 
 ---
 
 ## Bab 24: Masuk Angin, Kerokan, dan Minyak Angin
 
-24:1:1 Tatkala raga menggigil meriang diserang masuk angin,
-24:1:2 tiada penawar yang lebih mujarab selain goresan koin logam dan minyak hangat di punggung,
-24:1:3 hingga tampak jalur-jalur merah pertanda angin mulai terusir.
+24:1:1 Dan apabila jasadmu menggigil meriang karena ditimpa penyakit masuk angin,
+24:1:2 maka tiadalah penawar yang lebih mujarab selain goresan keping logam beserta minyak hangat di atas punggungmu,
+24:1:3 sehingga tampaklah garis-garis merah yang nyata sebagai tanda keluarnya angin dari tubuhmu.
 
-24:2:1 Harum semerbak minyak angin yang menguar dari saku kemeja ayahmu,
-24:2:2 bukanlah pertanda raga yang telah rapuh dimakan usia, melainkan wewangian pejuang nafkah keluarga.
+24:2:1 Dan janganlah kamu mengira harum minyak angin yang semerbak dari saku kemeja bapakmu itu sebagai tanda kelemahan usia tua,
+24:2:2 melainkan sesungguhnya itulah wewangian perjuangan seorang pencari nafkah bagi keluarganya.
 
-24:3:1 Ingatlah baik-baik: seusai punggungmu selesai dikerok,
-24:3:2 kenakanlah pakaian tebal dan jangan sekali-kali menyentuh air dingin;
-24:3:3 agar pori-pori yang terbuka tak kembali dimasuki angin malam.
+24:3:1 Maka ingatlah baik-baik: apabila punggungmu telah selesai dikerok,
+24:3:2 kenakanlah pakaian yang tebal dan janganlah sekali-kali kamu menyentuh air yang dingin;
+24:3:3 supaya celah-celah kulitmu yang telah terbuka itu tidak kembali dimasuki oleh kejahatan angin malam.
 
-24:4:1 Apabila di tengah goresan koin di punggung terdengar sendawa nyaring berulang kali,
-24:4:2 tersenyumlah dengan lega;
-24:4:3 sebab itulah pertanda nyata bahwa angin pengganggu telah keluar meninggalkan ragamu.
+24:4:1 Dan apabila di tengah-tengah goresan logam di atas punggungmu itu terdengar bunyi sendawa yang nyaring berulang-ulang,
+24:4:2 maka bergembiralah kamu dengan hati yang lega;
+24:4:3 karena sesungguhnya yang demikian itu adalah pertanda yang nyata bahwa angin penyakit telah terusir keluar dari jasadmu.
 
-24:5:1 Pilihlah keping uang logam yang tepiannya tumpul dan halus untuk mengerok punggung;
-24:5:2 jangan gunakan koin baru yang bergerigi tajam,
-24:5:3 sebab niat kita adalah mengusir angin dari badan, bukan menguliti punggung.
+24:5:1 Dan pilihlah olehmu keping uang logam yang tumpul lagi halus tepiannya untuk mengerok punggung;
+24:5:2 dan janganlah kamu menggunakan keping logam yang baru lagi tajam geriginya,
+24:5:3 sebab sesungguhnya niat kita hanyalah mengeluarkan angin dari dalam badan, dan bukanlah sekali-kali untuk melukai kulit punggung.
 
-24:6:1 Saat memacu motor menembus dinginnya angin malam,
-24:6:2 kancingkanlah jaketmu rapat hingga ke leher dan jangan dikenakan terbalik di dada;
-24:6:3 sebab bila angin malam menembus paru-paru, panjang urusan sakitnya.
+24:6:1 Dan tatkala kamu memacu tungganganmu menembus dinginnya udara malam,
+24:6:2 maka kancingkanlah pakaian pelindungmu rapat-rapat sampai ke leher dan janganlah kamu mengenakannya secara terbalik di dadamu;
+24:6:3 karena sesungguhnya apabila angin malam itu menembus masuk ke dalam dadamu, niscaya beratlah urusan penyakitnya.
 
-24:7:1 Bila tenggorokan mulai terasa gatal dan hidung tersumbat gejala flu,
-24:7:2 seduhlah jahe memar dengan air panas dan sesendok madu murni;
-24:7:3 jangan sedikit-sedikit terburu menelan obat kimia dari warung.
+24:7:1 Dan apabila kerongkonganmu mulai terasa gatal serta hidungmu tersumbat oleh gejala demam,
+24:7:2 maka seduhlah rimpang jahe yang dimemarkan dengan air panas beserta sesendok madu lebah;
+24:7:3 dan janganlah kamu sedikit-sedikit tergesa menelan obat-obatan buatan dari kedai.
 
-24:8:1 Usapkanlah minyak kayu putih pada perut dan telapak kaki sebelum berbaring di musim penghujan;
-24:8:2 niscaya hangatnya meresap menenangkan urat saraf,
-24:8:3 mengantarkan tidurmu lelap hingga terdengar azan subuh.
+24:8:1 Dan usapkanlah minyak kayu putih pada perut serta kedua telapak kakimu sebelum kamu berbaring tidur di musim penghujan;
+24:8:2 niscaya kehangatannya akan meresap menenangkan urat-urat tubuhmu,
+24:8:3 serta mengantarkanmu ke dalam tidur yang nyenyak hingga berkumandang seruan subuh.
 
-24:9:1 Janganlah membiasakan diri tidur terbaring langsung di atas lantai keramik tanpa alas tikar,
-24:9:2 sekalipun udara siang sedang terasa gerah menyengat;
-24:9:3 sebab dinginnya batu lantai itu diam-diam menghisap kekuatan tubuhmu.
+24:9:1 Dan janganlah kamu membiasakan dirimu berbaring tidur langsung di atas lantai batu tanpa hamparan tikar,
+24:9:2 sekalipun hawa udara pada waktu siang sedang terasa amat panas menyengat;
+24:9:3 karena sesungguhnya dinginnya lantai batu itu secara sembunyi-sembunyi menghisap kekuatan dari dalam tubuhmu.
 
-24:10:1 Seusai punggung dikerok dan segelas teh manis hangat tandas diminum,
-24:10:2 tidurlah berselimut rapat hingga peluh keluar membasahi dahi;
-24:10:3 niscaya esok pagi ragamu bangkit segar bagai mesin yang baru berganti pelumas.
+24:10:1 Maka apabila punggungmu telah selesai dikerok dan segelas teh manis hangat telah habis kamu teguk,
+24:10:2 tidurlah kamu di bawah selimut yang rapat hingga mengucur peluh membasahi dahimu;
+24:10:3 niscaya pada esok paginya ragamu akan bangkit kembali dalam keadaan bugar bagaikan mesin yang baru diganti minyak pelumasnya.
 
-24:11:1 Goreskanlah koin kerokan miring menurun mengikuti lengkung tulang rusuk bagai duri ikan;
-24:11:2 jangan digosokkan melintang sembarangan agar urat punggung tak terkejut nyeri.
+24:11:1 Dan goreskanlah keping logam kerokan itu secara miring menurun mengikuti lengkung tulang rusukmu bagaikan susunan duri ikan;
+24:11:2 dan janganlah kamu menggosokkannya secara melintang tak tentu arah supaya tidak terkejut urat-urat punggungmu.
 
-24:12:1 Apabila pelipis kepalamu berdenyut pening sepulang terpapar angin petang,
-24:12:2 pijatlah perlahan pangkal alis dan tengkuk lehermu dengan olesan balsem hangat.
+24:12:1 Dan apabila pelipis kepalamu berdenyut nyeri seusai terkena terpaan angin sore,
+24:12:2 maka pijatlah dengan lembut pangkal alismu serta tengkuk lehermu dengan olesan balsem yang hangat.
 
-24:13:1 Kaki yang kaku dan pegal seusai menempuh perjalanan jauh,
-24:13:2 rendamlah di dalam seember air hangat yang ditaburi segenggam garam dapur;
-24:13:3 niscaya urat-urat yang tegang akan luruh mengendur dengan nyaman.
+24:13:1 Adapun kedua belah kaki yang terasa kaku lagi penat seusai menempuh perjalanan yang jauh,
+24:13:2 maka rendamlah keduanya di dalam seember air hangat yang dicampuri segenggam garam dapur;
+24:13:3 niscaya urat-urat yang tegang itu akan melunak kembali dengan penuh kelegaan.
 
-24:14:1 Jangan langsung menenggak air es dari lemari pendingin sesaat setelah kembali dari terik matahari siang;
-24:14:2 tunggulah hingga peluhmu mengering agar kerongkonganmu tak meradang sakit.
+24:14:1 Dan janganlah kamu langsung menenggak air dingin dari lemari pendingin sesaat setelah kamu tiba dari bawah terik matahari siang;
+24:14:2 melainkan tunggulah barang sejenak hingga mengering peluh di tubuhmu, supaya tidak meradang kerongkonganmu.
 
-24:15:1 Irisan bawang merah yang digerus bersama minyak telon hangat,
-24:15:2 adalah warisan obat balur paling ampuh bagi perut anak kecil yang kembung masuk angin.
+24:15:1 Ketahuilah bahwa irisan bawang merah yang dilumatkan bersama minyak telon yang hangat itu,
+24:15:2 adalah sebaik-baik warisan obat balur bagi perut anak-anak kecil yang kembung oleh angin.
 
-24:16:1 Apabila tubuhmu telah memberi isyarat lemas dan bersin berulang kali,
-24:16:2 berhentilah memaksa diri bekerja lembur malam;
-24:16:3 sebab beristirahat sehari di rumah jauh lebih murah daripada terbaring seminggu di rumah sakit.
+24:16:1 Dan apabila tubuhmu telah memberikan peringatan berupa rasa lemas serta bersin yang berulang-ulang,
+24:16:2 maka berhentilah kamu dari memaksakan diri bekerja hingga larut malam;
+24:16:3 karena sesungguhnya beristirahat sehari di dalam rumah itu jauh lebih ringan biayanya daripada terbaring sepekan di balai pengobatan.
 
-24:17:1 Selipkanlah sebotol kecil minyak angin di dalam tas kerjamu dan satu lagi di laci meja tidurmu;
-24:17:2 sebab benda sekecil ibu jari itulah pertolongan pertama kala mual dan pening datang menyergap.
+24:17:1 Dan selipkanlah selalu sebotol kecil minyak angin di dalam kantong kerjamu serta sebotol lagi di dalam laci tempat tidurmu;
+24:17:2 karena sesungguhnya benda yang sekecil ibu jari itulah penolong pertamamu tatkala rasa mual dan pening datang menyergap di malam hari.
 
-24:18:1 Sungguh unik tabiat manusia di negeri kita ini:
-24:18:2 mulai dari kepala pening, perut mual, punggung pegal,
-24:18:3 hingga hati yang merana karena rindu tak sampai,
-24:18:4 semuanya bermuara pada satu tuduhan penyakit yang sama, yakni masuk angin.
+24:18:1 Sungguh, amat mengherankan perihal tabiat manusia di negeri ini:
+24:18:2 mulai dari kepala yang berdenyut pening, perut yang terasa mual, punggung yang terasa kaku,
+24:18:3 sampai kepada hati yang merana karena kerinduan yang tiada berbalas,
+24:18:4 kesemuanya itu dijatuhkan tuduhannya kepada satu nama penyakit yang sama, yaitu masuk angin.
 
 ---
 
 ## Bab 25: Kerapian Diri, Kaos Kerah, dan Sarung Bapak
 
-25:1:1 Saat mengenakan baju berkerah, lipatlah kerahnya dengan rapi ke bawah;
-25:1:2 jangan kau tegakkan berdiri menantang angin bagai jagoan pasar tahun sembilan puluhan.
+25:1:1 Dan apabila kamu mengenakan pakaian yang berkerah, maka lipatlah kerahnya itu dengan tertib menghadap ke bawah;
+25:1:2 dan janganlah kamu menegakkannya berdiri menantang angin bagaikan lagak pendekar pasar pada masa silam.
 
-25:2:1 Gulung dan kencangkanlah ikatan kain sarung di pinggangmu dengan mantap;
-25:2:2 jangan biarkan ikatannya longgar tak bertuan,
-25:2:3 hingga melorot mempermalukan dirimu sendiri kala melangkah atau duduk.
+25:2:1 Dan gulunglah serta kencangkanlah ikatan kain sarung pada pinggangmu dengan simpul yang teguh;
+25:2:2 dan janganlah kamu membiarkan ikatannya longgar tanpa pegangan,
+25:2:3 sehingga ia terlepas melorot mempermalukan dirimu sendiri tatkala kamu berjalan atau duduk di majelis.
 
-25:3:1 Sisirlah rambutmu belah pinggir dengan rapi menggunakan minyak penata rambut;
-25:3:2 sebab kerapian diri yang terjaga dari ujung kepala,
-25:3:3 menyejukkan mata yang memandang dan menumbuhkan rasa hormat.
+25:3:1 Dan rapikanlah rambut kepalamu dengan belahan ke tepi serta lumurilah dengan sedikit minyak penata rambut;
+25:3:2 karena sesungguhnya kerapian diri yang terpelihara sejak dari ujung kepala itu,
+25:3:3 menyejukkan pandangan orang yang melihatnya serta menumbuhkan kehormatan atas dirimu.
 
-25:4:1 Pangkaslah kumis dan janggutmu secara berkala agar tak tampak liar tak terurus;
-25:4:2 sisakan sedikit kumis yang tercukur rapi sebagai penjaga wibawa seorang kepala keluarga.
+25:4:1 Dan pangkaslah kumis serta janggutmu secara berkala supaya tidak tampak kusut tak terurus;
+25:4:2 dan sisakanlah sedikit kumis yang terpangkas rapi sebagai penjaga wibawa seorang kepala keluarga.
 
-25:5:1 Masukkanlah ujung kemejamu ke dalam celana dan lingkarkan sabuk kulit di pinggangmu;
-25:5:2 sebab pakaian sederhana yang dikenakan dengan tertib dan rapi,
-25:5:3 jauh lebih memancarkan kegagahan daripada pakaian mahal yang kusut masai.
+25:5:1 Dan masukkanlah bagian bawah kemejamu ke dalam celanamu serta ikatkanlah sabuk kulit pada pinggangmu;
+25:5:2 sebab sesungguhnya pakaian sederhana yang dikenakan dengan rapi lagi tertib itu,
+25:5:3 jauh lebih memancarkan kemuliaan daripada pakaian mahal yang dibiarkan kusut masai.
 
-25:6:1 Kenakanlah kaos dalam putih di balik kemeja kerjamu setiap hari;
-25:6:2 selain menyerap peluh agar tak membasahi punggung baju,
-25:6:3 ia menjadi perisai dada dari hembusan dingin penyejuk ruangan.
+25:6:1 Dan kenakanlah pakaian dalam berwarna putih di balik kemeja kerjamu pada tiap-tiap hari;
+25:6:2 karena selain menyerap peluh supaya tidak membasahi punggung bajumu,
+25:6:3 sesungguhnya ia adalah perisai bagi dadamu dari terpaan dingin mesin penyejuk ruangan.
 
-25:7:1 Potonglah kuku jari tangan dan kakimu secara teratur setiap hari Jumat tiba;
-25:7:2 sebab kebersihan hati dan tertibnya hidup seseorang,
-25:7:3 pertama kali terbaca dari bersihnya ujung-ujung jemarinya.
+25:7:1 Dan potonglah kuku-kuku jari tangan serta kakimu hingga pendek lagi bersih pada tiap-tiap hari Jumat;
+25:7:2 karena sesungguhnya kesucian hati dan ketertiban hidup seorang manusia itu,
+25:7:3 pertama kali tampak tandanya dari kebersihan ujung-ujung jemarinya.
 
-25:8:1 Sikatlah sepatu kulit dan alas kakimu hingga bersih meski usianya telah menua;
-25:8:2 sebab benda lama yang dirawat dengan penuh hormat,
-25:8:3 jauh lebih berwibawa daripada barang baru yang dibiarkan berdebu.
+25:8:1 Dan sikatlah sepatu kulit serta alas kaki bapakmu hingga berkilau sekalipun usianya telah lama menua;
+25:8:2 karena sesungguhnya barang tua yang senantiasa dirawat dengan baik itu,
+25:8:3 jauh lebih terhormat kedudukannya daripada barang baru yang dibiarkan kotor berdebu.
 
-25:9:1 Seusai menunaikan ibadah, lipatlah kembali kain sarungmu mengikuti garis lipatan asalnya;
-25:9:2 jangan kau remas menggumpal lalu kau lemparkan ke sudut peraduan.
+25:9:1 Dan apabila kamu telah selesai menunaikan sembahyangmu, maka lipatlah kembali kain sarungmu mengikuti garis lipatan asalnya;
+25:9:2 dan janganlah kamu meremasnya menjadi gumpalan kusut lalu mencampakkannya ke sudut tempat tidurmu.
 
-25:10:1 Ketahuilah bahwa berpakaian bersih, harum, dan sopan bukanlah demi memamerkan kekayaan;
-25:10:2 melainkan wujud rasa syukur menghormati raga sendiri,
-25:10:3 sekaligus memuliakan mata siapa pun yang berjumpa denganmu.
+25:10:1 Ketahuilah bahwasanya mengenakan pakaian yang bersih, harum, lagi menutup sopan itu bukanlah sekali-kali untuk menyombongkan kekayaan;
+25:10:2 melainkan sebagai tanda syukur memuliakan jasad pemberian Tuhan,
+25:10:3 serta menghormati pandangan siapa saja yang berjumpa denganmu.
 
-25:11:1 Saat menyetrika celana kain, pastikanlah garis lipatan tengahnya lurus tunggal dan tajam;
-25:11:2 jangan ditekan sembarangan hingga melahirkan dua garis kembar yang membingungkan mata.
+25:11:1 Dan tatkala kamu melicinkan celana kain dengan besi pemanas, maka jadikanlah garis lipatan tengahnya lurus tunggal lagi tajam;
+25:11:2 dan janganlah kamu menekannya secara sembarangan sehingga timbul dua garis kembar yang merusak keindahannya.
 
-25:12:1 Selipkanlah sehelai saputangan kain yang bersih di dalam saku celanamu;
-25:12:2 berguna menyeka peluh di dahi kala terik, atau menjadi alas duduk saat darurat.
+25:12:1 Dan selipkanlah sehelai saputangan kain yang bersih di dalam saku celanamu;
+25:12:2 niscaya ia bermanfaat bagimu untuk menyeka peluh di dahimu atau menjadi alas dudukmu di kala darurat.
 
-25:13:1 Kenakanlah sepasang kaos kaki yang serasi warnanya dan masih kencang lingkar karetnya;
-25:13:2 apabila telah lembap beraroma tak sedap,
-25:13:3 segeralah basuh dengan sabun dan jangan sekadar diangin-anginkan di balik sepatu.
+25:13:1 Dan kenakanlah sepasang pembungkus kaki yang serasi warnanya lagi masih kencang ikatan karetnya;
+25:13:2 maka apabila ia telah lembap mengeluarkan bau yang busuk,
+25:13:3 bersegeralah kamu mencucinya dengan air dan sabun, dan janganlah kamu hanya menjemurnya kembali di balik sepatumu.
 
 ---
 
 ## Bab 26: Dompet Kulit, Struk Belanja, dan Uang Receh
 
-26:1:1 Janganlah engkau menyangka dompet ayahmu yang tampak tebal menggembung itu penuh dengan lembaran harta;
-26:1:2 sebab bila dibuka lipatannya,
-26:1:3 ia hanyalah tumpukan kertas bukti belanja, kartu berobat, dan potret masa lalu.
+26:1:1 Janganlah sekali-kali kamu menyangka bahwa dompet bapakmu yang tampak tebal menggembung itu dipenuhi oleh lembaran harta benda;
+26:1:2 karena sesungguhnya apabila kamu membuka lipatannya,
+26:1:3 tiadalah yang kamu dapati di dalamnya melainkan tumpukan kertas bukti belanja, kartu pengobatan, serta potret yang telah menguning.
 
-26:2:1 Jangan pula engkau meremehkan keping uang logam bernilai kecil di sudut laci;
-26:2:2 sebab kemuliaan uang receh itu baru akan kau rasakan sungguh-sungguh,
-26:2:3 tatkala penjaga pelataran parkir meniup peluit di belakang tungganganmu.
+26:2:1 Dan janganlah pula kamu memandang remeh terhadap keping-keping uang logam yang kecil nilainya di sudut laci;
+26:2:2 karena sesungguhnya kemuliaan uang receh itu baru akan kamu rasakan dengan sebenar-benarnya,
+26:2:3 tatkala penjaga pelataran parkir telah meniup peluitnya di belakang tungganganmu.
 
-26:3:1 Dompet yang terbuat dari kulit sejati takkan hancur dimakan tahun;
-26:3:2 kian memudar warnanya dan kian lembut lipatannya, justru kian terpancar karakter dan kesetiaannya.
+26:3:1 Ketahuilah bahwa dompet yang ditempa dari kulit yang asli itu tiada akan hancur dimakan pergantian tahun;
+26:3:2 semakin memudar warnanya dan semakin lunak lipatannya, justru semakin tampak nyata wibawa dan kesetiaannya.
 
-26:4:1 Sebelum menempuh perjalanan jauh atau duduk berjam-jam di balik kemudi,
-26:4:2 keluarkanlah dompet tebal dari saku celana belakangmu;
-26:4:3 agar tulang pinggangmu tetap lurus dan tak miring menahan ganjalan.
+26:4:1 Maka apabila kamu hendak mengemudi menempuh perjalanan yang jauh atau duduk berlama-lama di atas kursi,
+26:4:2 keluarkanlah terlebih dahulu dompet yang tebal itu dari saku celana bagian belakangmu;
+26:4:3 supaya tulang punggung dan pinggangmu tetap tegak lurus dan tidak menderita nyeri sebelah.
 
-26:5:1 Susunlah lembaran uang kertas di dalam dompetmu berurutan dari nilai terbesar hingga terkecil,
-26:5:2 dengan gambar pahlawan yang menghadap ke arah yang seragam;
-26:5:3 sebab rezeki pun senang berdiam pada tempat yang diatur dengan tertib.
+26:5:1 Dan susunlah lembaran-lembaran uang kertas di dalam dompetmu secara berurutan dari nilai yang terbesar sampai kepada yang terkecil,
+26:5:2 dengan menghadapkan gambar wajahnya ke arah yang satu;
+26:5:3 karena sesungguhnya harta rezeki itu pun menyukai tempat perbendaharaan yang diatur dengan tertib.
 
-26:6:1 Selipkanlah selembar uang darurat terlipat rapi di ruang terdalam dompetmu dan lupakanlah keberadaannya;
-26:6:2 anggaplah ia tiada di hari biasa,
-26:6:3 namun ialah penyelamatmu kala bensin tandas di tengah malam buta.
+26:6:1 Dan selipkanlah selembar uang perbekalan darurat dengan terlipat kecil di ruang terdalam dompetmu, lalu lupakanlah ia;
+26:6:2 anggaplah seakan-akan ia tiada pada hari-hari kelapanganmu,
+26:6:3 karena sesungguhnya ialah yang akan menyelamatkanmu tatkala habis bahan bakarmu di tengah kegelapan malam.
 
-26:7:1 Kumpulkanlah keping-keping uang receh kembalian belanja di dalam kaleng di atas lemari;
-26:7:2 sedikit demi sedikit ia berdenting mengisi ruang,
-26:7:3 hingga saat penuh kelak sanggup menebus air minum dan tabung gas dapurmu.
+26:7:1 Dan kumpulkanlah keping-keping uang receh sisa belanjaanmu ke dalam sebuah kaleng di atas lemari;
+26:7:2 sedikit demi sedikit ia berdenting memenuhi rongganya,
+26:7:3 sehingga apabila telah penuh kelak, niscaya ia sanggup menebus galon air minum serta tabung gas bagi dapurmu.
 
-26:8:1 Bersihkanlah lipatan dompetmu dari tumpukan kertas bukti belanja setiap akhir pekan;
-26:8:2 sebab apalah gunanya menyimpan secarik kertas tagihan masa lalu hingga memudar putih?
+26:8:1 Dan bersihkanlah sela-sela dompetmu dari tumpukan kertas bukti belanja pada tiap-tiap penghujung pekan;
+26:8:2 sebab apakah gunanya kamu terus menyimpan kertas-kertas tagihan masa lalu itu hingga luntur tulisannya menjadi putih hampa?
 
-26:9:1 Janganlah menaruh uang kertas tergulung sembarangan di dalam saku celana panjangmu;
-26:9:2 sebab bila terlupa dan ikut tergilas di dalam bak cucian ibumu,
-26:9:3 luluh lantaklah ia menjadi bubur kertas yang tak lagi laku di pasar.
+26:9:1 Dan janganlah sekali-kali kamu meninggalkan lembaran uang kertas tergulung di dalam saku celana panjangmu;
+26:9:2 karena apabila kamu terlupa mengambilnya lalu celana itu digilas di dalam bak cucian ibumu,
+26:9:3 niscaya hancurlah uang itu menjadi bubur kertas yang tiada lagi berguna.
 
-26:10:1 Selembar potret keluarga yang telah menguning di balik plastik dompet seorang ayah,
-26:10:2 adalah pengingat paling bisu namun paling kuat di dunia,
-26:10:3 tentang untuk siapa ia rela memeras keringat dari pagi hingga petang.
+26:10:1 Sesungguhnya selembar potret anak dan istri yang telah memudar warnanya di balik plastik dompet seorang bapak,
+26:10:2 adalah sekuat-kuat pengingat di muka bumi ini,
+26:10:3 tentang demi siapakah ia rela membanting tulang memeras peluhnya sejak terbit matahari hingga tenggelamnya senja.
 
-26:11:1 Kartu nama kenalan baik yang pernah kau jumpai simpanlah dengan rapi di saku kartu;
-26:11:2 sebab kita tak pernah tahu di simpang jalan mana kita akan membutuhkan pertolongan mereka.
+26:11:1 Dan simpanlah kartu pengenal nama dari orang-orang baik yang pernah kamu jumpai dengan tertib di dalam saku kartumu;
+26:11:2 sebab kamu tiada pernah mengetahui di persimpangan jalan manakah kelak kamu memerlukan pertolongan mereka.
 
-26:12:1 Apabila menerima uang kembalian yang sedikit terkoyak tepinya,
-26:12:2 rekatkanlah perlahan dengan pita perekat bening dari sisi belakangnya;
-26:12:3 sebab lembaran rezeki yang dirawat dengan baik akan tetap diterima nilainya.
+26:12:1 Dan apabila kamu menerima uang kembalian yang sedikit terkoyak tepinya,
+26:12:2 maka rekatkanlah ia dengan perlahan menggunakan pita perekat bening dari sisi belakangnya;
+26:12:3 karena sesungguhnya lembaran rezeki yang dipelihara dengan baik itu akan tetap berlaku nilainya di tengah pasar.
 
 ---
 
 ## Bab 27: Olahraga, Bulu Tangkis, dan Keringat Pagi
 
-27:1:1 Bagi raga yang telah memasuki usia senja, cukuplah berjalan cepat mengelilingi lorong perumahan sambil mengayunkan lengan;
-27:1:2 sebab tujuan kita hanyalah menjemput peluh kesehatan,
-27:1:3 bukan bersiap merebut medali di gelanggang pekan olahraga.
+27:1:1 Ketahuilah bahwa olahraga pagi bagi raga yang telah memasuki usia bapakmu ini cukuplah dengan berjalan cepat mengelilingi pemukiman seraya mengayunkan kedua belah lengan;
+27:1:2 karena sesungguhnya yang kita cari hanyalah keluarnya peluh kesehatan,
+27:1:3 dan bukanlah sekali-kali untuk mengikuti pemilihan atlet di gelanggang pertandingan.
 
-27:2:1 Bermain bulu tangkis bersama warga di lapangan terbuka setiap malam Minggu,
-27:2:2 yang dicari adalah derai tawa dan hangatnya keakraban,
-27:2:3 bukan adu keras pukulan hingga patah tangkai pemukulnya.
+27:2:1 Dan adapun bermain bulu tangkis bersama warga di lapangan terbuka pada malam Ahad itu,
+27:2:2 sesungguhnya yang dituju hanyalah cucuran keringat serta gelak tawa persaudaraan bersama tetangga,
+27:2:3 dan bukanlah untuk beradu kerasnya pukulan hingga patah tangkai pemukulnya.
 
-27:3:1 Tak perlulah engkau membeli sepatu olahraga berharga jutaan perak,
-27:3:2 apabila pada akhirnya ia hanya keluar dari kardus setahun sekali saat baris-berbaris bulan Agustus.
+27:3:1 Maka janganlah kamu memaksakan diri membeli sepatu olahraga yang berharga jutaan perak,
+27:3:2 apabila pada kesudahannya sepatu itu hanyalah keluar dari kotaknya sekali dalam setahun tatkala perlombaan baris-berbaris bulan Agustus.
 
-27:4:1 Sebelum menggerakkan raga untuk berolahraga, putarlah pinggang dan regangkan otot-ototmu;
-27:4:2 sebab pada usia seperti ayahmu ini, salah bertumpu sedikit saja,
-27:4:3 esok paginya urat pinggang bisa terkilir seharian.
+27:4:1 Dan sebelum kamu menggerakkan jasadmu untuk berolahraga, maka putarlah pinggangmu dan lemaskanlah urat-urat ototmu terlebih dahulu;
+27:4:2 sebab pada usia yang telah menua ini, salah bergerak barang sedikit saja,
+27:4:3 niscaya pada esok paginya urat pinggangmu akan terkilir menahan nyeri seharian.
 
-27:5:1 Seusai berlari memeras keringat, janganlah langsung duduk berselonjor sembari menenggak air es;
-27:5:2 melangkahlah perlahan mengatur deru napasmu terlebih dahulu,
-27:5:3 agar detak jantung di dadamu tak terkejut berhenti mendadak.
+27:5:1 Dan apabila kamu baru saja selesai berlari memeras keringat, maka janganlah kamu langsung duduk menjulurkan kaki sembari menenggak air es;
+27:5:2 melainkan berjalanlah perlahan-lahan untuk menenangkan deru napasmu terlebih dahulu,
+27:5:3 supaya detak jantung di dalam dadamu tidak terkejut dengan tiba-tiba.
 
-27:6:1 Hangat sinar mentari pagi pada pukul tujuh yang menyentuh kulitmu,
-27:6:2 adalah suplemen kesehatan cuma-cuma dari Sang Pencipta;
-27:6:3 tak perlu engkau membayar mahal ruang kebugaran tertutup bila halaman rumah masih bermandi cahaya.
+27:6:1 Sesungguhnya cucuran keringat pagi yang disinari hangat matahari pada pukul tujuh itu,
+27:6:2 adalah karunia obat kesehatan yang cuma-cuma dari Tuhanmu;
+27:6:3 maka tiada perlu kamu membayar iuran tempat kebugaran yang mahal apabila halaman rumahmu masih disinari cahaya pagi.
 
-27:7:1 Kala bermain bulu tangkis di lapangan kampung dan bola jatuh tipis di dekat garis batas,
-27:7:2 tak perlu berdebat panjang apakah ia masuk atau keluar;
-27:7:3 berikan saja angkanya kepada kawanmu agar tawa permainan terus berlanjut.
+27:7:1 Dan apabila ketika kamu bermain bulu tangkis bersama tetanggamu lalu bulu angsa itu jatuh tipis di dekat garis batas,
+27:7:2 maka janganlah kamu memperpanjang perdebatan apakah ia masuk ataukah keluar;
+27:7:3 melainkan berikanlah saja hitungannya kepada kawanmu supaya tetap terjaga kegembiraan permainan itu.
 
-27:8:1 Kalungkanlah sehelai handuk kecil di lehermu saat berjalan pagi mengelilingi kampung;
-27:8:2 seka segera peluh yang mengucur di tengkukmu agar tiupan angin tak berbalik menjadi penyakit.
+27:8:1 Dan kalungkanlah sehelai handuk kecil pada lehermu tatkala kamu berjalan pagi mengelilingi kampung;
+27:8:2 lalu sekalah segera peluh yang mengalir di tengkukmu, supaya tidak mengering ditiup angin lalu berubah menjadi penyakit.
 
-27:9:1 Janganlah sehabis membakar seratus tetes keringat dengan berjalan pagi,
-27:9:2 langkah pulangmu justru singgah memborong semangkuk penuh bubur beserta empat potong gorengan;
-27:9:3 sebab yang demikian itu bukanlah berolahraga,
-27:9:4 melainkan sekadar memindahkan tempat sarapan pagi.
+27:9:1 Dan janganlah kamu sesudah membakar seratus tetes keringat dengan berjalan pagi,
+27:9:2 langkah pulangmu justru singgah memborong semangkuk bubur ayam beserta tiga tusuk sate usus dan empat potong gorengan;
+27:9:3 karena sesungguhnya perbuatan yang demikian itu bukanlah berolahraga,
+27:9:4 melainkan hanyalah memindahkan tempat sarapan pagimu belaka.
 
-27:10:1 Ketahuilah bahwa tubuh manusia itu serupa benar dengan mesin kendaraan:
-27:10:2 apabila lama tak pernah digerakkan mengeluarkan peluh,
-27:10:3 niscaya engsel dan sendi-sendinya akan lekas kaku berkarat sebelum waktunya.
+27:10:1 Ketahuilah bahwasanya perumpamaan tubuh manusia itu adalah serupa benar dengan mesin tunggangan:
+27:10:2 apabila ia dibiarkan diam tiada pernah digerakkan mengeluarkan peluh,
+27:10:3 niscaya sendi-sendi tulangnya akan lekas kaku lagi berkarat sebelum tiba waktunya.
 
-27:11:1 Mengayuh sepeda mengelilingi kampung di pagi hari Ahad cukuplah dengan kayuhan santai sembari menyapa tetangga;
-27:11:2 tak perlu memacu pedal tergesa-gesa bagai dikejar anjing penjaga.
+27:11:1 Dan apabila kamu mengayuh sepeda mengelilingi kampung pada pagi hari Ahad, maka kayuhlah ia dengan tenang sembari menyapa tetanggamu;
+27:11:2 dan janganlah kamu memacunya dengan tergesa-gesa bagaikan orang yang sedang dikejar oleh anjing yang galak.
 
-27:12:1 Apabila deru napasmu mulai berbunyi berat di tengah permainan lapangan,
-27:12:2 menepilah duduk beristirahat dan jangan memperturutkan gengsi muda;
-27:12:3 sebab memaksa raga yang telah lelah hanya mengundang kunang-kunang di pelupuk mata.
+27:12:1 Dan apabila deru napasmu telah terdengar berat berbunyi di tengah lapangan permainan,
+27:12:2 maka menepilah kamu untuk duduk beristirahat dan janganlah kamu memperturutkan kesombongan masa muda;
+27:12:3 sebab memaksakan raga yang telah letih itu hanyalah akan mendatangkan gelap berkunang-kunang pada pandangan matamu.
 
-27:13:1 Barisan senam pagi bapak-bapak di lapangan kampung memang tak pernah seragam gerakannya dengan sang pemandu;
-27:13:2 namun gelak tawa kebersamaan itulah obat pemanjang usia yang sesungguhnya.
+27:13:1 Sesungguhnya barisan senam pagi kaum bapak di lapangan kampung itu memang tiada pernah seragam gerakannya dengan sang pemandu di hadapan mereka;
+27:13:2 akan tetapi ketahuilah bahwa gelak tawa kebersamaan mereka itulah yang memanjangkan usia lagi menyehatkan jiwa.
 
-27:14:1 Teguklah segelas penuh air putih hangat sebelum kakimu melangkah keluar untuk berjalan pagi;
-27:14:2 agar aliran darah di tubuhmu mengalir lancar menyambut terbitnya matahari.
+27:14:1 Maka teguklah segelas penuh air putih yang hangat sebelum kakimu melangkah keluar rumah untuk berjalan pagi;
+27:14:2 supaya mengalir lancar peredaran darah di dalam tubuhmu dan terasa ringan perutmu.
 
 ---
 
 ## Bab 28: Sepak Bola, Wasit, dan Komentator Sofa
 
-28:1:1 Apabila kesebelasan pujaan hati tumbang di lapangan hijau,
-28:1:2 hukum pertama yang tak tertulis bagi bapak-bapak di seluruh penjuru negeri,
-28:1:3 adalah menimpakan kesalahan pada sang pengadil lapangan terlebih dahulu.
+28:1:1 Ketahuilah bahwa apabila pasukan sepak bola yang didukung itu menderita kekalahan di lapangan,
+28:1:2 maka kebiasaan pertama yang berlaku di kalangan kaum bapak,
+28:1:3 tiada lain adalah menyalahkan ketetapan pengadil lapangan terlebih dahulu.
 
-28:2:1 Saat menonton pertandingan bola sambil berselonjor kaki di atas sofa ruang tamu,
-28:2:2 setiap ayah mendadak merasa dirinya jauh lebih piawai meracik taktik,
-28:2:3 dibandingkan pelatih kepala yang berdiri tegang di tepi lapangan.
+28:2:1 Dan sungguh, tatkala seseorang menonton pertandingan bola sambil menjulurkan kakinya di atas kursi ruang tamu,
+28:2:2 ia akan merasa di dalam hatinya seakan-akan dirinya jauh lebih pandai mengatur siasat permainan,
+28:2:3 daripada pelatih kepala yang berdiri di tepi lapangan itu sendiri.
 
-28:3:1 Tiada larangan bagimu terjaga tengah malam menyaksikan siaran langsung sepak bola dunia,
-28:3:2 asalkan saat fajar menyingsing engkau tetap bangkit tepat waktu,
-28:3:3 dan tidak terkantuk-kantuk di meja tempatmu bekerja.
+28:3:1 Tiada dosa atasmu untuk berjaga di tengah malam guna menyaksikan siaran langsung pertandingan bola,
+28:3:2 selama kamu tetap sanggup bangkit tepat pada waktu fajar menyingsing,
+28:3:3 dan tidak terkantuk-kantuk melalaikan kewajiban di tempatmu bekerja.
 
-28:4:1 Seruan lantang "Umpan ke tengah, jangan serakah sendiri!" di hadapan layar kaca,
-28:4:2 telah menjadi mantra wajib yang menggema dari ruang tamu setiap kali pasukan Garuda berlaga.
+28:4:1 Dan seruan nyaring "Umpankanlah bola itu ke tengah, dan janganlah kamu tamak membawanya sendiri!" di hadapan layar televisi,
+28:4:2 telah menjadi perkataan yang wajib terdengar dari ruang tengah setiap kali pasukan kebanggaan negeri sedang berlaga.
 
-28:5:1 Tatkala menonton pertandingan pada pukul dua dini hari dan kesebelasanmu mencetak angka,
-28:5:2 tahanlah pekik kegembiraanmu cukup di dalam kerongkongan saja;
-28:5:3 jangan sampai teriakan golmu membangunkan ibumu yang sedang nyenyak beristirahat.
+28:5:1 Maka apabila kamu menyaksikan pertandingan pada pukul dua dini hari lalu pasukan dukunganmu berhasil mencetak gol kemenangan,
+28:5:2 tahanlah sorak kegembiraanmu itu cukup di dalam kerongkonganmu saja;
+28:5:3 dan janganlah sampai teriakan suaramu itu mengejutkan ibumu yang sedang terlelap dalam tidurnya.
 
-28:6:1 Cintailah kesebelasan sepak bola sewajarnya saja sebagai penghibur hati;
-28:6:2 sebab menang ataupun kalah, para pemainnya tetap menerima upah berlimpah,
-28:6:3 sedangkan kita esok pagi tetap harus bekerja membeli beras.
+28:6:1 Dan sukailah permainan sepak bola itu sekadarnya saja sebagai penghibur bagi hatimu;
+28:6:2 karena sesungguhnya baik mereka menang maupun kalah, para pemain itu tetaplah menerima upah yang berlimpah ruah,
+28:6:3 sedangkan kamu pada esok paginya tetap wajib bekerja mencari nafkah pembeli beras.
 
-28:7:1 Semangkuk kacang kulit dan secangkir kopi hitam adalah teman paling setia menonton babak pertama;
-28:7:2 namun jagalah tanganmu agar remah kulit kacangnya,
-28:7:3 tidak berhamburan mengotori permadani ruang tamu ibumu.
+28:7:1 Sesungguhnya semangkuk kacang kulit beserta secangkir kopi hitam itu adalah sebaik-baik teman duduk menyaksikan babak pertama;
+28:7:2 akan tetapi peliharalah tanganmu supaya remah-remah kulit kacangnya,
+28:7:3 tidak bertebaran mengotori hamparan permadani di ruang tamu ibumu.
 
-28:8:1 Jangan sekali-kali engkau mengotori kegembiraan menonton bola dengan taruhan uang;
-28:8:2 sebab sekali hatimu terjerat judi bola yang bundar, menggelinding habislah tabungan keluargamu.
+28:8:1 Dan janganlah sekali-kali kamu mencemari kegembiraan menonton sepak bola itu dengan perbuatan taruhan judi walau hanya sedikit;
+28:8:2 karena sesungguhnya barang siapa terjerat oleh taruhan bola yang bundar itu, niscaya akan menggelinding lenyap seluruh harta tabungannya.
 
-28:9:1 Menyaksikan laga tim nasional bersama warga di bangku pos ronda,
-28:9:2 melipatgandakan debar dan kegembiraan berkali-kali lipat;
-28:9:3 meski layar televisinya mungil, sorak-sorainya mengguncang satu kampung.
+28:9:1 Ketahuilah bahwa menyaksikan pertandingan pasukan negeri bersama warga di atas bangku pos ronda itu,
+28:9:2 melipatgandakan kegembiraan di dalam dada hingga dua kali lipat;
+28:9:3 sekalipun layar televisinya kecil ukurannya, namun gemuruh soraknya menghidupkan seluruh isi kampung.
 
-28:10:1 Dari lapangan sepak bola kita belajar falsafah kehidupan:
-28:10:2 terkadang kita telah berjuang menyerang sepanjang waktu namun tetap kecolongan di menit terakhir;
-28:10:3 namun peluit esok hari selalu memanggil kita untuk bangkit bertanding kembali.
+28:10:1 Dan pada permainan sepak bola itu terdapat pelajaran yang besar bagi orang-orang yang berpikir tentang kehidupan:
+28:10:2 adakalanya kamu telah berjuang menyerang sepanjang sembilan puluh menit namun tetap kecolongan pada detik-detik penghabisan;
+28:10:3 akan tetapi kamu tetap wajib menegakkan kepalamu untuk menghadapi pertandingan pada hari berikutnya.
 
-28:11:1 Janganlah engkau heran bila ayahmu masih hafal deretan nama pemain cadangan liga Eropa era sembilan puluhan,
-28:11:2 meskipun sering lupa di mana meletakkan kunci motor lima menit yang lalu.
+28:11:1 Maka janganlah kamu merasa heran apabila bapakmu masih menghafal di luar kepala nama-nama pemain cadangan benua Eropa dari masa silam,
+28:11:2 sekalipun ia kerap kali terlupa di manakah ia meletakkan anak kunci motornya sesaat yang lalu.
 
-28:12:1 Apabila suara pemandu siaran televisi terlalu riuh memancing ketegangan,
-28:12:2 kecilkanlah suaranya dan biarkan matamu sendiri yang menikmati indahnya permainan.
+28:12:1 Dan apabila suara juru bicara siaran televisi itu terlampau gaduh lagi menambah ketegangan hatimu,
+28:12:2 maka kecilkanlah suaranya dan biarkanlah kedua matamu sendiri yang menilai jalannya permainan itu.
 
-28:13:1 Pemain bola yang sejati bukanlah ia yang gemar membawa bola seorang diri melewati semua lawan,
-28:13:2 melainkan ia yang tahu kapan harus mengirimkan umpan kepada kawannya yang berdiri lebih bebas.
+28:13:1 Ketahuilah bahwa pemain bola yang sejati kepandaiannya itu bukanlah orang yang gemar menggiring bola seorang diri melewati semua lawannya,
+28:13:2 melainkan orang yang mengetahui bilamana ia harus mengirimkan umpan kepada kawannya yang berdiri lebih lapang.
 
-28:14:1 Saat pasukan kebanggaan bangsa menghadapi tendangan penentu di menit penghabisan,
-28:14:2 seorang ayah kerap memilih berdiri mengintip dari balik pintu dapur;
-28:14:3 sebab debar jantungnya tak sanggup menatap layar secara langsung.
+28:14:1 Dan tatkala pasukan kebanggaan negeri menghadapi tendangan penentu pada menit yang terakhir,
+28:14:2 niscaya kamu melihat seorang bapak memilih berdiri mengintip dari balik pintu dapur;
+28:14:3 karena sesungguhnya debar jantung di dalam dadanya tiada kuat menatap layar kaca itu secara berhadapan.
 
-28:15:1 Baju bola kesayangan ayahmu yang telah pudar tulisannya janganlah kau gunting menjadi kain pel lantai;
-28:15:2 sebab di serat kain itu tersimpan kenangan masa muda kala lutut masih sanggup berlari dua babak penuh.
+28:15:1 Dan janganlah kamu menggunting pakaian bola kesayangan bapakmu yang telah pudar tulisannya itu untuk dijadikan kain pengelap lantai;
+28:15:2 karena sesungguhnya pada lembaran kain itu tersimpan saksi kenangan masa muda tatkala kedua lututnya masih sanggup berlari sepanjang dua babak.
 
-28:16:1 Menang janganlah terlampau jemawa mengejek kawan, kalah janganlah membanting kendali televisi;
-28:16:2 sebab esok pagi kita semua tetap duduk menyeruput kopi di bangku warung yang sama.
+28:16:1 Maka apabila pasukanmu menang janganlah kamu melampaui batas dalam mengejek kawanmu, dan apabila kalah janganlah kamu membanting alat pengendali televisi;
+28:16:2 karena sesungguhnya pada esok pagi kita semua tetap akan duduk menyeruput kopi di bangku warung yang sama.
 
 ---
 
 ## Bab 29: Gim, Konsol, dan Layar Permainan
 
-29:1:1 Kala jemarimu memacu kendaraan balap di dalam layar permainan,
-29:1:2 cukuplah ibu jarimu yang menekan tombol kemudi;
-29:1:3 tak perlu bahu dan kepalamu ikut miring terhuyung-huyung di depan televisi.
+29:1:1 Dan tatkala kedua ibu jarimu memacu kendaraan balap di dalam layar permainan,
+29:1:2 maka cukuplah jari-jarimu saja yang menggerakkan tombol kemudinya;
+29:1:3 dan tiadalah perlu bahu serta kepalamu ikut miring terhuyung-huyung ke kiri dan ke kanan di hadapan layar kaca.
 
-29:2:1 Dahulu kala masa kecil ayahmu dihabiskan dengan memutar gasing kayu di tanah lapang,
-29:2:2 berlarian bermandikan cahaya matahari sore bersama kawan sebaya;
-29:2:3 bukan mengurung diri di kamar gelap menatap kotak permainan sepanjang hari.
+29:2:1 Ingatlah bahwasanya pada zaman masa kecil bapakmu dahulu, permainan itu ditempa sendiri dari gasing kayu dan pelepah pisang di tanah lapang,
+29:2:2 sambil berlarian di bawah sinar matahari sore bersama kawan-kawan sebaya;
+29:2:3 dan bukanlah dengan mengurung diri di dalam kamar yang gelap sambil menatap layar permainan sepanjang hari.
 
-29:3:1 Apabila suara ibumu telah memanggilmu menuju meja makan,
-29:3:2 hentikanlah permainanmu seketika dan jangan berdalih layar tak bisa dijeda;
-29:3:3 sebab lapar di perutmu dan hormat pada ibumu tak mengenal tombol tunda.
+29:3:1 Maka apabila suara ibumu telah menyerumu untuk datang ke meja makan,
+29:3:2 bersegeralah kamu menghentikan permainanmu itu dan janganlah kamu membantah dengan mengatakan "permainan ini tiada dapat dihentikan sejenak, wahai Bapak";
+29:3:3 karena sesungguhnya rasa lapar di perutmu dan kewajiban menghormati ibumu itu tiada mengenal penundaan.
 
-29:4:1 Janganlah kau kuras uang sakumu demi membeli perhiasan semu di dalam permainan maya,
-29:4:2 apalagi hingga membanting gawai saat menelan kekalahan;
-29:4:3 jauh lebih berguna keping uang itu kau belikan token penerang rumah.
+29:4:1 Dan janganlah kamu menghambur-hamburkan uang perbekalanmu hanya untuk membeli perhiasan semu di dalam permainan maya,
+29:4:2 terlebih lagi sampai kamu membanting gawaimu tatkala ditimpa kekalahan;
+29:4:3 sungguh jauh lebih bermanfaat apabila uang itu kamu belikan daya listrik penerang rumahmu.
 
-29:5:1 Tekanlah tombol alat kendali permainanmu dengan wajar tanpa perlu menghantamnya sekuat tenaga;
-29:5:2 sebab bila karet tombolnya jebol tertekan emosi, engkau jualah yang merengek meminta gantinya.
+29:5:1 Dan tekanlah tombol-tombol alat permainanmu itu secara wajar tanpa perlu kamu menghantamnya bagaikan orang yang hendak memecahkan batu;
+29:5:2 sebab apabila rusak karet tombolnya di tanganmu, niscaya kamu sendiri jualah yang akan merengek meminta gantinya.
 
-29:6:1 Bermain gim sekadar pelepas penat seusai belajar adalah hal yang sah saja;
-29:6:2 namun jangan biarkan permainan itu berbalik mempermainkan hidupmu,
-29:6:3 hingga mencuri waktumu dari pagi bertemu pagi lagi.
+29:6:1 Ketahuilah bahwa bermain sekadar untuk melepaskan kepenatan seusai belajar adalah perkara yang dibolehkan;
+29:6:2 akan tetapi janganlah sekali-kali kamu membiarkan permainan itu berbalik memperbudak waktumu,
+29:6:3 sehingga kamu lalai dari waktu pagi sampai bertemu waktu pagi kembali.
 
-29:7:1 Apabila engkau kalah bertanding gim melawan adik kandungmu sendiri di ruang tengah,
-29:7:2 terimalah kekalahan itu dengan senyum seorang kakak;
-29:7:3 jangan mencabut kabel konsolnya lalu pergi dengan wajah merajuk.
+29:7:1 Dan apabila kamu dikalahkan di dalam permainan oleh adik kandungmu sendiri,
+29:7:2 maka terimalah kekalahan itu dengan dada yang lapang sebagai seorang kakak;
+29:7:3 dan janganlah kamu mencabut kabel mesin permainan itu lalu berpaling pergi dalam keadaan marah.
 
-29:8:1 Janganlah menutup kedua daun telingamu rapat-rapat dengan pengeras suara saat bermain di rumah;
-29:8:2 sisakanlah pendengaranmu bagi dunia nyata,
-29:8:3 agar saat ayahmu mengetuk pintu atau ibumu memanggil dari dapur,
-29:8:4 engkau dapat lekas menyahut dengan santun.
+29:8:1 Dan janganlah kamu menutup kedua belah telingamu rapat-rapat dengan alat pengeras suara tatkala kamu bermain di dalam rumah;
+29:8:2 melainkan sisakanlah pendengaranmu bagi keadaan di sekelilingmu,
+29:8:3 supaya apabila bapakmu mengetuk pintu atau ibumu memanggilmu dari arah dapur,
+29:8:4 kamu dapat segera menyahut panggilan mereka dengan patut.
 
-29:9:1 Istirahatkanlah matamu setiap satu jam dengan menatap hijaunya pepohonan di luar jendela;
-29:9:2 sebab layar kaca dan permainanmu takkan lari ke mana-mana, namun kesehatan matamu tak tergantikan.
+29:9:1 Maka kedipkanlah dan istirahatkanlah kedua matamu pada tiap-tiap satu jam dengan memandang hijaunya pepohonan di luar jendela;
+29:9:2 karena sesungguhnya layar permainanmu itu tiada akan berlari ke mana-mana, sedangkan cahaya penglihatan matamu tiada ternilai harganya.
 
-29:10:1 Mengangkat piala kemenangan di dalam dunia permainan maya memang menyenangkan hati;
-29:10:2 namun jauh lebih gagah seorang pemuda apabila ia juga mampu menang,
-29:10:3 dalam menaklukkan rasa malas dan menata masa depannya di dunia nyata.
+29:10:1 Sesungguhnya meraih piala kemenangan di dalam layar permainan itu memang menyenangkan hati;
+29:10:2 akan tetapi jauh lebih mulia lagi seorang pemuda apabila ia pun sanggup meraih kemenangan,
+29:10:3 dalam menata masa depan kehidupannya di alam yang nyata.
 
-29:11:1 Seusai bermain, gulunglah kabel alat kendali permainanmu dengan longgar dan tertib;
-29:11:2 jangan kau lilit terlampau kencang hingga putus serat tembaga di dalamnya.
+29:11:1 Dan apabila kamu telah selesai bermain, maka gulunglah kabel alat pengendali permainanmu itu dengan longgar lagi rapi;
+29:11:2 dan janganlah kamu melilitkannya dengan terlampau kencang sehingga terputus kawat tembaga di bagian dalamnya.
 
 ---
 
 ## Bab 30: Catur, Domino, dan Strategi Meja Ronda
 
-30:1:1 Hukum tertinggi di atas papan catur pos ronda tiada mengenal tawar-menawar:
-30:1:2 bidak kayu yang telah disentuh oleh ujung jarimu wajib melangkah maju;
-30:1:3 pantang ditarik surut seraya berucap, "Tunggu dulu, tadi salah pegang!"
+30:1:1 Ketahuilah bahwa ketetapan hukum bermain catur di atas meja pos ronda itu amatlah tegas lagi nyata:
+30:1:2 barang siapa telah menyentuh sebuah bidak kayu dengan ujung jarinya, maka wajiblah atasnya melangkahkan bidak itu;
+30:1:3 dan tiada diterima darinya alasan untuk menariknya kembali seraya berkata, "Tunggu sebentar, aku tadi keliru memegang!"
 
-30:2:1 Menundukkan raja lawan yang jemawa dengan tarian kuda dan sergapan menteri,
-30:2:2 menghadirkan kepuasan batin yang meluap di dada melebihi memenangkan undian.
+30:2:1 Sesungguhnya menundukkan raja lawan yang sombong dengan lompatan kuda dan sergapan menteri itu,
+30:2:2 mendatangkan kepuasan yang meluap di dalam dada melebihi kegembiraan orang yang memenangkan undian.
 
-30:3:1 Dalam permainan kartu domino bersama tetangga, siapa yang kalah harus rela wajahnya dipoles bedak putih;
-30:3:2 janganlah dimasukkan ke dalam hati hingga bermuka masam,
-30:3:3 sebab itulah bumbu pengusir kantuk dan perekat tawa warga.
+30:3:1 Dan adapun dalam permainan batu domino bersama tetangga, maka barang siapa menderita kekalahan hendaklah ia rela wajahnya diolesi bedak putih atau telinganya dijepit penjepit jemuran;
+30:3:2 dan janganlah kamu memasukkan hal itu ke dalam hati hingga bermuka masam,
+30:3:3 karena sesungguhnya yang demikian itu hanyalah senda gurau warga untuk mengusir kantuk di malam hari.
 
-30:4:1 Saking khusyuknya kening berkerut menghitung tiga langkah serangan catur ke depan,
-30:4:2 cangkir kopi hitam di sudut meja kerap terlupakan nasibnya,
-30:4:3 hingga dingin membeku dan dikerubungi barisan semut malam.
+30:4:1 Dan betapa seringnya karena terlampau khusyuk memikirkan tiga langkah catur ke hadapan,
+30:4:2 secangkir kopi hitam yang terhidang di tepi papan terlupakan nasibnya,
+30:4:3 sehingga ia menjadi dingin membeku dan dikerumuni oleh barisan semut malam.
 
-30:5:1 Perhatikanlah keajaiban di sekeliling meja catur pos ronda:
-30:5:2 mereka yang paling riuh berteriak memberi komando langkah serangan,
-30:5:3 justru adalah para penonton yang hanya berdiri menyilangkan tangan di belakang punggung pemain.
+30:5:1 Tidakkah kamu memperhatikan keajaiban yang terjadi di sekeliling papan catur pos ronda?
+30:5:2 Sesungguhnya orang-orang yang paling gaduh suaranya lagi paling merasa pandai memberikan aba-aba serangan,
+30:5:3 tiada lain adalah para penonton yang hanya berdiri di belakang punggung kedua pemainnya.
 
-30:6:1 Jangan sekali-kali engkau memandang sebelah mata pada bidak pion kecil di garis terdepan;
-30:6:2 sebab bila ia tekun dan sabar melangkah maju setapak demi setapak hingga ke ujung papan,
-30:6:3 ia sanggup menjelma menteri yang paling ditakuti lawan.
+30:6:1 Dan janganlah sekali-kali kamu memandang hina terhadap bidak pion yang kecil di barisan paling depan;
+30:6:2 karena sesungguhnya apabila ia bersabar melangkah maju setapak demi setapak hingga mencapai ujung papan,
+30:6:3 niscaya ia sanggup berubah menjadi menteri yang paling ditakuti oleh lawan.
 
-30:7:1 Menghempaskan kartu domino ke atas meja kayu pos ronda memang menambah wibawa permainan;
-30:7:2 namun ingatlah pergantian waktu malam,
-30:7:3 bila jarum jam telah melewati tengah malam, letakkanlah perlahan agar tak mengejutkan warga yang tidur.
+30:7:1 Dan menghempaskan batu domino ke atas meja kayu pos ronda itu memang tampak gagah gayanya;
+30:7:2 akan tetapi perhatikanlah pergantian waktu malam,
+30:7:3 apabila jarum jam telah melewati tengah malam, maka letakkanlah ia dengan perlahan supaya tidak mengganggu warga yang sedang beristirahat.
 
-30:8:1 Bermain domino secara berpasangan menuntut kepekaan membaca isyarat kawan semeja;
-30:8:2 jangan sampai karena asyik memikirkan kartu di tangan sendiri, langkah kawanmu sendiri justru kau kunci mati.
+30:8:1 Ketahuilah bahwa bermain kartu domino secara berpasangan itu menuntut ketajaman hati dalam membaca isyarat kawan semeja;
+30:8:2 maka janganlah sampai karena kamu hanya memikirkan kartumu sendiri, jalan langkah kawanmu sendiri justru kamu tutup rapat-rapat.
 
-30:9:1 Apabila engkau telah takluk tiga babak catur berturut-turut di atas papan,
-30:9:2 berdirilah dengan ksatria dan serahkan kursimu kepada warga lain yang mengantre;
-30:9:3 jangan memelihara penasaran hingga ayam jantan berkokok di waktu subuh.
+30:9:1 Dan apabila kamu telah dikalahkan dalam tiga babak catur secara berturut-turut,
+30:9:2 maka berdirilah kamu dengan lapang dada dan berikanlah tempat dudukmu itu kepada warga lain yang menunggu giliran;
+30:9:3 dan janganlah kamu memperturutkan rasa penasaranmu hingga terdengar kokok ayam jantan di waktu subuh.
 
-30:10:1 Seusai permainan malam berakhir di pos ronda, hitunglah kembali seluruh buah catur dan kartu domino sebelum disimpan ke kotaknya;
-30:10:2 jangan biarkan tercecer jatuh ke kolong bangku,
-30:10:3 hingga esok malam kuda putihnya terpaksa diganti dengan tutup botol kecap.
+30:10:1 Maka apabila permainan malam di pos ronda itu telah berakhir, hitunglah kembali kelengkapan seluruh buah catur dan batu domino itu sebelum kamu menyimpannya ke dalam kotaknya;
+30:10:2 dan janganlah kamu membiarkannya tercecer jatuh ke bawah bangku,
+30:10:3 sehingga pada malam berikutnya bidak kuda putih terpaksa digantikan dengan tutup botol kecap.
 
-30:11:1 Jangan tergiur menyambar umpan pion gratis yang disodorkan lawan di tengah papan;
-30:11:2 sebab acap kali itulah perangkap halus untuk menjebak menterimu pada langkah berikutnya.
+30:11:1 Dan janganlah kamu mudah tergiur memakan umpan pion gratis yang disodorkan oleh lawanmu di tengah papan;
+30:11:2 karena sesungguhnya kebanyakan dari yang demikian itu adalah tipu daya yang halus untuk menjerat menterimu pada langkah sesudahnya.
 
-30:12:1 Tatkala lawanmu sedang menopang dagu berpikir keras mencari jalan keluar,
-30:12:2 janganlah kau ganggu dengan ketukan jari di meja;
-30:12:3 sebab kemenangan yang terhormat lahir dari ketajaman akal, bukan dari kegaduhan.
+30:12:1 Dan tatkala lawan mainmu sedang memegang dagunya berpikir keras mencari jalan keluar,
+30:12:2 maka janganlah kamu mengganggunya dengan mengetuk-ngetukkan jarimu ke atas meja;
+30:12:3 karena sesungguhnya kemenangan catur yang terhormat itu diperoleh dengan ketajaman akal, dan bukanlah dengan kegaduhan suara.
 
-30:13:1 Kartu balak enam yang berat nilainya di genggaman tangan janganlah kau simpan terlalu lama;
-30:13:2 terlambat membuangnya barang sekali putaran, engkau sendiri yang akan menanggung beban angkanya di akhir permainan.
+30:13:1 Adapun batu balak enam yang besar hitungannya di dalam genggaman tanganmu, maka janganlah kamu menyimpannya terlampau lama;
+30:13:2 sebab apabila kamu terlambat membuangnya barang sekali putaran saja, niscaya kamu sendirilah yang akan memikul beban angkanya yang berat di akhir perhitungan.
 
-30:14:1 Papan catur kayu yang telah pudar garis-garis kotaknya di sudut pos ronda janganlah dibuang;
-30:14:2 sebab di atas petak-petak kayu itulah keakraban warga satu lorong dirawat setiap pekan.
+30:14:1 Dan papan catur kayu yang telah tergores lagi pudar garis-garis petaknya di sudut pos ronda itu janganlah sekali-kali kamu campakkan;
+30:14:2 karena sesungguhnya di atas papan kayu itulah kerukunan warga satu lingkungan diuji dan dirawat pada tiap-tiap malam Ahad.
 
-30:15:1 Baik di atas papan catur maupun di atas panggung kehidupan,
-30:15:2 adakalanya kita harus rela menarik mundur bidak selangkah ke belakang,
-30:15:3 demi menyiapkan kuda-kuda lompatan yang jauh lebih mematikan ke depan.
+30:15:1 Ketahuilah bahwasanya baik di dalam permainan catur maupun di dalam perjalanan hidup manusia,
+30:15:2 adakalanya kita wajib merelakan diri menarik mundur satu langkah ke belakang,
+30:15:3 semata-mata untuk mempersiapkan lompatan langkah yang jauh lebih kuat ke hadapan.
 
 ---
 
 ## Bab 31: Sains Bapak, Hukum Alam, dan Logika Akal
 
-31:1:1 Janganlah membiasakan diri mengguyur tubuh dengan air mandi kala malam telah larut,
-31:1:2 agar tulang-belulangmu tak digerogoti ngilu rematik di hari tua;
-31:1:3 tak perlu mendebat bagaimana penjelasan ilmiahnya, patuhilah saja petuah orang tua.
+31:1:1 Dan janganlah kamu membiasakan dirimu mandi mengguyur tubuh setelah lewat pukul sembilan malam,
+31:1:2 supaya tulang-tulangmu tidak ditimpa penyakit ngilu rematik pada masa tuamu;
+31:1:3 dan janganlah kamu memperdebatkan bagaimana penjelasan ilmunya, melainkan patuhilah saja nasihat orang-orang tua.
 
-31:2:1 Apabila seorang anak kecil tersedak santapan hingga terbatuk-batuk,
-31:2:2 tiuplah ubun-ubun kepalanya tiga kali dengan lembut;
-31:2:3 meski terdengar ganjil bagi akal sehat, anehnya cara itu senantiasa membawa kelegaan.
+31:2:1 Dan apabila seorang anak kecil tersedak oleh makanannya,
+31:2:2 maka tiuplah ubun-ubun kepalanya sebanyak tiga kali dengan tiupan yang lembut;
+31:2:3 sesungguhnya hal itu terdengar ganjil bagi akal manusia, namun dengan izin Tuhan cara itu senantiasa mendatangkan kelegaan.
 
-31:3:1 Orang-orang tua melarangmu duduk melintang di ambang pintu karena konon menjauhkan jodoh;
-31:3:2 padahal nalar sejatinya amatlah terang: dudukmu di sana menghalangi orang yang hendak lewat.
+31:3:1 Adapun perkataan orang-orang tua yang melarangmu duduk di hadapan pintu karena dikhawatirkan menjauhkan jodohmu;
+31:3:2 maka ketahuilah bahwa maksud akal sehat di balik larangan itu amatlah terang: yaitu karena dudukmu di sana menghalangi jalan orang yang hendak keluar dan masuk.
 
-31:4:1 Tatkala perutmu melilit mulas atau kembung tak keruan,
-31:4:2 seduhlah air teh kental yang pekat tanpa sebutir gula pun;
-31:4:3 itulah ramuan warisan leluhur yang jarang sekali meleset khasiatnya.
+31:4:1 Dan apabila perutmu terasa melilit mulas atau kembung oleh angin,
+31:4:2 maka seduhlah air teh tawar yang pekat lagi hangat tanpa sebutir gula pun;
+31:4:3 sesungguhnya itulah ramuan warisan orang-orang terdahulu yang amat jarang meleset khasiatnya.
 
-31:5:1 Janganlah memotong kuku di sudut ruangan yang remang-remang pada malam hari;
-31:5:2 petuah lama menyebutnya pamali,
-31:5:3 namun maksud sejatinya adalah menjaga ujung jarimu agar tak teriris berdarah dalam gelap.
+31:5:1 Dan janganlah kamu memotong kukumu pada waktu malam di tempat yang remang-remang kurang cahaya;
+31:5:2 orang-orang terdahulu menyebut perbuatan itu sebagai pantangan,
+31:5:3 padahal maksud yang sesungguhnya adalah menjaga ujung jarimu supaya tidak teriris berdarah di dalam kegelapan.
 
-31:6:1 Larangan bersiul-siul di dalam rumah pada malam hari bukanlah semata karena mengundang makhluk halus,
-31:6:2 melainkan cara halus orang tua zaman dahulu,
-31:6:3 agar engkau menjaga keheningan malam dan tidak mengganggu orang yang beristirahat.
+31:6:1 Dan apabila dikatakan kepadamu bahwa bersiul-siul di dalam rumah pada waktu malam itu akan mengundang kedatangan makhluk halus,
+31:6:2 maka sesungguhnya maksud yang tersembunyi darinya hanyalah supaya kamu menjaga ketenangan malam,
+31:6:3 dan tidak menimbulkan kebisingan yang mengganggu tidur orang-orang di rumahmu.
 
-31:7:1 Ketika orang tua menakut-nakuti bahwa menelan biji jambu akan menumbuhkan pohon di dalam perut,
-31:7:2 sesungguhnya mereka sedang mendidikmu,
-31:7:3 agar mengunyah makanan dengan tertib dan tidak tergesa-gesa menelan santapan.
+31:7:1 Dan tatkala orang-orang tua menakut-nakutimu bahwa menelan biji jambu itu akan menyebabkan penyakit di dalam ususmu,
+31:7:2 sesungguhnya mereka hanyalah sedang mendidikmu dengan bijaksana,
+31:7:3 supaya kamu mengunyah makananmu dengan perlahan-lahan dan tidak menelannya dengan kerakusan.
 
-31:8:1 Apabila kepalamu terlanjur basah terkena rintik gerimis di perjalanan pulang,
-31:8:2 segeralah mandi dan basuh rambutmu sekalian dengan air bersih di rumah;
-31:8:3 agar sisa air hujan yang setengah kering tak berubah menjadi pening di kepala.
+31:8:1 Dan apabila kepalamu telah terlanjur basah terkena rintik-rintik gerimis di tengah perjalanan,
+31:8:2 maka bersegeralah kamu mandi serta membasuh seluruh rambut kepalamu sekalian setibanya di rumah;
+31:8:3 karena sesungguhnya basah yang setengah-setengah itulah yang mendatangkan penyakit pening sebelah pada kepalamu.
 
-31:9:1 Bila telapak tanganmu terasa gatal tanpa sebab, jangan lekas bersorak mengira hendak menerima uang;
-31:9:2 periksalah dahulu dengan cermat, jangan-jangan tanganmu baru saja menyentuh ulat bulu di dahan mangga.
+31:9:1 Dan apabila telapak tanganmu terasa gatal-gatal, maka janganlah kamu lekas bergembira menyangka akan memperoleh harta;
+31:9:2 melainkan periksalah terlebih dahulu tanganmu itu, karena boleh jadi kamu baru saja menyentuh ulat bulu pada dahan pohon mangga.
 
-31:10:1 Ketahuilah bahwa petuah-petuah kolot orang tua dahulu memang kerap dibungkus dengan cerita mistis;
-31:10:2 namun bila kau kupas kulitnya dengan akal yang jernih,
-31:10:3 intinya selalu bermuara pada keselamatan raga dan kehalusan budi pekerti.
+31:10:1 Ketahuilah bahwasanya nasihat-nasihat orang tua zaman dahulu itu memang kerap kali dibungkus dengan perumpamaan yang gaib;
+31:10:2 akan tetapi apabila kamu mengupas bungkusnya dengan akal yang sehat,
+31:10:3 niscaya kamu mendapati isinya murni bertujuan menjaga keselamatan raga serta kemuliaan adab sopan santun.
 
-31:11:1 Larangan mengembangkan payung di dalam ruang rumah bukanlah karena menyempitkan pintu rezeki;
-31:11:2 melainkan karena ruji-ruji besinya yang tajam dapat mencolok mata anggota keluarga yang melintas.
+31:11:1 Adapun larangan mengembangkan payung di dalam ruangan rumah yang dikatakan dapat menyempitkan rezeki;
+31:11:2 maka sesungguhnya nalar yang nyata darinya adalah karena ujung-ujung besi payung itu dapat melukai mata orang yang berada di dekatmu.
 
-31:12:1 Apabila cegukan di kerongkonganmu tak kunjung reda,
-31:12:2 teguklah air putih hangat perlahan sembari menahan tarikan napas barang sejenak;
-31:12:3 tak perlu mengejutkan orang hingga jantungnya serasa hendak lepas.
+31:12:1 Dan apabila cegukan pada kerongkonganmu tiada kunjung berhenti,
+31:12:2 maka teguklah air putih yang hangat secara perlahan sembari menahan tarikan napasmu barang sejenak;
+31:12:3 dan tiadalah perlu kamu mengejutkan orang yang cegukan itu hingga seakan-akan hendak copot jantungnya.
 
-31:13:1 Petuah lama yang melarangmu duduk di atas bantal karena takut tumbuh bisul,
-31:13:2 adalah pengajaran adab yang terang:
-31:13:3 bahwa bantal tempat menyandarkan kepala tidaklah pantas diduduki oleh celana yang kotor.
+31:13:1 Dan adapun larangan duduk di atas bantal yang dikatakan akan menimbulkan penyakit bisul,
+31:13:2 maka sesungguhnya arti yang terang darinya adalah pengajaran adab:
+31:13:3 bahwasanya bantal tempat meletakkan kepala yang mulia itu tidaklah patut diduduki oleh celana yang kotor.
 
 ---
 
 ## Bab 32: Politik, Debat Warung Kopi, dan Kursi Kekuasaan
 
-32:1:1 Siapa pun tokoh yang kelak terpilih menduduki kursi tertinggi kekuasaan negeri,
-32:1:2 ingatlah satu kenyataan yang takkan pernah berubah:
-32:1:3 esok pagi ayahmu tetap harus bangun memanaskan mesin motor dan menjemput nafkah.
+32:1:1 Ketahuilah olehmu bahwa siapa pun yang kelak terpilih memenangkan kursi jabatan ataupun tampuk kekuasaan negeri,
+32:1:2 maka ingatlah satu ketetapan yang tiada akan berubah:
+32:1:3 bahwasanya pada esok pagi bapakmu tetap wajib bangun memanaskan mesin tunggangannya dan berangkat mencari nafkah.
 
-32:2:1 Janganlah urat lehermu menegang hebat memperdebatkan calon pemimpin di bangku warung kopi,
-32:2:2 apabila seusai perdebatan panjang itu berakhir,
-32:2:3 harga secangkir kopi dan dua potong gorenganmu masih minta dicatat di buku hutang pemilik warung.
+32:2:1 Maka janganlah kamu berdebat tentang urusan politik hingga menegang urat lehermu di bangku warung kopi,
+32:2:2 apabila pada kesudahan perdebatan itu,
+32:2:3 harga gorengan dan secangkir kopimu sendiri masih kamu minta untuk dicatatkan di dalam kitab hutang pemilik warung.
 
-32:3:1 Berbeda pilihan nomor urut di bilik suara adalah hal yang lumrah dalam bernegara;
-32:3:2 jangan sampai karena membela orang yang bahkan tak mengenal namamu,
-32:3:3 ikatan persaudaraan di grup keluarga pecah dan enggan bersalaman saat hari raya.
+32:3:1 Sesungguhnya berbeda pilihan nomor urut pada hari pemilihan adalah perkara yang biasa di antara manusia;
+32:3:2 maka janganlah sampai karena perbedaan yang demikian itu majelis percakapan keluargamu menjadi pecah,
+32:3:3 sehingga kamu saling memutuskan tegur sapa tatkala tiba hari raya.
 
-32:4:1 Janji-janji manis yang diobral pada musim perebutan suara,
-32:4:2 terkadang serupa dengan ban dalam yang tertusuk jarum halus:
-32:4:3 tampak bulat dan kencang di awal mula, namun perlahan kempis menyisakan angin hampa.
+32:4:1 Ketahuilah bahwa janji-janji manis yang dihamburkan pada musim perebutan kekuasaan itu,
+32:4:2 adakalanya menyerupai ban bagian dalam yang tertusuk oleh jarum yang halus:
+32:4:3 pada mulanya ia tampak bulat lagi meyakinkan, namun lama-kelamaan ia mengempis menyisakan angin yang hampa.
 
-32:5:1 Lihatlah para tokoh politik yang sore ini saling membentak di panggung perdebatan:
-32:5:2 malam harinya mereka telah duduk tertawa bersama menyantap hidangan lezat;
-32:5:3 maka janganlah kita rakyat kecil di bawah justru bermusuhan sungguhan sepanjang tahun.
+32:5:1 Tidakkah kamu melihat para pembesar politik yang pada waktu petang saling membentak memukul meja di atas panggung?
+32:5:2 Padahal pada waktu malamnya mereka telah duduk bersantap sate bersama-sama sambil tertawa;
+32:5:3 maka mengapakah kamu yang berada di bawah ini justru saling bermusuhan dengan sungguh-sungguh?
 
-32:6:1 Apabila ada yang membagikan kaos partai cuma-cuma di musim kampanye,
-32:6:2 terimalah dengan senyum untuk pakaian kerja bakti atau pengelap debu motor;
-32:6:3 namun saat berdiri seorang diri di bilik suara, tetaplah ikuti bisikan hati nuranimu.
+32:6:1 Dan apabila dibagikan kepadamu pakaian kaos partai secara cuma-cuma pada musim kampanye,
+32:6:2 maka terimalah ia dengan baik untuk kamu jadikan pakaian kerja bakti atau kain pengelap tungganganmu;
+32:6:3 adapun mengenai pilihanmu di dalam bilik suara, maka ikutilah ketetapan hati nuranimu sendiri.
 
-32:7:1 Jangan mudah terbakar amarah oleh potongan video pendek yang memancing permusuhan;
-32:7:2 sebab mereka yang gemar menabur bara adu domba hanya ingin melihat kita bertikai sesama saudara.
+32:7:1 Dan janganlah kamu mudah terbakar oleh potongan-potongan gambar bergerak yang mengobarkan kemarahan;
+32:7:2 karena sesungguhnya orang-orang yang suka mengadu domba itu hanyalah menghendaki agar kita saling bertikai sesama saudara.
 
-32:8:1 Kualitas seorang pemimpin sejati terbaca dari jejak amanah kecil yang pernah dikerjakannya,
-32:8:2 bukan dari seberapa megah ukuran papan gambarnya di simpang jalan,
-32:8:3 ataupun seberapa merdu janji yang dikumandangkan pengeras suara.
+32:8:1 Ketahuilah bahwa kebaikan seorang pemimpin itu tampak nyata dari jejak pekerjaannya tatkala ia memegang amanah yang kecil,
+32:8:2 dan bukanlah diukur dari seberapa megah ukuran gambar wajahnya di persimpangan jalan,
+32:8:3 ataupun seberapa manis janji yang diserukan melalui pengeras suara.
 
-32:9:1 Pergunakanlah hak pilihmu pada hari pemungutan suara dan jangan bersikap masa bodoh;
-32:9:2 sebab lima menit tusukan jarimu di bilik suara,
-32:9:3 turut menentukan nasib harga beras dan minyak goreng lima tahun ke depan.
+32:9:1 Maka pergunakanlah hak pilihmu pada hari pemungutan suara dan janganlah kamu berpaling menjadi golongan yang acuh tak acuh;
+32:9:2 karena sesungguhnya lima menit yang kamu tunaikan di dalam bilik suara itu,
+32:9:3 turut menentukan ketetapan harga beras selama lima tahun yang akan datang.
 
-32:10:1 Ingatlah bahwa setinggi-tingginya kursi jabatan dan kekuasaan manusia pasti ada masa purnanya;
-32:10:2 sedangkan yang kekal menemani hingga liang lahat hanyalah nama baik dan kerukunan bersama tetangga.
+32:10:1 Dan ingatlah bahwasanya setinggi-tingginya jabatan serta kekuasaan seorang manusia di dunia ini pasti ada masa berakhirnya;
+32:10:2 sedangkan yang kekal tinggal bersama kita sampai hari tua hanyalah nama yang baik serta persaudaraan bersama tetangga.
 
-32:11:1 Apabila obrolan di bangku warung kopi mulai memanas membahas kursi kekuasaan,
-32:11:2 belokkanlah perbincangan menuju harga cabai di pasar atau jadwal ronda malam;
-32:11:3 niscaya suasana kembali teduh dan kopi tetap nikmat diseruput bersama.
+32:11:1 Maka apabila perbincangan di bangku warung kopi telah mulai memanas memperdebatkan urusan kekuasaan,
+32:11:2 palingkanlah arah pembicaraan itu kepada urusan harga cabai atau giliran jadwal ronda malam;
+32:11:3 niscaya suasana di antara kalian akan kembali sejuk lagi damai seketika.
 
-32:12:1 Jangan pernah menggadaikan kerukunan warga satu rukun tetangga,
-32:12:2 demi membela mati-matian seorang calon penguasa,
-32:12:3 yang bahkan tak pernah tahu di mana letak mulut gang rumah kita.
+32:12:1 Dan janganlah sekali-kali kamu menggadaikan kerukunan warga satu rukun tetangga,
+32:12:2 hanya demi membela mati-matian seorang calon penguasa,
+32:12:3 yang bahkan tiada pernah mengetahui jalan masuk menuju lorong rumah kita.
 
 ---
 
 ## Bab 33: Negara, Pajak, dan Keadilan Jalan Berlubang
 
-33:1:1 Kewajiban pajak kendaraan tetaplah kita tunaikan dengan patuh setiap tahunnya,
-33:1:2 meskipun aspal jalanan di ujung lorong masih berlubang di sana-sini;
-33:1:3 syukurilah saja selama lingkaran roda besi kita masih bulat dan selamat sampai di rumah.
+33:1:1 Adapun kewajiban pajak kendaraan itu tetaplah kita bayarkan dengan patuh pada tiap-tiap tahun,
+33:1:2 sekalipun hamparan aspal jalanan di dekat rumah kita masih berlubang-lubang di berbagai tempat;
+33:1:3 maka bersyukurlah kamu selama lingkaran besi roda tunggangan kita masih bulat dan belum bengkok karenanya.
 
-33:2:1 Bila hendak menyampaikan kritik terhadap penguasa di jagat maya,
-33:2:2 gunakanlah kalimat yang santun lagi terukur adabnya;
-33:2:3 sebab ingatlah, mengurus selembar surat keterangan masih memerlukan cap dari kantor kelurahan.
+33:2:1 Dan apabila kamu hendak menyampaikan teguran atas kebijakan penguasa di ruang khalayak maya,
+33:2:2 maka sampaikanlah dengan tutur bahasa yang sopan lagi beradab;
+33:2:3 dan ingatlah bahwasanya untuk mengurus selembar surat pengantar saja kamu masih memerlukan tanda tangan dari kantor kelurahan.
 
-33:3:1 Mencari keadilan yang benar-benar tegak lurus bagi rakyat kecil di dunia ini,
-33:3:2 terkadang bagaikan mencari tukang tambal ban yang masih membuka lapak pada pukul tiga dini hari:
-33:3:3 bukannya tiada sama sekali, namun sungguh langka ditemukan.
+33:3:1 Sesungguhnya mencari keadilan yang benar-benar tegak lurus di dunia ini,
+33:3:2 adakalanya menyerupai orang yang mencari tukang tambal ban yang masih membuka lapaknya pada pukul tiga dini hari:
+33:3:3 bukannya tiada sama sekali di muka bumi, akan tetapi amatlah langka ditemukan.
 
-33:4:1 Apabila saat mengurus berkas terdengar janji manis "besok pasti selesai, Pak",
-33:4:2 tersenyumlah dengan sopan lalu tanyakanlah kembali:
-33:4:3 yang dimaksud besok itu apakah esok hari, esok pekan, ataukah esok purnama?
+33:4:1 Dan apabila ketika kamu mengurus surat-surat dikatakan kepadamu, "Pada esok hari pasti selesai urusan ini, wahai Bapak",
+33:4:2 maka janganlah kamu lupa bertanya kembali kepadanya dengan cara yang sopan:
+33:4:3 apakah esok yang dimaksudkannya itu adalah esok hari, ataukah esok bulan yang akan datang?
 
-33:5:1 Sebelum berangkat mengurus surat ke kantor pemerintahan,
-33:5:2 gandakanlah lebih dulu kartu identitas dan kartu keluargamu lima rangkap dari rumah;
-33:5:3 sebab meja birokrasi kita senantiasa merindukan lembaran fotokopi.
+33:5:1 Maka sebelum kamu berangkat mengurus surat ke kantor pemerintahan,
+33:5:2 gandakanlah terlebih dahulu lembar kartu tanda penduduk serta kartu keluargamu sebanyak lima rangkap dari rumah;
+33:5:3 karena sesungguhnya meja-meja urusan di negeri kita ini amatlah gemar meminta lembaran salinan kertas.
 
-33:6:1 Jalan raya yang baru saja diaspal hitam mulus terkadang hanya bertahan satu purnama,
-33:6:2 sebelum digali kembali untuk menanam pipa atau kabel di bawahnya;
-33:6:3 eluslah dadamu dengan sabar, sebab itulah keunikan tata kelola di negeri kita.
+33:6:1 Dan tidakkah kamu memperhatikan jalan raya yang baru saja dihamparkan aspal hitam yang mulus di atasnya?
+33:6:2 Terkadang usianya hanyalah bertahan selama satu bulan sebelum ia digali kembali untuk menanam pipa dan kabel;
+33:6:3 maka bersabarlah kamu, karena sesungguhnya demikianlah liku-liku pembangunan di tempat kita.
 
-33:7:1 Janganlah membiasakan diri menyelipkan uang suap di jalan raya kala engkau nyata-nyata melanggar aturan;
-33:7:2 berani melanggar rambu lalu lintas, harus berani pula menerima surat denda resmi dengan kepala tegak.
+33:7:1 Dan janganlah kamu membiasakan dirimu memberikan uang suap kepada petugas di jalan raya tatkala kamu nyata-nyata melanggar rambu;
+33:7:2 barang siapa berani melanggar ketertiban jalan, maka hendaklah ia berani pula menerima surat denda resmi dengan bertanggung jawab.
 
-33:8:1 Bila hendak mengurus layanan umum di kantor negara, datanglah setengah jam sebelum loket dibuka;
-33:8:2 sebab menggenggam nomor antrean satu hingga lima di pagi hari,
-33:8:3 menghadirkan kelegaan batin bagai memenangkan undian.
+33:8:1 Dan apabila kamu hendak mengantre di tempat pelayanan umum, maka datanglah setengah jam sebelum pintu loketnya dibuka;
+33:8:2 karena sesungguhnya memperoleh nomor antrean satu sampai lima pada waktu pagi itu,
+33:8:3 mendatangkan kegembiraan di dalam hati bagaikan orang yang memenangkan undian.
 
-33:9:1 Mencintai tanah air bagi seorang ayah tidaklah harus dengan pidato yang berapi-api;
-33:9:2 cukuplah dengan membuang sampah pada tempatnya, berhenti di belakang garis lampu merah,
-33:9:3 serta menjaga kerukunan warga di lingkungan sendiri.
+33:9:1 Ketahuilah bahwa mencintai tanah air menurut jalan kaum bapak itu amatlah sederhana:
+33:9:2 yaitu membuang sampah pada tempatnya, berhenti dengan tertib di hadapan lampu merah,
+33:9:3 serta memelihara kerukunan hidup bersama warga di sekitarnya.
 
-33:10:1 Sekalipun negeri ini kerap membuat kita mengurut dada oleh seribu satu kekurangannya,
-33:10:2 setiap kali melihat bendera Merah Putih berkibar gagah di tiang halaman setiap bulan Agustus,
-33:10:3 dada seorang ayah tetap saja bergetar haru penuh kebanggaan.
+33:10:1 Dan sekalipun keadaan negeri ini kerap kali membuat kita mengurut dada karena banyaknya kekurangan,
+33:10:2 namun setiap kali mata ini memandang bendera Merah Putih berkibar pada hari kemerdekaan bulan Agustus,
+33:10:3 sesungguhnya dada seorang bapak tetap bergetar oleh rasa haru dan bangga.
 
-33:11:1 Selipkanlah selalu sebatang pena bertinta hitam di saku kemejamu kala mendatangi kantor pelayanan umum;
-33:11:2 sebab pena yang terikat tali plastik di meja loket kerap kali telah kering tintanya.
+33:11:1 Dan bawalah selalu sebatang pena bertinta hitam milikmu sendiri di dalam saku kemejamu tatkala kamu mendatangi kantor pelayanan;
+33:11:2 sebab pena yang terikat pada tali rafia di atas meja loket itu kerap kali telah kering tintanya.
 
-33:12:1 Hafalkanlah letak setiap lubang di jalanan menuju rumahmu, terlebih kala tertutup genangan air hujan;
-33:12:2 sebab sekali roda menghantam lubang yang tak terlihat,
-33:12:3 dompetmu jualah yang akan terguncang di bengkel esok hari.
+33:12:1 Dan hafalkanlah letak tiap-tiap lubang pada jalanan menuju rumahmu, terlebih lagi tatkala ia tertutup oleh genangan air hujan;
+33:12:2 karena apabila rodamu terperosok menghantam lubang yang tersembunyi itu,
+33:12:3 niscaya dompetmu jualah yang akan terguncang untuk memperbaiki pegas tungganganmu.
 
-33:13:1 Apabila lampu penerang jalan di lorong kampung padam tak menyala,
-33:13:2 sampaikanlah laporan dengan santun melalui ketua lingkungan;
-33:13:3 jangan hanya duduk menggerutu di dalam gelap setiap malam.
+33:13:1 Dan apabila pelita penerang jalan di lorong kampungmu padam tiada menyala,
+33:13:2 maka sampaikanlah pengaduanmu dengan cara yang baik melalui ketua rukun tetangga;
+33:13:3 dan janganlah kamu hanya duduk menggerutu di dalam kegelapan beranda pada tiap-tiap malam.
 
-33:14:1 Aturan dan pajak diciptakan agar tatanan negeri berjalan dengan tertib;
-33:14:2 maka luruskanlah langkah kita sebagai warga terlebih dahulu,
-33:14:3 sembari tak putus mendoakan agar para pengelola negeri turut berjalan lurus.
+33:14:1 Sesungguhnya pajak dan peraturan itu ditetapkan supaya perjalanan negeri ini berlangsung dengan tertib;
+33:14:2 maka jadilah kamu warga yang lurus langkahnya terlebih dahulu,
+33:14:3 sembari tiada putus mendoakan agar para pemimpinnya turut dibimbing ke jalan yang lurus.
 
 ---
 
 ## Bab 34: Memancing, Mudik, dan Oleh-Oleh Kampung Halaman
 
-34:1:1 Duduk berjam-jam menatap pelampung pancing yang diam di permukaan kolam,
-34:1:2 bukanlah semata-mata demi membawa pulang seekor ikan untuk digoreng;
-34:1:3 melainkan cara seorang ayah membeli keheningan sejenak dari riuhnya urusan rumah.
+34:1:1 Ketahuilah bahwa duduk memancing berjam-jam lamanya menatap pelampung di permukaan kolam itu,
+34:1:2 bukanlah semata-mata untuk mencari seekor ikan guna digoreng di dapur,
+34:1:3 melainkan untuk mencari ketenangan pikiran barang sejenak dari keramaian urusan rumah tangga.
 
-34:2:1 Segala penat di pinggang dan kemacetan panjang belasan jam di jalan raya,
-34:2:2 seketika menguap lenyap tak berbekas dari ingatan,
-34:2:3 saat pelupuk mata menangkap lengkung gapura bertuliskan nama kampung halaman.
+34:2:1 Dan sesungguhnya segala rasa penat di punggung serta kemacetan belasan jam di jalan raya itu,
+34:2:2 akan lenyap seketika tanpa bekas dari dalam dadamu,
+34:2:3 tatkala kedua matamu telah memandang gerbang bertuliskan "Selamat Datang di Kampung Halaman".
 
-34:3:1 Kembali dari tanah kelahiran tak menuntutmu memborong buah tangan yang mahal harganya;
-34:3:2 cukup sebungkus tape ketan manis atau keripik singkong bagi tetangga sebelah,
-34:3:3 sudah cukup menghadirkan senyum hangat di beranda mereka.
+34:3:1 Dan apabila kamu kembali pulang dari kampung halamanmu, maka tiadalah wajib atasmu membawa buah tangan yang mahal harganya;
+34:3:2 cukuplah sebungkus tape ketan atau keripik singkong untuk kamu bagikan kepada tetangga sebelahmu,
+34:3:3 niscaya yang demikian itu telah mencukupkan senyum kegembiraan di wajah mereka.
 
-34:4:1 Pulang mudik menumpangi kendaraan apa pun bukanlah ukuran kemuliaan;
-34:4:2 yang utama adalah mesin yang sehat, kendali rem yang pakem,
-34:4:3 serta seluruh anggota keluarga tiba mencium tangan orang tua dengan selamat.
+34:4:1 Sesungguhnya pulang mudik dengan menumpangi kendaraan apa saja tiada mengapa bagimu;
+34:4:2 yang paling utama adalah kesehatan mesinnya, keteguhan kendali remnya,
+34:4:3 serta tibanya seluruh keluargamu di rumah kedua orang tuamu dalam keadaan selamat.
 
-34:5:1 Apabila ayahmu pulang memancing saat senja dengan menenteng kantong yang hampa,
-34:5:2 janganlah kau sambut dengan pertanyaan di mana gerangan ikannya;
-34:5:3 sebab hari itu ikan-ikan sedang berpuasa, dan ayahmu pulang membawa pahala kesabaran.
+34:5:1 Dan apabila bapakmu pulang dari memancing seharian dengan menenteng kantong yang kosong hampa,
+34:5:2 maka janganlah kamu menyambutnya dengan pertanyaan di manakah gerangan ikannya;
+34:5:3 karena sesungguhnya pada hari itu ikan-ikan sedang menahan diri dari makan, sedangkan bapakmu pulang dengan membawa pahala kesabaran.
 
-34:6:1 Saat mengikat kardus buah tangan di atas kendaraan untuk perjalanan mudik,
-34:6:2 ikatlah dengan simpul mati yang kokoh dan selimuti rapat dengan kain terpal;
-34:6:3 jangan sampai oleh-oleh untuk kampung halaman beterbangan di tengah jalan raya.
+34:6:1 Dan tatkala kamu mengikat barang perbekalan di atas kendaraan untuk perjalanan mudik,
+34:6:2 maka ikatkanlah ia dengan simpul mati yang teguh dan tutupilah dengan kain penahan hujan secara rapat;
+34:6:3 supaya tidak berhamburan terbang kotak-kotak buah tanganmu itu di tengah jalan raya.
 
-34:7:1 Dalam perjalanan jauh menembus malam, apabila kelopak matamu mulai berat menahan kantuk,
-34:7:2 menepilah segera di pelataran istirahat dan pejamkan mata barang sejenak;
-34:7:3 jangan kau paksa melawan kantuk hanya dengan bergelas-gelas kopi.
+34:7:1 Dan selama kamu menempuh perjalanan yang jauh, apabila kedua matamu telah terasa berat oleh rasa kantuk,
+34:7:2 maka menepilah kamu segera untuk tidur barang sejenak di tempat peristirahatan;
+34:7:3 dan janganlah kamu memaksakan diri melawannya dengan meminum kopi secara berturut-turut.
 
-34:8:1 Setibanya kaki menginjak tanah kampung halaman,
-34:8:2 dahulukanlah mencium tangan orang tua dan berziarah mengirim doa di pusara leluhur,
-34:8:3 sebelum engkau melangkah pergi bertamasya ke tempat hiburan.
+34:8:1 Maka apabila kakimu telah sampai menginjak tanah kampung halamanmu,
+34:8:2 hendaklah perkara pertama yang kamu tunaikan adalah mencium tangan kedua orang tuamu serta berziarah mendoakan makam leluhurmu,
+34:8:3 sebelum kamu melangkah pergi berjalan-jalan mencari hiburan.
 
-34:9:1 Siapkanlah lembaran uang pecahan kecil yang masih baru di dalam amplop warna-warni,
-34:9:2 untuk dibagikan kepada keponakan-keponakan cilik yang berbaris saat hari raya;
-34:9:3 sebab binar bahagia di mata mereka adalah pelipat ganda keberkahan rezekimu.
+34:9:1 Dan siapkanlah lembaran-lembaran uang bernilai kecil yang masih baru di dalam amplop,
+34:9:2 untuk kamu bagikan kepada keponakan-keponakan kecil yang berkumpul di kampung halaman;
+34:9:3 karena sesungguhnya senyuman kegembiraan mereka itu adalah keberkahan pada hari raya.
 
-34:10:1 Beratnya langkah kaki saat harus berpamitan kembali ke kota dan menatap lambaian tangan ibu yang menua di teras kampung,
-34:10:2 adalah alasan paling jujur mengapa esok hari,
-34:10:3 kita harus kembali bekerja keras dengan penuh semangat.
+34:10:1 Ketahuilah bahwa beratnya hati tatkala berpamitan kembali ke kota sambil memandang lambaian tangan ibu di beranda kampung,
+34:10:2 adalah alasan yang paling nyata bagi dirimu,
+34:10:3 mengapa kamu wajib bekerja dengan giat kembali pada esok harinya.
 
-34:11:1 Sebelum mengunci pintu rumah untuk berangkat mudik berhari-hari,
-34:11:2 lepaskanlah katup tabung gas di dapur, matikan mesin pompa air,
-34:11:3 dan titipkanlah pesan penjagaan kepada tetangga sebelah yang tidak bepergian.
+34:11:1 Dan sebelum kamu melangkah berangkat mudik meninggalkan rumahmu selama berhari-hari,
+34:11:2 maka lepaskanlah pengatur tabung gas di dapurmu, matikanlah mesin pompa airmu,
+34:11:3 serta titipkanlah pesan penjagaan kepada tetangga sebelahmu yang tidak bepergian.
 
-34:12:1 Meracik adonan umpan pancing dengan kuning telur dan wangi pandan adalah seni kesabaran;
-34:12:2 meski terkadang kita telah memeras akal meramu umpan terbaik,
-34:12:3 ikan di kolam justru memilih menyambar cacing tanah biasa di kail sebelah.
+34:12:1 Sesungguhnya meramu umpan pancing dengan campuran pelet, kuning telur, serta wewangian itu adalah ilmu kesabaran;
+34:12:2 adakalanya kamu telah bersusah payah mencampurkannya,
+34:12:3 namun ikan-ikan di dalam kolam itu justru lebih memilih menyambar cacing tanah yang biasa.
 
-34:13:1 Tatkala pelampung pancingmu baru bergoyang-goyang tipis di permukaan air,
-34:13:2 tahanlah pergelangan tanganmu dan jangan tergesa menyentak joran;
-34:13:3 tunggulah hingga pelampung itu tenggelam ditarik lari, barulah angkat dengan mantap.
+34:13:1 Dan apabila pelampung pancingmu baru bergerak-gerak sedikit di atas air,
+34:13:2 maka janganlah kamu tergesa-gesa menyentakkan joranmu dengan keras;
+34:13:3 melainkan tunggulah dengan sabar hingga pelampung itu tenggelam ditarik lari, barulah kamu mengangkatnya.
 
-34:14:1 Bawalah termos air panas dan bekal nasi buatan ibumu saat menempuh perjalanan mudik;
-34:14:2 sebab menggelar tikar makan bersama keluarga di bawah rindang pohon tempat peristirahatan,
-34:14:3 menghadirkan kenikmatan yang mengalahkan rumah makan mana pun.
+34:14:1 Dan bawalah olehmu termos berisi air panas beserta bekal nasi buatan ibumu tatkala kamu menempuh perjalanan mudik;
+34:14:2 karena sesungguhnya bersantap bersama keluarga di bawah naungan pohon tempat peristirahatan itu,
+34:14:3 sungguh luar biasa kenikmatannya di dalam hati.
 
-34:15:1 Janganlah memamerkan kemewahan kota secara berlebihan kala duduk berkumpul di kampung halaman;
-34:15:2 pulanglah sebagai anak desa yang merindukan tanah kelahirannya, bukan sebagai tuan besar yang minta dilayani.
+34:15:1 Dan janganlah kamu suka membanggakan keberhasilan hidupmu di kota secara berlebih-lebihan tatkala berkumpul di kampung halaman;
+34:15:2 melainkan datanglah kamu sebagai anak kampung yang merindukan tanah kelahirannya, dan bukanlah sebagai pembesar yang minta dilayani.
 
-34:16:1 Sekarung kecil beras baru hasil panen sawah orang tua yang dibawa pulang ke kota,
-34:16:2 entah mengapa selalu terasa jauh lebih pulen dan harum saat ditanak,
-34:16:3 dibandingkan beras termahal di toko swalayan kota.
+34:16:1 Sesungguhnya sekarung kecil beras hasil panen sawah kedua orang tua di kampung yang dibawa pulang ke kota itu,
+34:16:2 senantiasa terasa jauh lebih pulen lagi harum aromanya tatkala ditanak,
+34:16:3 daripada beras yang mahal harganya di pasar-pasar kota.
 
-34:17:1 Sejauh apa pun langkah kakimu mengembara melintasi kota dan negara,
-34:17:2 harum tanah kampung halaman sesaat setelah diguyur hujan sore,
-34:17:3 takkan pernah tergantikan oleh wewangian mana pun di dunia.
+34:17:1 Ketahuilah bahwasanya sejauh apa pun tanah perantauan yang pernah kamu jelajahi,
+34:17:2 sesungguhnya bau harum tanah kampung halaman sesaat setelah diguyur hujan sore itu,
+34:17:3 tiada akan pernah dapat digantikan oleh negeri mana pun di muka bumi.
 
 ---
 
 ## Bab 35: Rasa Cukup, Syukur, dan Nikmat Sederhana
 
-35:1:1 Makna kebahagiaan sejati bagi seorang ayah sesungguhnya amatlah bersahaja:
-35:1:2 duduk tenang di beranda sore ditemani secangkir kopi tubruk yang mengepul hangat,
-35:1:3 sembari memegang surat tanda lunasnya cicilan rumah tempat keluarga bernaung.
+35:1:1 Sesungguhnya kebahagiaan seorang bapak itu tiadalah berlebih-lebihan tuntutannya:
+35:1:2 cukuplah ia duduk dengan tenang di beranda rumah pada waktu petang ditemani secangkir kopi tubruk yang hangat,
+35:1:3 sedangkan tanggungan cicilan rumah tempat keluarganya bernaung telah lunas terbayar seluruhnya.
 
-35:2:1 Dalam urusan harta benda duniawi, janganlah kepalamu terus mendongak menatap kemewahan tetangga;
-35:2:2 sebab kian lama engkau mendongak ke atas,
-35:2:3 kian pegal urat lehermu dan kian gelisah hatimu kehilangan rasa syukur.
+35:2:1 Adapun mengenai urusan kemewahan harta dunia, maka janganlah kamu terus-menerus mendongakkan kepalamu memandang kendaraan mewah milik tetanggamu;
+35:2:2 karena sesungguhnya semakin lama kamu mendongak ke atas,
+35:2:3 niscaya lehermu sendiri yang akan menderita pegal dan hatimu tiada pernah merasakan ketenteraman.
 
-35:3:1 Jauh lebih nikmat menyantap nasi hangat berlauk ikan asin dan sambal terasi dengan batin yang tenteram,
-35:3:2 daripada duduk menyantap hidangan raja di restoran megah,
-35:3:3 namun telinga terus waswas mendengar derap langkah penagih hutang.
+35:3:1 Sungguh, jauh lebih nikmat menyantap nasi hangat berlauk ikan asin dan sambal terasi dengan hati yang damai,
+35:3:2 daripada menyantap hidangan di tempat perjamuan yang mewah,
+35:3:3 sedangkan langkah kakimu terus diburu oleh kedatangan penagih hutang.
 
-35:4:1 Tinggal di rumah mungil ataupun masih menyewa petakan bukanlah aib yang patut disesali;
-35:4:2 selama di bawah atapnya bergema suara tawa anak dan istri, bukan denting piring yang pecah.
+35:4:1 Dan janganlah kamu merasa rendah diri karena mendiami rumah yang sempit ataupun masih menyewa tempat tinggal;
+35:4:2 selama di bawah atapnya dipenuhi oleh suara tawa keluargamu, dan bukanlah suara pertengkaran yang memecahkan piring.
 
-35:5:1 Ketahuilah bahwa manusia paling kaya di kolong langit ini bukanlah ia yang memiliki segalanya,
-35:5:2 melainkan ia yang paling sedikit tuntutan keinginannya,
-35:5:3 dan paling lapang dadanya mensyukuri apa yang telah ada di genggamannya.
+35:5:1 Ketahuilah bahwasanya manusia yang paling kaya di muka bumi ini bukanlah orang yang memiliki segala-galanya,
+35:5:2 melainkan orang yang paling sedikit keinginan hawa nafsunya,
+35:5:3 serta paling banyak rasa syukurnya atas apa yang telah dikaruniakan kepadanya.
 
-35:6:1 Kasur kapuk yang tipis akan terasa selembut awan bila hati yang berbaring di atasnya bersih dan damai;
-35:6:2 sebaliknya peraduan berlapis emas hanya akan terasa panas berduri,
-35:6:3 bila pikiran dipenuhi kecemasan dan ketamakan.
+35:6:1 Sesungguhnya kasur kapuk yang tipis itu akan terasa selembut awan apabila hati yang berbaring di atasnya damai,
+35:6:2 sedangkan peraduan yang mahal lagi berlapis emas hanyalah akan terasa panas berduri,
+35:6:3 apabila pikiranmu dipenuhi oleh kecemasan dan ketamakan.
 
-35:7:1 Janganlah menunda rasa bahagia hingga menunggu dirimu kaya raya terlebih dahulu;
-35:7:2 nikmatilah semilir angin sore, sehatnya tarikan napasmu,
-35:7:3 serta utuhnya keluargamu berkumpul di ruang tengah hari ini.
+35:7:1 Maka janganlah kamu menangguhkan rasa bahagiamu hingga kamu menjadi kaya raya terlebih dahulu;
+35:7:2 melainkan nikmatilah hembusan angin petang, kesehatan jasadmu,
+35:7:3 serta berkumpulnya keluargamu pada hari ini dengan penuh kesyukuran.
 
-35:8:1 Benda-benda lama yang masih setia menjalankan fungsinya dengan baik,
-35:8:2 tak perlu tergesa kau singkirkan hanya karena terbit keluaran terbaru di pasar;
-35:8:3 sebab nilai guna jauh lebih utama daripada sekadar memuaskan gengsi mata.
+35:8:1 Dan barang-barang lama yang masih setia menjalankan fungsinya dengan baik,
+35:8:2 janganlah tergesa-gesa kamu singkirkan hanya karena telah terbit rupa yang baru di pasar;
+35:8:3 karena sesungguhnya manfaat kegunaan itu jauh lebih utama daripada sekadar memuaskan kemegahan mata.
 
-35:9:1 Apabila di jalan raya engkau melihat saudara kita yang hidupnya jauh lebih kekurangan,
-35:9:2 tundukkanlah kepalamu dan bisikkanlah kalimat syukur di dalam dada;
-35:9:3 itulah obat paling mujarab untuk menyembuhkan penyakit gemar mengeluh.
+35:9:1 Dan apabila kamu melihat orang-orang yang lebih sempit penghidupannya daripadamu di jalanan,
+35:9:2 maka tundukkanlah kepalamu dan ucapkanlah syukur kepada Tuhanmu;
+35:9:3 karena sesungguhnya itulah penawar yang paling mujarab bagi penyakit hati yang suka mengeluh.
 
-35:10:1 Sesungguhnya rasa cukup itu bersemayam di dalam bilik hati, bukan pada angka di buku tabungan;
-35:10:2 sebab bila hati manusia tak mengenal kata cukup, seluruh isi bumi pun tetap terasa kurang baginya.
+35:10:1 Ketahuilah bahwa rasa cukup itu tempatnya adalah di dalam dada, dan bukanlah pada bilangan angka di dalam perbendaharaan rekeningmu;
+35:10:2 sebab apabila hati seorang manusia tiada mengenal arti kecukupan, niscaya seluruh isi dunia ini pun akan tetap terasa kurang baginya.
 
-35:11:1 Dapat membuka mata di pagi hari dan melangkahkan kaki tanpa ada sendi tubuh yang merintih nyeri,
-35:11:2 adalah karunia nikmat luar biasa yang acap kali luput kita syukuri.
+35:11:1 Sesungguhnya dapat terbangun pada waktu pagi tanpa ada satu pun sendi tubuhmu yang merintih kesakitan,
+35:11:2 adalah karunia nikmat yang amat besar yang kerap kali dilalaikan oleh kebanyakan manusia.
 
-35:12:1 Janganlah mengukur kebahagiaan keluargamu dari potret pelesiran orang lain di layar gawai;
-35:12:2 sebab manusia hanya memamerkan senyum manisnya di layar kaca,
-35:12:3 namun menyembunyikan rapat-rapat tumpukan tagihannya di belakang layar.
+35:12:1 Dan janganlah kamu mengukur kebahagiaan rumah tanggamu dari gambar-gambar pelesiran orang lain di dalam layar gawaimu;
+35:12:2 karena sesungguhnya manusia itu hanyalah memperlihatkan senyuman manisnya kepada khalayak,
+35:12:3 sedangkan mereka menyembunyikan beban tagihan hutangnya rapat-rapat.
 
-35:13:1 Selama hari ini kepulan asap dapur masih tercium hangat dan anak-anak dapat berangkat sekolah dengan tenang,
-35:13:2 tariklah napas panjang dengan dada yang lapang,
-35:13:3 lalu ucapkanlah syukur kepada Sang Pemberi Kehidupan.
+35:13:1 Maka selama pada hari ini tungku dapurmu masih mengepulkan asap dan anak-anakmu dapat menuntut ilmu dengan tenang,
+35:13:2 tariklah napasmu dengan dada yang lapang,
+35:13:3 lalu ucapkanlah segala puji syukur kehadirat Tuhan Pemberi Kehidupan.
 
 ---
 
 ## Bab 36: Memaafkan, Mengalah, dan Berdamai
 
-36:1:1 Menepi dan mengalah barang sejengkal kala berpapasan di jalan yang sempit,
-36:1:2 bukanlah tanda bahwa nyalimu ciut atau dirimu telah kalah;
-36:1:3 melainkan bukti bahwa akalmu masih waras dan enggan memperpanjang perkara sia-sia.
+36:1:1 Ketahuilah bahwa menepi dan mengalah barang sedikit tatkala berpapasan di jalan yang sempit itu,
+36:1:2 bukanlah sekali-kali pertanda bahwa kamu telah kalah atau gentar hatimu;
+36:1:3 melainkan sebagai tanda yang nyata bahwa akalmu masih sehat dan enggan memperpanjang perselisihan yang sia-sia.
 
-36:2:1 Memelihara bara dendam di dalam rongga dada sendiri,
-36:2:2 ibarat engkau menenggak racun pahit dengan tanganmu sendiri,
-36:2:3 seraya berharap orang yang kau benci itulah yang akan tumbang.
+36:2:1 Sesungguhnya perumpamaan orang yang memendam bara dendam di dalam dadanya itu,
+36:2:2 adalah ibarat seseorang yang meminum racun yang mematikan dengan tangannya sendiri,
+36:2:3 sedangkan ia mengharapkan agar orang yang dibencinya itulah yang jatuh binasa.
 
-36:3:1 Seusai berselisih paham dengan istrimu di dalam rumah,
-36:3:2 tanggalkanlah hasrat berdebat mencari siapa yang paling benar;
-36:3:3 sebab suami yang lebih dulu mengulurkan kata maaf adalah kunci kembalinya teduh di rumah tangga.
+36:3:1 Dan apabila terjadi perselisihan paham antara kamu dengan istrimu di dalam rumah tangga,
+36:3:2 maka berhentilah kamu dari memperturutkan perdebatan tentang siapakah yang paling benar;
+36:3:3 karena sesungguhnya suami yang lebih dahulu meminta maaf itu adalah ketetapan alam supaya rumah kembali damai.
 
-36:4:1 Bila di tengah jalan engkau berpapasan dengan orang yang pernah melukai hatimu,
-36:4:2 sapalah ia lebih dulu dengan senyum tenang seraya berucap, "Mari, Pak!";
-36:4:3 biarlah ia sendiri yang termangu memikirkan betapa luas samudra maaf di dadamu.
+36:4:1 Dan apabila kamu berpapasan di jalan dengan orang yang pernah menyakiti hatimu pada masa lalu,
+36:4:2 maka sapalah ia dengan senyuman yang baik seraya mengucapkan salam penghormatan;
+36:4:3 biarlah ia sendiri yang termangu memikirkan betapa lapangnya samudra maaf di dalam dadamu.
 
-36:5:1 Jangan biarkan matahari tenggelam di ufuk barat sementara dadamu masih menyimpan marah terhadap orang serumah;
-36:5:2 urailah sengketa dan bermaafanlah sebelum mata terpejam tidur.
+36:5:1 Dan janganlah kamu membiarkan matahari terbenam di ufuk barat sedangkan kamu masih memendam kemarahan terhadap orang yang tinggal serumah denganmu;
+36:5:2 maka damaikanlah urusan di antara kalian sebelum kamu memejamkan mata untuk tidur.
 
-36:6:1 Memaafkan kesalahan orang lain bukan berarti engkau menjadi lengah tanpa ingatan;
-36:6:2 biarkan hatimu tulus melepaskan dendamnya,
-36:6:3 namun biarkan akal sehatmu tetap mencatat pelajarannya agar tak terperosok dua kali.
+36:6:1 Ketahuilah bahwa memaafkan kesalahan orang yang berbuat zalim kepadamu itu bukanlah berarti kamu menjadi lengah tanpa ingatan;
+36:6:2 hendaklah hatimu dengan tulus melepaskan dendamnya,
+36:6:3 akan tetapi biarkanlah akal sehatmu tetap mencatat pelajarannya supaya kamu tidak terperosok untuk kedua kalinya.
 
-36:7:1 Membentak dengan suara menggelegar kala marah tidaklah menambah tinggi wibawamu;
-36:7:2 justru manusia yang tetap tenang dan jernih tutur katanya saat dipancing amarah,
-36:7:3 itulah pribadi yang paling disegani kawan maupun lawan.
+36:7:1 Sesungguhnya meninggikan suara dengan keras tatkala marah itu tidaklah akan menambah kemuliaan wibawamu;
+36:7:2 bahkan orang yang tetap tenang lagi terukur perkataannya tatkala dipancing kemarahannya,
+36:7:3 itulah orang yang paling disegani oleh manusia.
 
-36:8:1 Apabila dua orang sedang sama-sama terbakar emosi bagaikan kobaran api,
-36:8:2 salah seorang wajib merendahkan diri menjadi air penyejuknya;
-36:8:3 sebab bila keduanya memilih menjadi minyak tanah, hanguslah segala yang ada.
+36:8:1 Dan apabila dua orang sedang sama-sama dikuasai kemarahan bagaikan api yang menyala,
+36:8:2 maka wajiblah salah seorang di antara keduanya merendahkan hati menjadi air yang memadamkannya;
+36:8:3 sebab apabila kedua-duanya memilih menjadi minyak pembakarnya, niscaya hanguslah segala yang ada di sekitarnya.
 
-36:9:1 Mengucapkan kalimat tulus "maafkan saya, saya yang keliru" hanya memakan waktu tiga detik saja;
-36:9:2 namun tiga detik kerendahan hati itu sanggup menyelamatkan persahabatan puluhan tahun.
+36:9:1 Ketahuilah bahwa mengucapkan perkataan "maafkanlah aku, sesungguhnya akulah yang keliru" itu hanyalah memakan waktu sekejap mata;
+36:9:2 akan tetapi perkataan yang singkat itu sanggup menyelamatkan tali persaudaraan yang telah terjalin puluhan tahun lamanya.
 
-36:10:1 Berdamai dengan masa lalu dan memaafkan kekeliruan diri sendiri tak kalah pentingnya bagi jiwa;
-36:10:2 jadikanlah hari kemarin sebagai guru yang mendewasakan langkah,
-36:10:3 bukan sebagai penjara yang mengikat kakimu di tempat yang sama.
+36:10:1 Dan berdamai dengan masa yang telah lampau serta memaafkan kekeliruan dirimu sendiri adalah perkara yang amat penting bagi jiwamu;
+36:10:2 maka jadikanlah hari kemarin itu sebagai guru yang mendewasakan langkahmu,
+36:10:3 dan janganlah kamu menjadikannya penjara yang membelenggu kakimu di tempat yang sama.
 
-36:11:1 Tatkala amarah besar mendidih di ubun-ubun kepalamu, basuhlah wajahmu dengan air wudu atau duduklah diam;
-36:11:2 sebab kata-kata tajam yang terlepas saat marah,
-36:11:3 ibarat anak panah yang melesat dari busurnya dan tak mungkin ditarik kembali.
+36:11:1 Maka apabila kemarahan yang besar sedang bergejolak di dalam dadamu, bersegeralah kamu membasuh diri dengan air wudu atau duduklah kamu dengan diam;
+36:11:2 karena sesungguhnya perkataan tajam yang terlepas tatkala marah itu,
+36:11:3 adalah ibarat anak panah yang melesat dari busurnya dan tiada mungkin dapat kamu tarik kembali.
 
 ---
 
 ## Bab 37: Niat Baik, Doa Subuh, dan Kebiasaan Kecil
 
-37:1:1 Apabila terbit niat mulia di hatimu untuk menolong sesama yang sedang kesempitan,
-37:1:2 tunaikanlah seketika itu juga tanpa menunda waktu;
-37:1:3 sebab niat baik yang ditunda-tunda kerap menguap dan dananya habis terpakai urusan lain.
+37:1:1 Maka apabila tergerak niat yang baik di dalam hatimu untuk menolong orang yang sedang ditimpa kesusahan,
+37:1:2 bersegeralah kamu menunaikannya pada saat itu juga dan janganlah kamu menangguhkannya;
+37:1:3 sebab apabila kamu menunda-nundanya, dikhawatirkan hartamu habis terpakai untuk keperluan yang lain dan niat baikmu menjadi layu.
 
-37:2:1 Bisikan doa seorang ayah yang duduk hening seusai sujud subuh,
-37:2:2 memang lirih nyaris tak terdengar oleh telinga manusia di sekitarnya;
-37:2:3 namun permohonan keselamatan bagi anak dan istrinya melesat lurus menembus langit.
+37:2:1 Sesungguhnya bisikan doa seorang bapak yang duduk hening seusai sujud subuh,
+37:2:2 memang lirih nyaris tiada terdengar oleh telinga manusia di sekelilingnya;
+37:2:3 akan tetapi permohonan keselamatannya bagi anak dan istrinya itu melesat lurus menembus pintu-pintu langit.
 
-37:3:1 Setiap kali engkau melangkah keluar atau masuk melewati pintu kamar,
-37:3:2 rapatkanlah daun pintunya perlahan dengan genggaman tanganmu dan jangan dibanting;
-37:3:3 sayangilah engsel besinya dan jagalah ketenangan seisi rumah.
+37:3:1 Dan setiap kali kamu melangkah keluar atau masuk melewati pintu bilikmu,
+37:3:2 maka tutuplah daun pintunya secara perlahan dengan tanganmu dan janganlah kamu membantingnya;
+37:3:3 sayangilah engsel besinya dan peliharalah ketenangan hati orang-orang di dalam rumahmu.
 
-37:4:1 Saat menyapu lantai rumah, giringlah debu dan kotorannya hingga melewati ambang pintu luar;
-37:4:2 jangan hanya kau kumpulkan tersembunyi di balik keset kaki.
+37:4:1 Dan tatkala kamu menyapu lantai rumahmu, maka giringlah debu dan kotorannya itu sampai keluar melewati pintu;
+37:4:2 dan janganlah kamu hanya menumpuknya secara sembunyi-sembunyi di bawah pengelap kaki.
 
-37:5:1 Ketika matamu baru terjaga dari tidur pagi, janganlah langsung melompat meninggalkan kamar;
-37:5:2 lipatlah selimutmu dengan rapi dan tepuklah bantal peraduanmu,
-37:5:3 sebagai kemenangan disiplin pertamamu mengawali hari.
+37:5:1 Dan apabila kamu baru saja terjaga dari tidurmu pada waktu pagi, maka janganlah kamu langsung berlari meninggalkan kamarmu;
+37:5:2 melainkan lipatlah terlebih dahulu kain selimutmu dan rapikanlah bantal peraduanmu,
+37:5:3 sebagai latihan ketertiban yang pertama bagimu untuk mengawali hari.
 
-37:6:1 Sebelum telapak kakimu melangkah melewati ambang pintu berangkat bekerja,
-37:6:2 berhentilah sejenak menarik napas dan panjatkanlah doa perlindungan;
-37:6:3 sebab langkah yang diawali dengan nama Tuhan akan dijaga hingga kembali pulang.
+37:6:1 Maka sebelum kakimu melangkah keluar melewati ambang pintu rumah untuk berangkat mencari nafkah,
+37:6:2 berhentilah kamu sejenak seraya memanjatkan doa perlindungan kepada Tuhanmu;
+37:6:3 karena sesungguhnya langkah perjalanan yang dimulai dengan doa itu akan senantiasa dijaga hingga kembali pulang.
 
-37:7:1 Bila matamu melihat bongkahan batu atau paku tajam melintang di tengah jalanan,
-37:7:2 berhentilah barang sebentar untuk menyingkirkannya ke tepi jalan;
-37:7:3 sebab amal kecil yang tampak remeh itu boleh jadi menyelamatkan nyawa sesama.
+37:7:1 Dan apabila kedua matamu melihat sebongkah batu besar atau sebatang paku melintang di tengah jalan lorongmu,
+37:7:2 maka berhentilah kamu barang sebentar dan singkirkanlah ia ke tepi jalan;
+37:7:3 karena sesungguhnya perbuatan kecil yang tampak remeh itu boleh jadi menyelamatkan nyawa sesamamu manusia.
 
-37:8:1 Saat menanggalkan sepatu atau sandal di teras rumah, susunlah menghadap ke arah luar;
-37:8:2 selain tampak tertib menyejukkan pandangan mata,
-37:8:3 kakimu akan mudah mengenakannya kembali kala hendak bergegas pergi.
+37:8:1 Dan tatkala kamu menanggalkan sepatu atau terompahmu di beranda rumah, maka susunlah ia menghadap ke arah luar;
+37:8:2 selain tampak indah lagi tertib pada pandangan mata,
+37:8:3 niscaya ia memudahkan kakimu tatkala hendak mengenakannya kembali dengan bergegas.
 
-37:9:1 Biasakanlah lidahmu mengucap kata "tolong" saat meminta bantuan dan "terima kasih" seusai dilayani;
-37:9:2 baik kepada pejabat tinggi maupun kepada juru parkir dan pengantar barang,
-37:9:3 sebab kemuliaan budi terpancar dari cara kita menghargai sesama.
+37:9:1 Dan biasakanlah lisanmu mengucapkan perkataan "tolong" tatkala meminta bantuan serta mengucapkan "terima kasih" kepada siapa saja yang membantumu,
+37:9:2 tidak terkecuali kepada penjaga parkir serta pengantar bungkusan;
+37:9:3 karena sesungguhnya kemuliaan akhlak seseorang itu tampak dari caranya memuliakan manusia yang lain.
 
-37:10:1 Ketahuilah bahwa nasib besar seseorang di masa depan tidaklah jatuh mendadak dari langit;
-37:10:2 melainkan dirajut perlahan dari kebiasaan-kebiasaan kecil yang baik,
-37:10:3 yang diulanginya dengan setia setiap pagi.
+37:10:1 Ketahuilah bahwasanya masa depan yang besar bagi seorang manusia itu tidaklah datang secara tiba-tiba,
+37:10:2 melainkan ia ditempa dari kebiasaan-kebiasaan kecil yang baik,
+37:10:3 yang dikerjakannya secara terus-menerus pada tiap-tiap pagi.
 
-37:11:1 Seusai menggunakan kamar pemandian, guyurlah kembali lantainya hingga bersih dan letakkan gayung tertelungkup;
-37:11:2 agar anggota keluarga yang masuk sesudahmu mendapati kesegaran yang sama.
+37:11:1 Dan apabila kamu telah selesai menggunakan bilik pemandian, maka siramlah kembali lantainya hingga bersih dan letakkanlah gayungnya secara tertelungkup;
+37:11:2 supaya orang yang masuk sesudahmu turut merasakan kebersihan dan kenyamanannya.
 
-37:12:1 Jangan gemar menunda membalas pesan penting dari orang tua atau rekan kerjamu;
-37:12:2 sebab sebaris balasan singkat darimu sudah cukup menenangkan hati orang yang menunggu kabar.
+37:12:1 Dan janganlah kamu suka mengulur-ulur waktu dalam membalas pesan yang penting dari kedua orang tuamu ataupun rekan kerjamu;
+37:12:2 karena sesungguhnya satu kalimat jawaban yang singkat darimu itu sudah cukup untuk menenteramkan hati orang yang menunggu.
 
-37:13:1 Setiap kali langkahmu melintasi kotak amal di tempat ibadah,
-37:13:2 selipkanlah selembar rezeki meskipun kecil nilainya;
-37:13:3 latihlah jemarimu agar senantiasa ringan berbagi setiap hari.
+37:13:1 Dan setiap kali langkahmu melewati tempat ibadah atau kotak derma kebaikan,
+37:13:2 maka selipkanlah selembar dari rezekimu sekalipun sedikit nilainya;
+37:13:3 dan latihlah tanganmu supaya senantiasa ringan berbuat kebajikan pada tiap-tiap hari.
 
-37:14:1 Sebelum merebahkan diri di peraduan malam, periksalah kembali kunci pintu depan, jendela, dan tungku kompor di dapur;
-37:14:2 sebab lelapnya tidur seisi rumah berawal dari ketelitian kecil di penghujung malam.
+37:14:1 Dan sebelum kamu membaringkan tubuhmu untuk tidur pada waktu malam, maka periksalah sekali lagi kunci pintu depan, jendela, serta tungku kompor di dapurmu;
+37:14:2 karena sesungguhnya ketenteraman tidur malam itu bermula dari ketelitian atas perkara-perkara yang kecil.
 
-37:15:1 Senyuman tulus saat membukakan pintu menyambut kepulangan anggota keluarga,
-37:15:2 adalah sedekah paling murah yang mengubah rumah sederhana menjadi seteduh surga.
+37:15:1 Sesungguhnya senyuman yang tulus tatkala membukakan pintu menyambut kepulangan keluarga itu,
+37:15:2 adalah ibadah yang paling ringan namun sanggup menjadikan rumahmu terasa bagaikan taman surga.
 
 ---
 
 ## Bab 38: Ujian Hidup, Sabar, dan Ikhlas Melepaskan
 
-38:1:1 Ketahuilah bahwa kesabaran yang sejati itu tiada memiliki garis batas;
-38:1:2 sebab apabila engkau berkata bahwa kesabaranmu telah habis mencapai batasnya,
-38:1:3 maka sesungguhnya sejak awal engkau belumlah bersabar, melainkan sekadar menahan rajuk.
+38:1:1 Ketahuilah olehmu bahwasanya kesabaran yang sejati itu tiada mengenal batas akhir;
+38:1:2 maka apabila kamu mengatakan bahwa kesabaranmu telah habis mencapai batasnya,
+38:1:3 sesungguhnya yang demikian itu bukanlah lagi dinamakan sabar, melainkan memperturutkan kemarahan belaka.
 
-38:2:1 Bila pelindung kepala kesayanganmu raib di pelataran parkir setelah dicari ke sekeliling,
-38:2:2 lapangkanlah dadamu untuk mengikhlaskannya pergi;
-38:2:3 sebab bila terus kau ratapi sepanjang jalan, kepalamu sendiri yang akan berdenyut pening.
+38:2:1 Dan apabila pelindung kepala kesayanganmu hilang lenyap di pelataran parkir setelah kamu mencarinya dengan bersungguh-sungguh,
+38:2:2 maka lapangkanlah dadamu untuk merelakannya pergi;
+38:2:3 sebab apabila kamu terus-menerus meratapinya, niscaya tiada yang bertambah selain rasa pening di kepalamu sendiri.
 
-38:3:1 Perjalanan hidup manusia ini persis bagaikan mengayuh sepeda di jalan panjang:
-38:3:2 bila kayuhan kakimu terasa berat menyesakkan napas, tandanya engkau sedang mendaki tanjakan,
-38:3:3 dan percayalah bahwa selepas puncak itu selalu menanti turunan yang sejuk berangin.
+38:3:1 Sesungguhnya perumpamaan kehidupan dunia ini adalah persis bagaikan orang yang mengayuh sepeda:
+38:3:2 apabila kayuhan kakimu terasa amat berat, maka ketahuilah bahwa kamu sedang mendaki jalan yang menanjak,
+38:3:3 dan yakinlah bahwa sesudah tanjakan itu pasti akan datang jalan menurun yang sejuk berangin.
 
-38:4:1 Apabila beban hidup terasa begitu menghimpit pundakmu,
-38:4:2 tumpahkanlah air matamu dalam sujud dan doa yang sunyi;
-38:4:3 sebab seorang ayah pun manusia biasa yang memiliki hati, bukanlah tugu batu yang tak mengenal perih.
+38:4:1 Dan apabila beban kehidupan terasa terlampau berat menghimpit pundakmu,
+38:4:2 maka tiada mengapa kamu menumpahkan air matamu di dalam doa kepada Tuhanmu;
+38:4:3 karena sesungguhnya seorang bapak itu pun adalah manusia biasa yang memiliki rasa pedih di hati, dan bukanlah patung batu yang keras.
 
-38:5:1 Sebagaimana pohon yang kian tinggi menjulang akan kian kencang diterpa hembusan angin,
-38:5:2 demikian pula manusia yang sedang ditinggikan derajat hidupnya;
-38:5:3 maka janganlah gentar bila ujian yang menyapamu terasa kian besar.
+38:5:1 Tidakkah kamu memperhatikan bahwa pohon yang semakin tinggi menjulang ke langit itu semakin kencang pula angin yang menerpanya?
+38:5:2 Maka apabila ujian hidup yang menimpamu terasa semakin besar,
+38:5:3 ketahuilah bahwa yang demikian itu adalah pertanda derajatmu sedang ditinggikan.
 
-38:6:1 Jangan pernah berputus asa tatkala satu pintu rezeki tertutup rapat di hadapan matamu;
-38:6:2 sebab Sang Maha Pemurah tak pernah menutup satu pintu bagi hamba-Nya,
-38:6:3 melainkan telah menyiapkan pintu lain yang jauh lebih berkah di sebelahnya.
+38:6:1 Dan janganlah sekali-kali kamu berputus asa dari rahmat Tuhanmu tatkala satu pintu rezeki tertutup di hadapan matamu;
+38:6:2 karena sesungguhnya Tuhan tiada pernah menutup satu pintu bagi hamba-Nya,
+38:6:3 melainkan Dia telah membukakan pintu yang lain yang jauh lebih baik bagimu.
 
-38:7:1 Bila engkau kehilangan harta atau benda setelah dijaga dengan baik, anggaplah ia sedekah penolak bala;
-38:7:2 selama raga kita dan keluarga tercinta masih utuh dalam kesehatan, harta yang hilang masih bisa dicari kembali.
+38:7:1 Maka apabila kamu ditimpa kehilangan harta atau suatu barang, anggaplah ia sebagai sedekah penolak bencana;
+38:7:2 selama jasad kita dan keluarga kita masih terpelihara dalam kesehatan dan keselamatan, niscaya harta yang hilang itu masih dapat dicari kembali.
 
-38:8:1 Lautan yang tenang tanpa riak gelombang tak pernah melahirkan nakhoda yang ulung;
-38:8:2 justru hantaman ombak dan badai kesulitan hidup itulah,
-38:8:3 yang menempa tulang dan nyalimu menjadi sekuat baja.
+38:8:1 Ketahuilah bahwa lautan yang tenang tanpa gelombang itu tiada pernah melahirkan pelaut yang tangguh;
+38:8:2 melainkan terjangan ombak dan badai kesulitan hidup itulah,
+38:8:3 yang menempa keteguhan hati serta nyalimu hingga menjadi sekuat besi.
 
-38:9:1 Ketika masalah datang bertubi-tubi mengungkung pikiranmu,
-38:9:2 urailah satu demi satu dengan kepala dingin bagai mengurai benang yang kusut;
-38:9:3 jangan kau tarik paksa sekaligus, agar simpulnya tak kian terkunci mati.
+38:9:1 Dan apabila musibah dan persoalan datang bertubi-tubi menimpamu,
+38:9:2 maka urailah ia satu demi satu sebagaimana orang yang mengurai benang yang kusut dengan kesabaran;
+38:9:3 dan janganlah kamu menariknya secara paksa sekaligus, supaya tidak semakin mati ikatan simpulnya.
 
-38:10:1 Ikhlas melepaskan bukanlah berarti dadamu kebal tak merasakan duka saat kehilangan;
-38:10:2 melainkan keyakinan teguh di dasar hati setelah air mata mengering,
-38:10:3 bahwa ketetapan Tuhan senantiasa lebih indah daripada rencana manusia.
+38:10:1 Sesungguhnya arti ikhlas itu bukanlah berarti hatimu tiada merasakan kesedihan tatkala ditimpa kehilangan,
+38:10:2 melainkan kamu tetap menaruh keyakinan yang penuh di dalam dadamu,
+38:10:3 bahwasanya ketetapan Tuhanmu itu senantiasa lebih indah daripada apa yang kamu rencanakan sendiri.
 
-38:11:1 Ingatlah bahwa kepekatan malam yang paling gelap gulita justru terjadi sesaat sebelum fajar menyingsing;
-38:11:2 maka bertahanlah barang sebentar lagi, sebab cahaya pagimu telah berada di ambang pintu.
+38:11:1 Dan ingatlah bahwasanya kegelapan malam yang paling pekat itu justru terjadi sesaat sebelum menyingsingnya fajar subuh;
+38:11:2 maka bersabarlah kamu bertahan barang sejenak lagi, karena sesungguhnya cahaya terangmu telah amat dekat.
 
-38:12:1 Tuhan tak pernah keliru mengukur lebar pundak hamba-Nya;
-38:12:2 apabila beban besar ini diletakkan di atas bahumu hari ini,
-38:12:3 itu tandanya engkaulah pribadi yang paling tangguh untuk memikulnya.
+38:12:1 Sesungguhnya Tuhan tiada pernah keliru mengukur kekuatan pundak hamba-hamba-Nya;
+38:12:2 maka apabila beban yang berat ini diletakkan ke atas pundakmu pada hari ini,
+38:12:3 ketahuilah bahwa sesungguhnya kamulah orang yang paling sanggup untuk memikulnya.
 
 ---
 
 ## Bab 39: Sedekah, Berbagi, dan Tangan di Atas
 
-39:1:1 Tatkala pengamen jalanan atau peminta-minta menghampiri tempat dudukmu,
-39:1:2 berilah dengan tangan yang santun bila ada kelebihan rezeki, atau tolaklah dengan senyum yang baik;
-39:1:3 janganlah engkau membuang muka seolah mereka bukan sesama manusia.
+39:1:1 Dan apabila datang pengamen atau peminta-minta menghampiri tempat dudukmu,
+39:1:2 maka berikanlah kepadanya dengan cara yang sopan apabila kamu memiliki kelapangan, atau tolaklah ia dengan perkataan yang baik;
+39:1:3 dan janganlah kamu memalingkan mukamu dengan sombong seakan-akan mereka bukan sesamamu manusia.
 
-39:2:1 Memberi derma secara sembunyi-sembunyi itu sungguh mulia, dan memberi secara terang demi teladan pun baik adanya;
-39:2:2 yang tercela adalah mereka yang menggenggam erat kantongnya sendiri,
-39:2:3 namun paling nyaring suaranya menuduh pengurus berbuat curang.
+39:2:1 Sesungguhnya menafkahkan sedekah secara sembunyi-sembunyi itu amatlah mulia, dan menafkahkannya secara terang-terangan guna menjadi teladan pun adalah baik;
+39:2:2 adapun yang tercela itu adalah orang-orang yang menahan tangannya dari menyumbang,
+39:2:3 namun mereka sibuk menuduh para pengurus berbuat kecurangan.
 
-39:3:1 Janganlah kikir menyisihkan sebagian rezekimu bagi mereka yang membutuhkan pertolongan;
-39:3:2 sebab harta yang kau tahan dengan ketamakan di dalam peti,
-39:3:3 kelak bisa ditarik keluar secara paksa melalui tagihan pengobatan.
+39:3:1 Dan janganlah kamu berlaku kikir dari membagikan sebagian karunia rezekimu kepada orang-orang yang memerlukan;
+39:3:2 sebab dikhawatirkan harta yang kamu tahan-tahan dengan kebakhilan itu,
+39:3:3 kelak akan dikeluarkan secara paksa darimu melalui biaya pengobatan penyakit.
 
-39:4:1 Apabila tetangga sebelah mengantarkan sepiring hidangan ke pintu rumahmu,
-39:4:2 basuhlah piring itu hingga bersih lalu kembalikanlah dengan terisi makanan pula;
-39:4:3 jangan biarkan piring kebaikan kembali dalam keadaan hampa.
+39:4:1 Dan apabila tetangga sebelahmu mengantarkan sepiring makanan ke pintu rumahmu,
+39:4:2 maka kembalikanlah piringnya itu kemudian hari dalam keadaan bersih lagi terisi dengan makanan pula;
+39:4:3 dan janganlah kamu mengembalikan piring kebaikan itu dalam keadaan kosong hampa.
 
-39:5:1 Saat membeli dagangan dari kakek atau nenek renta yang memikul beban di tepi jalan,
-39:5:2 janganlah tega hatimu menawar harga dagangannya yang tak seberapa;
-39:5:3 lebihkanlah bayaranmu sebagai sedekah agar langkah tua mereka lekas pulang beristirahat.
+39:5:1 Dan tatkala kamu membeli barang dagangan dari seorang kakek atau nenek yang telah renta di tepi jalan,
+39:5:2 maka janganlah kamu menawar harga dagangannya yang tiada seberapa itu;
+39:5:3 bahkan jika kamu memiliki kelapangan, maka ikhlaskanlah uang kembaliannya supaya bertambah keberkahan doa bagi dirimu.
 
-39:6:1 Ketahuilah bahwa sedekah tak pernah sekalipun membuat seorang manusia jatuh miskin;
-39:6:2 ia ibarat mata air di dasar sumur tua:
-39:6:3 kian sering ditimba untuk dibagikan, kian deras dan jernih air baru yang memancar.
+39:6:1 Ketahuilah bahwasanya sedekah itu sekali-kali tidaklah akan menjadikan seseorang jatuh miskin;
+39:6:2 perumpamaannya adalah bagaikan sebuah sumur yang tua:
+39:6:3 semakin kerap ditimba airnya untuk dibagikan kepada sesama, semakin jernih lagi deras mata air yang memancar darinya.
 
-39:7:1 Apabila kantongmu sedang sempit tak memiliki kelebihan harta untuk disedekahkan,
-39:7:2 bersedekahlah dengan tenagamu, pikiranmu, atau setidaknya senyum dan kalimat yang menguatkan sesama.
+39:7:1 Dan apabila tanganmu sedang tiada memiliki kelebihan harta untuk disedekahkan,
+39:7:2 maka bersedekahlah kamu dengan kekuatan tenagamu, buah pikiranmu, atau setidak-tidaknya dengan senyuman dan perkataan yang menguatkan hati sesamamu.
 
-39:8:1 Jangan sekali-kali lidahmu mengungkit kembali pertolongan yang pernah kau ulurkan kepada orang lain;
-39:8:2 sebab kebaikan yang diungkit-ungkit di kemudian hari,
-39:8:3 akan gugur pahalanya bagai daun kering diterpa angin kemarau.
+39:8:1 Wahai anakku, janganlah sekali-kali kamu mengungkit-ungkit pemberian dan pertolongan yang telah kamu ulurkan kepada orang lain;
+39:8:2 karena sesungguhnya kebaikan yang diungkit-ungkit pada hari kemudian itu,
+39:8:3 akan gugur pahalanya bagaikan daun kering yang ditiup angin kemarau.
 
-39:9:1 Sediakanlah sebotol air sejuk atau kudapan kecil bagi petugas kebersihan dan pengantar paket yang singgah di terik siang;
-39:9:2 sebab doa tulus dari kerongkongan yang lega oleh pemberianmu,
-39:9:3 sering kali mengundang berkah dari arah yang tak disangka-sangka.
+39:9:1 Dan sediakanlah sebotol air sejuk atau kudapan kecil bagi pengantar bungkusan serta petugas kebersihan yang melintas di hadapan rumahmu pada terik siang;
+39:9:2 karena sesungguhnya doa tulus dari kerongkongan yang lega oleh pemberianmu itu,
+39:9:3 kerap kali mendatangkan keberkahan dari arah yang tiada kamu sangka-sangka.
 
-39:10:1 Sesungguhnya harta yang benar-benar menjadi milikmu hingga menghadap keabadian,
-39:10:2 bukanlah tumpukan angka yang kau simpan terkunci di dalam brankas,
-39:10:3 melainkan apa yang telah kau lepaskan di jalan kebaikan untuk sesama.
+39:10:1 Ketahuilah bahwa harta benda yang benar-benar menjadi milikmu sampai kamu menutup mata,
+39:10:2 bukanlah harta yang bertumpuk di dalam perbendaharaan bank,
+39:10:3 melainkan harta yang telah kamu sedekahkan di jalan kebajikan.
 
-39:11:1 Kala engkau bersantap di warung makan dan melihat pekerja harian tua menghitung uang recehnya untuk makan sederhana,
-39:11:2 lunasilah tagihan makannya secara diam-diam di meja kasir sebelum engkau berlalu.
+39:11:1 Dan apabila kamu sedang makan di sebuah kedai lalu kamu melihat seorang tua atau pekerja harian yang menyantap makanan dengan sederhana,
+39:11:2 maka sesekali bayarkanlah tagihan makanannya itu secara sembunyi-sembunyi di meja pembayaran.
 
-39:12:1 Tangan yang memberi di atas senantiasa lebih mulia daripada tangan yang menengadah di bawah;
-39:12:2 maka sekecil apa pun penghasilanmu hari ini, sisihkanlah selalu sebagian kecil untuk berbagi.
+39:12:1 Sesungguhnya tangan yang memberi di sebelah atas itu lebih mulia daripada tangan yang meminta di sebelah bawah;
+39:12:2 maka berapapun kecilnya penghasilan yang kamu peroleh, latihlah dirimu untuk senantiasa menyisihkan bagian guna memberi.
 
-39:13:1 Ketika hujan deras mengguyur jalanan dan tampak pedagang kecil menggigil berteduh menjaga dagangannya,
-39:13:2 belilah barang dagangannya meski engkau belum terlalu membutuhkannya;
-39:13:3 agar ia dapat lekas berkemas pulang menemui keluarganya di rumah.
+39:13:1 Dan tatkala turun hujan yang lebat lalu kamu melihat pedagang kecil berteduh menggigil menjaga dagangannya,
+39:13:2 maka belilah barang dagangannya itu sekalipun kamu belum terlampau memerlukannya;
+39:13:3 supaya ia dapat segera berkemas pulang menemui keluarganya di rumah.
 
-39:14:1 Janganlah menunggu kaya raya baru engkau hendak bersedekah;
-39:14:2 melainkan bersedekahlah sejak hari ini agar hatimu menjadi kaya dan jalan rezekimu dilapangkan.
+39:14:1 Maka janganlah kamu menunggu hingga menjadi kaya raya barulah kamu hendak bersedekah,
+39:14:2 melainkan bersedekahlah kamu sejak saat ini supaya menjadi kaya hatimu dan dilapangkan jalan rezekimu.
 
 ---
 
 ## Bab 40: Rendah Hati, Kesombongan, dan Ilmu Padi
 
-40:1:1 Belajarlah ketangguhan hidup dari hamparan rumput di tanah lapang:
-40:1:2 meski setiap hari terinjak sepatu dan diterpa terik maupun hujan lebat,
-40:1:3 akarnya tetap menghujam kokoh di bumi dan tak pernah patah arang.
+40:1:1 Maka ambillah pelajaran tentang ketabahan hidup dari rumput yang tumbuh di tanah lapang:
+40:1:2 sekalipun ia kerap kali diinjak oleh telapak kaki serta diterpa hujan dan panas matahari,
+40:1:3 namun urat akarnya tetap teguh menghujam ke bumi dan tiada mudah tumbang.
 
-40:2:1 Manusia yang gemar memamerkan harta benda secara berlebihan di hadapan orang banyak,
-40:2:2 ibarat seseorang yang mengenakan celana terlampau besar dari ukuran tubuhnya:
-40:2:3 niat hatinya hendak tampil gagah memukau, namun justru tampak janggal dan menggelikan.
+40:2:1 Sesungguhnya perumpamaan orang yang gemar menyombongkan harta bendanya secara berlebih-lebihan itu,
+40:2:2 adalah bagaikan seseorang yang mengenakan celana yang terlampau longgar dari ukuran tubuhnya:
+40:2:3 maksud hatinya hendak bermegah-megahan, namun yang tampak pada pandangan manusia hanyalah ketidakpantasan.
 
-40:3:1 Sekalipun kelak engkau menyandang gelar sarjana yang tinggi menjulang,
-40:3:2 jangan sekali-kali lidahmu menggurui apalagi merendahkan ayah dan ibumu;
-40:3:3 sebab dari tetes keringat merekalah bangku perguruan tinggi itu dapat kau duduki.
+40:3:1 Dan sekalipun kamu kelak telah mencapai derajat ilmu sarjana yang tinggi menjulang,
+40:3:2 maka janganlah sekali-kali lisanmu menggurui apalagi merendahkan bapak dan ibumu;
+40:3:3 karena sesungguhnya dari tetes peluh merekalah bangku perguruan tinggi itu dapat kamu duduki.
 
-40:4:1 Orang yang benar-benar kaya hatinya dan mapan hidupnya tak pernah sibuk memamerkan isi tabungannya;
-40:4:2 ia duduk tenang bersahaja bersama kawan-kawannya,
-40:4:3 namun saat perjamuan usai, seluruh tagihan meja telah diam-diam dilunasinya.
+40:4:1 Ketahuilah bahwa orang yang benar-benar kaya hatinya lagi mapan penghidupannya tiada pernah sibuk menceritakan jumlah harta simpanannya;
+40:4:2 ia duduk dengan tenang lagi bersahaja bersama kawan-kawannya,
+40:4:3 namun tatkala selesai perjamuan makan, seluruh tagihan meja itu telah dilunasinya secara diam-diam.
 
-40:5:1 Pakailah falsafah bulir padi yang tumbuh menguning di tengah sawah:
-40:5:2 kian padat berisi bulir-bulir ilmunya, kian merunduk rendah tangkai batangnya;
-40:5:3 sedangkan tangkai yang mendongak angkuh menantang langit hanyalah bulir hampa tanpa isi.
+40:5:1 Dan pakailah olehmu perumpamaan tanaman padi yang tumbuh di hamparan sawah:
+40:5:2 semakin padat berisi bulir-bulirnya, maka semakin merunduk rendah tangkainya ke arah bumi;
+40:5:3 adapun tangkai yang berdiri tegak mendongak dengan angkuh ke arah langit, maka itulah tanda bulir padi yang hampa tiada berisi.
 
-40:6:1 Sebagaimana tong kosong yang berbunyi nyaring memekakkan telinga bila dipukul,
-40:6:2 demikianlah tabiat orang yang paling gemar menyombongkan kehebatan dirinya.
+40:6:1 Sebagaimana bejana yang kosong itu nyaring bunyinya apabila dipukul,
+40:6:2 demikianlah keadaan orang-orang yang paling gaduh membanggakan kehebatan dirinya, padahal amat dangkal ilmu pengetahuannya.
 
-40:7:1 Jangan pernah memandang rendah seseorang hanya karena kaos oblong dan sandal jepit yang dikenakannya;
-40:7:2 sebab boleh jadi orang bersahaja yang kau remehkan di sudut pasar itu,
-40:7:3 adalah pemilik deretan toko tempatmu berdiri.
+40:7:1 Dan janganlah sekali-kali kamu memandang hina kepada seseorang hanya karena pakaian kaos sederhana dan terompah jepit yang dikenakannya;
+40:7:2 karena sesungguhnya boleh jadi orang bersahaja yang kamu remehkan di sudut pasar itu,
+40:7:3 adalah pemilik dari deretan bangunan toko tempatmu berdiri.
 
-40:8:1 Tatkala orang banyak melambungkan pujian atas keberhasilan kerjamu,
-40:8:2 ucapkanlah terima kasih dengan santun lalu kembalikanlah segala puji itu kepada Tuhan;
-40:8:3 sebab pujian yang ditelan bulat-bulat ke dalam dada mudah berubah menjadi racun kesombongan.
+40:8:1 Maka apabila manusia melambungkan pujian atas keberhasilan kerjamu,
+40:8:2 ucapkanlah terima kasih dengan santun lalu kembalikanlah segala puji itu kepada Tuhanmu;
+40:8:3 karena sesungguhnya pujian yang ditelan mentah-mentah ke dalam dada itu mudah berubah menjadi racun kesombongan.
 
-40:9:1 Bukalah telingamu untuk mendengar nasihat yang benar sekalipun keluar dari mulut anak kecil atau orang yang lebih muda;
-40:9:2 sebab kemuliaan sebuah kebenaran diukur dari jernih isinya, bukan dari usia siapa yang mengucapkannya.
+40:9:1 Dan tetaplah kamu merendahkan hati untuk menerima kebenaran dan nasihat, sekalipun ia keluar dari lisan anak kecil atau orang yang lebih muda usianya daripadamu;
+40:9:2 karena sesungguhnya kemuliaan suatu kebenaran itu ditimbang dari isi perkataannya, dan bukanlah dari siapa yang mengucapkannya.
 
-40:10:1 Ingatlah senantiasa bahwa di atas langit masih membentang langit yang lebih tinggi;
-40:10:2 setinggi apa pun pangkat dan pencapaianmu hari ini,
-40:10:3 tetaplah menapak dengan rendah hati di atas tanah tempat kita semua akan kembali.
+40:10:1 Dan ingatlah senantiasa bahwasanya di atas langit itu masih ada langit yang lebih tinggi;
+40:10:2 maka setinggi apa pun kedudukan yang kamu capai pada hari ini,
+40:10:3 tetaplah kamu merendahkan dirimu karena sesungguhnya kita semua diciptakan dari tanah dan akan kembali ke dalam tanah.
 
-40:11:1 Pribadi yang rendah hati takkan pernah bisa dijatuhkan oleh penghinaan siapa pun;
-40:11:2 sebab sejak semula ia telah memilih duduk dengan tenang di tempat yang membumi.
+40:11:1 Ketahuilah bahwa orang yang rendah hatinya itu tiada akan pernah dapat dijatuhkan oleh siapa pun,
+40:11:2 karena sesungguhnya sejak semula ia telah memilih duduk di tempat yang teduh lagi membumi.
 
 ---
 
 ## Bab 41: Ikhtiar, Prasangka Baik, dan Tawakal
 
-41:1:1 Kewajiban kita sebagai manusia hanyalah memeras peluh dan berikhtiar sebaik-baiknya;
-41:1:2 perihal bagaimana hasil akhirnya nanti bermuara,
-41:1:3 biarlah Sang Pengatur Semesta yang mengetukkan palu keputusannya.
+41:1:1 Sesungguhnya kewajiban kita sebagai manusia itu hanyalah bekerja dan berusaha dengan sekuat-kuat kemampuan kita;
+41:1:2 adapun mengenai bagaimanakah kesudahan hasilnya kelak,
+41:1:3 maka serahkanlah ketetapannya itu kepada Tuhan Pengatur Semesta Alam.
 
-41:2:1 Janganlah hatimu lekas keruh oleh curiga saat melihat tetangga sebelah membeli tunggangan baru;
-41:2:2 peliharalah prasangka baik di dalam dadamu,
-41:2:3 sebab boleh jadi itulah buah dari tabungan dan doa panjang mereka bertahun-tahun.
+41:2:1 Dan janganlah hatimu lekas dipenuhi sangkaan buruk ataupun kedengkian tatkala kamu melihat tetangga sebelahmu membeli barang yang baru;
+41:2:2 melainkan peliharalah prasangka yang baik di dalam dadamu,
+41:2:3 karena boleh jadi barang itu adalah buah dari kesabaran mereka menabung selama bertahun-tahun.
 
-41:3:1 Makna berserah diri yang sejati adalah mengunci ganda leher kemudi motor terlebih dahulu sebelum memanjatkan doa;
-41:3:2 bukan membiarkan kunci masih tergantung di lubang kontak,
-41:3:3 lalu melenggang pergi seraya berucap, "Biarlah kupasrahkan pada takdir."
+41:3:1 Ketahuilah bahwa arti bertawakal yang benar itu adalah mengunci ganda leher kemudi tungganganmu terlebih dahulu sebelum kamu memanjatkan doa;
+41:3:2 dan bukanlah kamu membiarkan anak kuncinya masih tergantung pada lubangnya,
+41:3:3 lalu kamu melenggang pergi seraya berkata, "Biarlah aku berserah diri kepada takdir."
 
-41:4:1 Bila hari ini lapak dagangan atau usahamu masih lengang dari pembeli,
-41:4:2 tutuplah kedaimu dengan senyum syukur dan cobalah kembali esok hari;
-41:4:3 sebab matahari pun rela tenggelam dalam gelap petang ini, demi terbit kembali dengan gagah esok pagi.
+41:4:1 Maka apabila pada hari ini perniagaan atau usahamu sedang sunyi dari pembeli,
+41:4:2 tutuplah kedaimu dengan senyuman syukur dan berusahalah kembali pada esok harinya;
+41:4:3 tidakkah kamu melihat matahari yang tenggelam pada petang hari ini semata-mata untuk terbit kembali pada esok pagi?
 
-41:5:1 Pandanglah burung-burung yang terbang meninggalkan sarangnya saat fajar menyingsing:
-41:5:2 mereka mengepakkan sayap dengan tembolok yang kosong penuh tawakal,
-41:5:3 dan kembali saat senja dengan membawa kecukupan rezeki bagi anak-anaknya.
+41:5:1 Dan perhatikanlah burung-burung yang terbang meninggalkan sarangnya pada tiap-tiap waktu subuh:
+41:5:2 mereka berangkat dengan perut yang lapar namun penuh keyakinan kepada Tuhannya,
+41:5:3 lalu mereka kembali pulang pada waktu petang dengan membawa kecukupan rezeki bagi anak-anaknya.
 
-41:6:1 Janganlah gemar menebak-nebak isi hati orang lain dengan sangkaan yang buruk;
-41:6:2 sebab menjaga pikiran tetap bersih dan berprasangka baik akan membuat langkah hidupmu jauh lebih ringan.
+41:6:1 Dan janganlah kamu gemar menebak-nebak niat yang buruk di dalam hati sesamamu manusia;
+41:6:2 karena sesungguhnya memelihara pikiran yang bersih dari sangkaan buruk itu akan menjadikan beban hidupmu jauh lebih ringan.
 
-41:7:1 Apabila sebuah rencana yang telah kau perjuangkan dengan sekuat tenaga tetap berakhir gagal,
-41:7:2 janganlah terburu memaki garis takdirmu;
-41:7:3 boleh jadi kegagalan itu adalah cara Tuhan menyelamatkanmu dari jurang yang tak kau lihat.
+41:7:1 Dan apabila suatu rencana yang telah kamu usahakan dengan bersungguh-sungguh tetap menemui kegagalan,
+41:7:2 maka janganlah kamu mencela ketetapan takdirmu;
+41:7:3 sebab boleh jadi kegagalan itu adalah cara Tuhanmu menyelamatkanmu dari jalan yang mencelakakanmu.
 
-41:8:1 Berdoa tanpa mau bekerja adalah kemalasan yang sia-sia, sedangkan bekerja tanpa mau berdoa adalah kesombongan yang buta;
-41:8:2 keduanya wajib berputar seiring sejalan,
-41:8:3 bagaikan roda depan dan roda belakang yang menggerakkan kendaraan.
+41:8:1 Ketahuilah bahwa berdoa tanpa disertai usaha adalah kedustaan, sedangkan berusaha tanpa disertai doa adalah kesombongan;
+41:8:2 maka wajiblah keduanya berjalan beriringan,
+41:8:3 sebagaimana berputarnya roda depan dan roda belakang pada sebuah tunggangan.
 
-41:9:1 Janganlah malu atau takut memulai sebuah usaha dari langkah yang kecil;
-41:9:2 sebab pohon beringin raksasa yang meneduhkan alun-alun kota sekalipun,
-41:9:3 dahulunya tumbuh dari sebutir biji kecil yang sabar menembus tanah.
+41:9:1 Dan janganlah kamu merasa takut ataupun malu untuk memulai suatu usaha dari langkah yang kecil;
+41:9:2 karena sesungguhnya pohon beringin yang besar lagi rindang di tengah alun-alun kota itu pun,
+41:9:3 pada mulanya tumbuh dari sebutir biji kecil yang sabar menembus tanah.
 
-41:10:1 Selama napas masih berhembus di kerongkongan dan kedua tangan masih sanggup bergerak,
-41:10:2 pintu harapan tak pernah terkunci mati bagi manusia yang menolak berhenti berusaha.
+41:10:1 Maka selama napas masih berhembus di dalam dada dan kedua tangan masih sanggup digerakkan,
+41:10:2 sesungguhnya pintu harapan itu tiada pernah tertutup bagi orang-orang yang tiada berputus asa dari berusaha.
 
-41:11:1 Apabila pintu rezeki di hadapanmu belum juga terbuka, ketuklah kembali dengan sabar sembari memperbaiki caramu mengetuk;
-41:11:2 jangan lekas berbalik mundur hanya karena sekali ketukan belum mendapat sahutan.
+41:11:1 Dan apabila pintu rezeki di hadapanmu belum juga terbuka, maka ketuklah ia dengan penuh kesabaran sembari kamu perbaiki caramu mengetuknya;
+41:11:2 dan janganlah kamu lekas berbalik mundur hanya karena sekali mencoba.
 
-41:12:1 Rezeki yang terasa lambat singgah ke genggamanmu bukanlah karena ia melupakan alamatmu;
-41:12:2 melainkan sedang dimasak oleh waktu agar lebih matang dan berkah saat tiba di tanganmu.
+41:12:1 Sesungguhnya karunia rezeki yang terasa lambat datangnya itu bukanlah karena ia tersesat dari alamatmu,
+41:12:2 melainkan ia sedang dimatangkan oleh waktu supaya lebih berkah tatkala sampai ke dalam genggaman tanganmu.
 
-41:13:1 Janganlah menguras habis tenagamu hari ini untuk mencemaskan hari esok yang belum tentu terjadi;
-41:13:2 tunaikanlah bagian kerjamu hari ini dengan sebaik-baiknya, dan serahkan selebihnya pada Pemilik Waktu.
+41:13:1 Dan janganlah kamu menghabiskan kekuatanmu pada hari ini hanya untuk mencemaskan hari esok yang belum tentu kamu jumpai;
+41:13:2 tunaikanlah saja bagian kewajibanmu pada hari ini dengan sebaik-baiknya.
 
-41:14:1 Barang siapa memelihara prasangka baik terhadap kehidupan,
-41:14:2 matanya akan selalu menemukan alasan untuk tersenyum bersyukur, sekalipun di bawah langit yang mendung.
+41:14:1 Sesungguhnya orang yang senantiasa berprasangka baik terhadap kehidupannya,
+41:14:2 niscaya akan selalu menemukan sebab untuk tersenyum bersyukur, sekalipun di tengah hari yang diliputi awan mendung.
 
-41:15:1 Selama niat di dadamu lurus dan caramu bekerja bersih dari kecurangan,
-41:15:2 jangan pernah gentar terhadap gangguan orang yang hendak menjegal langkahmu;
-41:15:3 sebab jalan kebenaran senantiasa memiliki penjaganya sendiri.
+41:15:1 Maka apabila kamu telah meluruskan niat di dalam hatimu serta bekerja dengan jujur,
+41:15:2 janganlah kamu merasa takut terhadap tipu daya orang yang hendak menjatuhkanmu;
+41:15:3 karena sesungguhnya jalan kebajikan itu senantiasa memiliki Pelindungnya sendiri.
 
-41:16:1 Hati yang bertawakal akan selalu bermuara pada ketenteraman:
-41:16:2 bila beroleh hasil besar ia bersyukur tanpa takabur,
-41:16:3 dan bila hasil belum sesuai harapan, ia menjadikannya pijakan untuk melangkah lebih bijak.
+41:16:1 Ketahuilah bahwa tawakal itu mendatangkan ketenteraman yang nyata di dalam dada:
+41:16:2 apabila memperoleh hasil yang besar maka kita mensyukurinya,
+41:16:3 dan apabila hasilnya belum sesuai dengan harapan, maka kita menjadikannya pelajaran untuk melangkah kembali.
 
 ---
 
 ## Bab 42: Kejujuran, Nama Baik, dan Harga Diri
 
-42:1:1 Upah bulanan yang tandas di penghujung purnama masih bisa dicari kembali pada bulan berikutnya;
-42:1:2 namun apabila nama baik dan kepercayaan orang telah ternoda arang,
-42:1:3 sebotol cairan pemutih pakaian pun takkan sanggup mencucinya kembali bersih.
+42:1:1 Ketahuilah bahwa upah bulanan yang habis pada penghujung bulan itu masih dapat kamu cari kembali pada bulan berikutnya;
+42:1:2 akan tetapi apabila nama baik dan kepercayaan manusia terhadapmu telah tercemar oleh noda kecurangan,
+42:1:3 maka sebotol air pemutih pakaian pun tiada akan sanggup membersihkannya kembali.
 
-42:2:1 Mengakui kekeliruan dengan jujur lalu menerima teguran memang terasa pahit sesaat di lidah,
-42:2:2 namun merangkai kebohongan demi menutupi kesalahan,
-42:2:3 akan membuat tidurmu gelisah dikejar bayang-bayang sepanjang tahun.
+42:2:1 Sesungguhnya mengakui kesalahan dengan jujur lalu menerima teguran itu memang terasa pahit barang sejenak,
+42:2:2 akan tetapi merangkai kedustaan guna menutupi kesalahan itu,
+42:2:3 niscaya akan menjadikan tidurmu gelisah tiada tenteram selama bertahun-tahun.
 
-42:3:1 Kemuliaan dan harga diri seorang laki-laki diukur dari tanggung jawab serta ketekunan kerjanya,
-42:3:2 bukan dari seberapa berkilau merek penunjuk waktu yang melingkar di pergelangan tangannya,
-42:3:3 ataupun mahalnya alas kaki yang membungkus langkahnya.
+42:3:1 Ketahuilah bahwa kemuliaan harga diri seorang laki-laki itu ditimbang dari tanggung jawab serta kesungguhan kerjanya,
+42:3:2 dan bukanlah dilihat dari seberapa berkilau merek penunjuk waktu yang melingkar di pergelangan tangannya,
+42:3:3 ataupun betapa mahalnya alas kaki yang membungkus langkahnya.
 
-42:4:1 Kehormatan seorang manusia terletak pada teguhnya ucapan dan janji yang keluar dari lisannya;
-42:4:2 sebab bila perkataan seseorang tak lagi dapat dipegang,
-42:4:3 apalah bedanya ia dengan hembusan angin yang berlalu tanpa jejak?
+42:4:1 Sesungguhnya yang dipegang dari seorang manusia itu adalah perkataan lisan serta ikatan janjinya;
+42:4:2 maka apabila perkataan seseorang telah tiada dapat dipercaya lagi,
+42:4:3 apakah bedanya ia dengan hembusan angin yang berlalu begitu saja?
 
-42:5:1 Ketahuilah bahwa satu kebohongan yang kau ucapkan hari ini,
-42:5:2 akan memaksamu mengarang sepuluh kebohongan baru esok hari demi menutupinya;
-42:5:3 maka berkata jujur sejak awal adalah jalan yang paling menghemat pikiran.
+42:5:1 Dan ketahuilah bahwa satu kedustaan yang kamu ucapkan pada hari ini,
+42:5:2 akan memaksamu mengada-adakan sepuluh kedustaan yang baru demi menutupi kedustaan yang pertama;
+42:5:3 maka berkata jujur sejak permulaan itu adalah jalan yang paling menenangkan pikiranmu.
 
-42:6:1 Apabila matamu menemukan dompet atau barang berharga milik orang lain terjatuh di jalanan,
-42:6:2 kembalikanlah ia secara utuh kepada pemiliknya tanpa mengurangi sepeser pun;
-42:6:3 sebab harta yang bukan hak kita hanyalah bara panas bila dibawa masuk ke dalam rumah.
+42:6:1 Dan apabila kamu menemukan suatu barang atau dompet yang terjatuh di tengah jalan,
+42:6:2 maka kembalikanlah ia secara utuh kepada pemiliknya yang berhak;
+42:6:3 karena sesungguhnya harta yang bukan hak milik kita itu hanyalah menjadi api yang panas apabila dibawa masuk ke dalam rumah.
 
-42:7:1 Jangan sekali-kali tanganmu mau dibujuk menandatangani kuitansi kosong atau berkas yang curang;
-42:7:2 sebab kursi jabatan masih bisa dicari gantinya, namun kehormatan yang tergadai takkan pernah kembali utuh.
+42:7:1 Dan janganlah sekali-kali kamu mau diperintahkan untuk membubuhkan tanda tangan di atas lembaran bukti yang kosong lagi curang;
+42:7:2 sebab kedudukan jabatan itu masih dapat dicari gantinya, sedangkan kehormatan diri janganlah pernah kamu jual dengan harga berapa pun.
 
-42:8:1 Langkah orang yang memegang teguh kejujuran mungkin tampak lambat dan tak lekas bergelimang harta mendadak;
-42:8:2 namun pijakannya kokoh di atas bumi,
-42:8:3 dan dadanya tak pernah gemetar ketakutan saat diperiksa oleh siapa pun.
+42:8:1 Sesungguhnya orang yang jujur itu boleh jadi tampak lambat jalannya dan tidak lekas menjadi kaya secara mendadak,
+42:8:2 akan tetapi langkah kakinya amatlah teguh di atas bumi,
+42:8:3 dan tiada pernah gentar hatinya apabila diperiksa oleh siapa pun.
 
-42:9:1 Sebaik-baiknya warisan yang dapat ditinggalkan seorang ayah kepada anak-cucunya kelak,
-42:9:2 bukanlah semata tumpukan emas dan surat tanah,
-42:9:3 melainkan nama baik keluarga yang harum dan bersih dari cela.
+42:9:1 Ketahuilah bahwa sebaik-baik harta warisan yang dapat ditinggalkan oleh seorang bapak bagi anak-cucunya,
+42:9:2 bukanlah tumpukan emas dan perak,
+42:9:3 melainkan nama baik keluarga yang bersih lagi terhormat di tengah manusia.
 
-42:10:1 Biarlah orang-orang yang licik menganggap kita lugu karena memilih jalan kejujuran,
+42:10:1 Maka biarlah orang-orang yang curang itu menganggap kita lugu karena memegang teguh kejujuran,
 42:10:2 daripada kita dipuji cerdik pandai oleh dunia,
-42:10:3 namun memberi makan keluarga dari hasil mengelabui sesama.
+42:10:3 namun menghidupi keluarga dari hasil memperdaya sesama manusia.
 
-42:11:1 Janganlah gemar membumbui cerita dengan bualan berlebihan demi tampak hebat di hadapan kawan-kawanmu;
-42:11:2 sebab kebohongan kecil yang dijadikan kebiasaan perlahan akan menggerogoti wibawamu sendiri.
+42:11:1 Dan janganlah kamu gemar melebih-lebihkan cerita hanya supaya kamu dipandang hebat di dalam majelis pergaulanmu;
+42:11:2 karena sesungguhnya kedustaan kecil yang dijadikan kebiasaan itu perlahan-lahan akan meruntuhkan wibawamu sendiri.
 
-42:12:1 Berani berkata "saya belum mengetahui hal itu" tatkala ditanya perkara yang belum kau kuasai,
-42:12:2 jauh lebih terhormat daripada merangkai jawaban palsu yang menyesatkan orang lain.
+42:12:1 Ketahuilah bahwa berani mengatakan "aku belum mengetahui perkara itu" tatkala kamu ditanya mengenai sesuatu yang tiada kamu kuasai ilmunya,
+42:12:2 adalah jauh lebih terhormat daripada kamu mengarang jawaban yang dusta.
 
-42:13:1 Kebenaran itu ibarat sepotong gabus yang ditekan ke dasar air:
-42:13:2 sekuat apa pun tangan manusia mencoba menenggelamkannya,
-42:13:3 pada waktunya ia pasti akan melesat naik ke permukaan jua.
+42:13:1 Sesungguhnya perumpamaan kebenaran itu adalah bagaikan sepotong gabus di dalam air:
+42:13:2 sekuat apa pun ia ditekan ke dasar yang dalam,
+42:13:3 niscaya pada waktunya yang telah ditetapkan ia pasti akan muncul kembali ke permukaan.
 
 ---
 
 ## Bab 43: Persaudaraan, Warisan, dan Kerukunan Keluarga
 
-43:1:1 Harta peninggalan orang tua hanyalah titipan fana untuk menyambung hidup;
-43:1:2 jangan sampai hanya karena berebut patok tanah selebar sejengkal tangan,
-43:1:3 saudara sekandung yang lahir dari rahim yang sama berubah menjadi seteru seumur hidup.
+43:1:1 Ketahuilah olehmu bahwa harta peninggalan kedua orang tua itu hanyalah titipan yang sementara di dunia ini;
+43:1:2 maka janganlah sampai hanya karena menggeser patok batas tanah sejengkal saja,
+43:1:3 saudara sekandung sendiri berubah menjadi musuh yang saling membenci seumur hidup.
 
-43:2:1 Kala masih kanak-kanak, bertengkar memperebutkan mainan atau kendali televisi adalah hal yang wajar;
-43:2:2 namun setelah dewasa dan salah satu saudaramu jatuh diterpa kemalangan,
-43:2:3 saudara kandunglah yang wajib berdiri paling depan menjadi perisai pembela.
+43:2:1 Sesungguhnya tatkala kalian masih kanak-kanak, berselisih memperebutkan mainan atau alat pengendali televisi adalah perkara yang lumrah;
+43:2:2 akan tetapi apabila kalian telah dewasa lalu salah seorang dari saudaramu ditimpa kesusahan,
+43:2:3 maka saudara kandungnyalah yang wajib berdiri paling depan untuk membelanya.
 
-43:3:1 Saat keluarga besar berkumpul bersama di hari raya kemenangan,
-43:3:2 perhiasan yang paling mahal nilainya adalah jabat tangan dan maaf yang tulus dari lubuk hati,
-43:3:3 bukan gemerlap pakaian baru atau deretan toples kue di atas meja.
+43:3:1 Dan tatkala keluarga besar berkumpul bersama pada hari raya,
+43:3:2 maka ketahuilah bahwa perhiasan yang paling berharga nilainya adalah saling memaafkan dengan hati yang tulus,
+43:3:3 dan bukanlah memamerkan pakaian yang baru ataupun hidangan kue di atas meja.
 
-43:4:1 Ikatan darah persaudaraan jauh lebih kental daripada air yang mengalir di selokan;
-43:4:2 sejauh apa pun kakimu melangkah pergi karena marah atau merantau,
-43:4:3 pelukan rumah dan masakan keluarga tetaplah muara pulang yang paling jujur.
+43:4:1 Sesungguhnya ikatan air susu ibu dan pertalian darah itu jauh lebih kental daripada air yang mengalir di selokan;
+43:4:2 maka sejauh apa pun kakimu melangkah pergi karena marah ataupun merantau,
+43:4:3 sesungguhnya pelukan rumah dan masakan keluarga tetaplah tempat kembali yang paling jujur.
 
-43:5:1 Apabila kakak atau adik kandungmu sedang diuji dengan kesempitan penghidupan,
-43:5:2 ulurkanlah tangan membantunya secara diam-diam sesuai kemampuanmu;
-43:5:3 tanpa sedikit pun merendahkan martabatnya di hadapan anak dan pasangannya.
+43:5:1 Dan apabila kakak atau adik kandungmu sedang diuji dengan kesempitan penghidupan,
+43:5:2 maka ulurkanlah tanganmu membantunya secara sembunyi-sembunyi sekadar kesanggupanmu;
+43:5:3 tanpa sedikit pun merendahkan kehormatan dirinya di hadapan anak dan pasangannya.
 
-43:6:1 Janganlah telingamu lekas panas mendengar bisik-bisik yang mengadu domba antarsaudara dan ipar;
-43:6:2 sebab keutuhan keluarga besar yang rukun hanya dapat dijaga dengan telinga yang sabar.
+43:6:1 Dan janganlah kamu mudah menghasut atau membawa perkataan yang memanaskan hati di antara saudara-saudara iparmu;
+43:6:2 karena sesungguhnya kerukunan keluarga yang besar itu hanyalah dapat dipelihara dengan telinga yang penuh kesabaran.
 
-43:7:1 Rumah tua peninggalan ayah dan ibumu sebisa mungkin rawatlah sebagai muara berkumpul bersama;
-43:7:2 jangan sampai tanah pusara orang tua belum lagi mengering,
-43:7:3 anak-anaknya telah ribut berhitung membagi harga jual atap masa kecilnya.
+43:7:1 Adapun rumah peninggalan kedua orang tuamu, maka peliharalah ia sedapat mungkin sebagai tempat berkumpul bersama;
+43:7:2 dan janganlah sampai belum lagi mengering tanah pusara orang tuamu,
+43:7:3 kalian telah sibuk berselisih menghitung-hitung pembagian hasil penjualannya.
 
-43:8:1 Luangkanlah waktu sesekali untuk duduk makan malam bersama saudara kandung tanpa membahas hutang dan pekerjaan;
-43:8:2 kenanglah kembali masa-masa kecil saat berbagi satu selimut yang sama,
-43:8:3 agar hangat persaudaraan tak membeku digerus kesibukan dewasa.
+43:8:1 Maka luangkanlah waktu sesekali untuk duduk bersantap malam bersama seluruh saudara kandungmu tanpa memperbincangkan urusan harta dan pekerjaan;
+43:8:2 dan kenanglah kembali masa-masa kecil kalian tatkala tidur berjajar di bawah satu selimut yang sama,
+43:8:3 supaya hangatnya persaudaraan tidak membeku digerus oleh kesibukan usia dewasa.
 
-43:9:1 Ketika ayah dan ibu telah tiada menghadap Sang Pencipta,
-43:9:2 saudara yang paling sulung adalah pengayom pengganti orang tua bagi adik-adiknya;
-43:9:3 tempat bersandar meminta pertimbangan, bukan penguasa yang bertindak sewenang-wenang.
+43:9:1 Dan apabila kedua orang tua telah berpulang menghadap Tuhan,
+43:9:2 maka saudara yang paling tua usianya itulah pengganti bapak dan ibu untuk mengayomi adik-adiknya,
+43:9:3 dan bukanlah sekali-kali untuk berkuasa menindas mereka.
 
-43:10:1 Ingatlah petuah sapu lidi yang diwariskan turun-temurun:
-43:10:2 sebatang lidi yang terpisah amatlah rapuh dipatahkan oleh tangan anak kecil sekalipun,
-43:10:3 namun bila ratusan lidi diikat erat dalam satu genggaman persaudaraan, beban seberat apa pun sanggup disapu bersih.
+43:10:1 Ingatlah perumpamaan sapu lidi yang diwariskan turun-temurun:
+43:10:2 sesungguhnya sebatang lidi yang terpisah itu amatlah rapuh dipatahkan oleh tangan seorang anak kecil sekalipun,
+43:10:3 akan tetapi apabila seratus batang lidi diikat erat dalam satu genggaman persaudaraan, niscaya beban seberat apa pun sanggup disapunya hingga bersih.
 
-43:11:1 Jangan pernah berhitung siapa yang paling banyak mengeluarkan biaya dan tenaga saat merawat orang tua yang gering;
-43:11:2 sebab kesempatan berbakti di sisi peraduan mereka adalah ladang kemuliaan yang takkan terulang dua kali.
+43:11:1 Dan janganlah kamu berhitung-hitung siapakah yang paling banyak mengeluarkan harta guna merawat orang tua yang sedang terbaring sakit;
+43:11:2 karena sesungguhnya yang demikian itu adalah ladang bakti kemuliaan yang tiada akan terulang dua kali dalam hidupmu.
 
-43:12:1 Apabila timbul selisih pandang perihal pembagian warisan keluarga,
-43:12:2 duduklah bermusyawarah dengan kepala yang dingin dan hati yang rela mengalah;
-43:12:3 sebab berkah dari persaudaraan yang rukun jauh lebih luas daripada tanah berhektar-hektar.
+43:12:1 Maka apabila timbul perselisihan paham mengenai pembagian harta warisan,
+43:12:2 duduklah kalian bermusyawarah dengan kepala yang dingin serta hati yang rela mengalah;
+43:12:3 karena sesungguhnya keberkahan dari persaudaraan yang rukun itu jauh lebih luas daripada tanah yang berhektar-hektar.
 
-43:13:1 Kunjungilah kediaman kakak atau adikmu meski hanya menenteng sebungkus kudapan sederhana;
-43:13:2 sebab silaturahmi yang terus disambung akan memanjangkan usia dan melapangkan pintu rezeki.
+43:13:1 Dan kunjungilah rumah kakak atau adikmu sekalipun kamu hanyalah membawa sebungkus gorengan di tanganmu;
+43:13:2 karena sesungguhnya tali silaturahmi yang senantiasa dipelihara itu akan memanjangkan umur serta melapangkan pintu rezeki.
 
-43:14:1 Jangan biarkan anak-anakmu tumbuh besar menjadi orang asing bagi sepupu dan pamannya sendiri;
-43:14:2 kenalkanlah silsilah darah keluargamu agar obor persaudaraan tak padam di generasimu.
+43:14:1 Dan janganlah kamu membiarkan anak-anakmu tumbuh dewasa tanpa mengenal saudara sepupu serta paman-pamannya sendiri;
+43:14:2 maka ajarkanlah kepada mereka silsilah keluarga supaya tidak terputus tali persaudaraan pada keturunanmu.
 
-43:15:1 Kebahagiaan tertinggi bagi ayah dan ibu yang telah beristirahat di alam keabadian,
-43:15:2 adalah menyaksikan anak-anak yang ditinggalkannya tetap saling merangkul dan saling mendoakan.
+43:15:1 Sesungguhnya puncak kebahagiaan bagi kedua orang tua yang telah berdiam di alam keabadian,
+43:15:2 adalah tatkala menyaksikan anak-anak yang mereka tinggalkan tetap hidup saling merangkul dan saling mendoakan.
 
 ---
 
 ## Bab 44: Usia Senja, Ketenangan Teras, dan Kepulangan
 
-44:1:1 Kelak apabila ayah dan ibumu telah menua dan purna dari masa bekerja,
-44:1:2 kami tak merindukan kiriman benda-benda mewah dari kota;
-44:1:3 kami hanya merindukan kehadiranmu duduk menemani berbincang barang sejenak di kursi teras rumah.
+44:1:1 Wahai anakku, apabila kelak bapak dan ibumu telah menua serta berhenti dari masa bekerja,
+44:1:2 ketahuilah bahwa kami tiada lagi mengharapkan kiriman barang-barang yang mewah darimu;
+44:1:3 sesungguhnya kami hanyalah merindukan kehadiranmu untuk duduk menemani kami berbincang barang sebentar di atas kursi beranda.
 
-44:2:1 Helai-helai rambut ayahmu yang kini memutih perak memenuhi kepala,
-44:2:2 bukanlah semata tumbuh karena memikirkan tagihan hidup,
-44:2:3 melainkan lencana kehormatan setelah mengarungi pahit-manis dan asam-garam dunia.
+44:2:1 Adapun helai-helai rambut bapakmu yang kini telah memutih dipenuhi uban,
+44:2:2 bukanlah semata-mata tumbuh karena memikirkan beban tagihan dunia,
+44:2:3 melainkan sebagai tanda kehormatan setelah melewati segala pahit dan getirnya kehidupan.
 
-44:3:1 Ketenangan batin di penghujung usia senja baru benar-benar turun menyelimuti jiwa,
-44:3:2 tatkala kita akhirnya rela menyadari dengan lapang dada,
-44:3:3 bahwa tak semua keruwetan di dunia ini harus kita menangkan dan kita kendalikan sendiri.
+44:3:1 Sesungguhnya ketenangan batin pada usia senja itu baru akan turun menyelimuti hati,
+44:3:2 tatkala seseorang telah menyadari dengan penuh keikhlasan,
+44:3:3 bahwasanya tidaklah semua keruwetan di dunia ini harus ia menangkan dan ia atur seorang diri.
 
-44:4:1 Pada akhirnya kita semua hanyalah musafir yang sedang mengantre panggilan pulang ke keabadian;
-44:4:2 maka pastikanlah bekal kebaikanmu telah terisi penuh di dalam dada,
-44:4:3 sebab tiket kepulangan menuju menghadap-Nya tak pernah bisa ditukar ataupun diulang kembali.
+44:4:1 Ketahuilah bahwa pada akhirnya kita semua di dunia ini hanyalah para penempuh jalan yang sedang menunggu giliran dipanggil pulang;
+44:4:2 maka penuhilah perbekalan amal kebaikanmu sejak sekarang,
+44:4:3 karena sesungguhnya surat perjalanan pulang menghadap Tuhanmu itu tiada dapat ditukar ataupun diulang kembali.
 
-44:5:1 Apabila di hari tuanya ayahmu mengulang kisah masa muda yang sama hingga sepuluh kali di hadapanmu,
-44:5:2 dengarkanlah dengan penuh perhatian dan senyum yang hangat seolah engkau baru pertama kali mendengarnya;
-44:5:3 sebab demikianlah cara orang tua menghidupkan kembali jejak kenangannya.
+44:5:1 Dan apabila bapakmu pada masa tuanya mengulang-ulang cerita masa mudanya yang sama sampai sepuluh kali di hadapanmu,
+44:5:2 maka dengarkanlah ia dengan penuh kesabaran seraya tersenyum;
+44:5:3 karena sesungguhnya demikianlah cara orang-orang tua menghidupkan kembali kenangan masa lalunya.
 
-44:6:1 Langkah kaki ayahmu kini memang telah melambat tertatih dan napasnya lekas memburu;
-44:6:2 maka gandenglah tangan keriput ini dengan penuh kesabaran,
-44:6:3 sebagaimana dahulu tangan ini tak pernah lelah menuntun langkah pertamamu saat belajar berjalan.
+44:6:1 Sesungguhnya langkah kaki bapakmu pada hari ini telah menjadi lambat dan napasnya pun lekas terengah-engah;
+44:6:2 maka bersabarlah kamu dalam menggandeng tangan bapakmu yang telah keriput ini,
+44:6:3 sebagaimana dahulu bapakmu dengan penuh kesabaran menuntun langkah pertamamu tatkala kamu belajar berjalan.
 
-44:7:1 Puncak kebahagiaan seorang ayah di penghujung usia senjanya,
-44:7:2 adalah menyaksikan anak-anaknya hidup rukun berdampingan, mandiri berdiri di atas kaki sendiri,
-44:7:3 sembari memangku cucu yang tertawa riang di pelataran rumah.
+44:7:1 Ketahuilah bahwa setinggi-tinggi kebahagiaan seorang bapak pada hari tuanya,
+44:7:2 adalah tatkala ia menyaksikan anak-anaknya hidup rukun, sanggup berdiri di atas kakinya sendiri,
+44:7:3 sembari ia memangku cucu-cucunya bermain dengan riang di halaman rumah.
 
-44:8:1 Janganlah menunggu hingga orang tuamu terbaring lemah di rumah sakit atau tertutup tanah pusara,
-44:8:2 baru engkau sibuk mencari waktu luang untuk pulang menjenguk;
-44:8:3 sebab air mata penyesalan di sisi batu nisan takkan sanggup memutar kembali jarum waktu.
+44:8:1 Maka janganlah kamu menunggu sampai kedua orang tuamu jatuh terbaring sakit atau telah berpulang ke rahmat Tuhan,
+44:8:2 barulah kamu sibuk mencari-cari waktu luang untuk datang menjenguknya;
+44:8:3 karena sesungguhnya air mata penyesalan di atas tanah kuburan itu tiada akan sanggup memutar kembali jalannya waktu.
 
-44:9:1 Tatkala kekuatan otot dan raga mulai surut dimakan putaran tahun,
-44:9:2 perbanyaklah duduk bersyukur dalam keheningan beranda,
-44:9:3 sembari melangitkan doa-doa terbaik bagi keselamatan anak dan cucu.
+44:9:1 Dan tatkala kekuatan raga mulai berkurang dimakan pergantian usia,
+44:9:2 maka perbanyaklah duduk bersyukur di dalam keheningan beranda,
+44:9:3 seraya memanjatkan doa-doa terbaik bagi keselamatan anak dan cucu.
 
-44:10:1 Kelak apabila kursi kayu tempat ayahmu biasa duduk di teras ini telah kosong ditinggal pemiliknya,
-44:10:2 bukalah kembali lembaran wejangan-wejangan sederhana ini;
-44:10:3 jadikanlah ia pelita penuntun langkahmu, bahwa kasih seorang ayah tak pernah ikut terkubur bersama raganya.
+44:10:1 Maka apabila pada suatu masa kelak kursi kayu tempat bapakmu biasa duduk di beranda ini telah kosong ditinggal penghuninya,
+44:10:2 bukalah kembali lembaran wasiat dan wejangan-wejangan yang sederhana ini;
+44:10:3 dan jadikanlah ia pelita penuntun langkahmu, bahwasanya kasih sayang seorang bapak tiada pernah ikut terkubur bersama jasadnya.
 
-44:11:1 Janganlah berbicara dengan nada tinggi membentak kepada orang tua yang pendengarannya mulai memudar;
-44:11:2 mendekatlah duduk di sampingnya dan bertuturlah dengan suara yang lembut lagi penuh hormat.
+44:11:1 Dan janganlah sekali-kali kamu berbicara dengan suara yang membentak kepada orang tua yang telah mulai berkurang pendengarannya;
+44:11:2 melainkan mendekatlah kamu ke sisinya dan bertuturlah kepadanya dengan perkataan yang lemah lembut lagi mulia.
 
-44:12:1 Selera lidah ayahmu di usia senja ini tak lagi menginginkan hidangan yang serba rumit;
-44:12:2 cukuplah semangkuk sayur bening hangat dan sepotong tempe bacem, disantap bersama anak dan cucu di meja makan.
+44:12:1 Sesungguhnya selera makan bapakmu pada usia senja ini tiada lagi menginginkan hidangan yang macam-macam;
+44:12:2 cukuplah semangkuk sayur bening yang hangat beserta sepotong tempe bacem, yang disantap bersama anak dan cucu di meja makan.
 
-44:13:1 Apabila ayahmu bersikeras menolak dibawa berobat ke dokter saat raganya meriang,
-44:13:2 bujuklah dengan bahasa kasih yang sabar;
-44:13:3 sebab hati orang tua terkadang hanya takut menyusahkan anak-anaknya.
+44:13:1 Dan apabila bapakmu bersikeras enggan dibawa berobat kepada tabib tatkala tubuhnya ditimpa sakit,
+44:13:2 maka bujuklah ia secara perlahan-lahan dengan bahasa kasih sayang;
+44:13:3 karena sesungguhnya hati orang tua itu terkadang hanyalah merasa takut menyusahkan anak-anaknya.
 
-44:14:1 Simpanlah baik-baik potret wajah serta rekaman suara ayah dan ibumu selagi mereka masih bernapas di dunia;
-44:14:2 sebab kelak benda-benda sederhana itulah harta yang paling kau cari saat rindu menyergap dada.
+44:14:1 Dan simpanlah dengan baik potret wajah serta rekaman suara bapak dan ibumu selagi keduanya masih berada di tengah-tengah kamu;
+44:14:2 sebab kelak benda-benda yang sederhana itulah yang paling kamu cari tatkala kerinduan menghimpit dadamu.
 
-44:15:1 Masa muda memang gagah berkobar penuh tenaga,
-44:15:2 namun usia senja yang dijalani dengan hati yang bersih dan dikelilingi keluarga yang rukun adalah kemuliaan hidup yang sejati.
+44:15:1 Sesungguhnya masa muda itu memang gagah lagi penuh dengan kekuatan,
+44:15:2 akan tetapi usia senja yang dijalani dengan hati yang suci serta dikelilingi oleh keluarga yang rukun itulah kemuliaan yang sebenar-benarnya.
 
-44:16:1 Setiap garis kerutan di wajah dan kasar kapalan di telapak tangan ayahmu ini,
-44:16:2 menyimpan kisah perjuangan membesarkanmu yang tak pernah tertulis di dalam kitab mana pun.
+44:16:1 Ketahuilah bahwa tiap-tiap garis kerutan pada wajah serta telapak tangan bapakmu ini,
+44:16:2 menyimpan kisah perjuangan membesarkan dirimu yang tiada pernah tertulis di dalam kitab mana pun.
 
-44:17:1 Apabila suatu hari kelak panggilan kepulangan ayahmu tiba lebih dahulu,
-44:17:2 janganlah engkau meratap berlebihan hingga melupakan kewajiban hidupmu;
-44:17:3 cukuplah kirimkan doa yang tulus seusai sembahyangmu, dan teruslah melangkah sebagai manusia yang jujur.
+44:17:1 Maka apabila pada suatu hari nanti panggilan kepulangan bapakmu telah tiba lebih dahulu,
+44:17:2 janganlah kamu meratapinya secara melampaui batas;
+44:17:3 melainkan kirimkanlah doa terbaikmu pada tiap-tiap selesai sembahyang, dan lanjutkanlah perjalanan hidupmu sebagai orang yang berbuat kebajikan.
 
-44:18:1 Sebab sesungguhnya seorang ayah tidak pernah benar-benar pergi meninggalkan dunia,
-44:18:2 selama petuah kebaikannya, keteguhan kejujurannya,
-44:18:3 serta hangat kasih sayangnya,
-44:18:4 masih terus hidup mengalir di dalam langkah anak-anaknya.
+44:18:1 Karena sesungguhnya seorang bapak itu tiada pernah benar-benar pergi meninggalkan dunia ini,
+44:18:2 selama wasiat kebaikannya, keteguhan kejujurannya,
+44:18:3 serta limpahan kasih sayangnya,
+44:18:4 masih terus hidup mengalir di dalam setiap langkah anak-anaknya.
