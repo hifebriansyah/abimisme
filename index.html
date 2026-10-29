@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>abimisme</title>
+  <style>
+    html, body {
+      margin: 0;
+      height: 100%;
+      overflow: hidden;
+      background: #0b0b0f;
+    }
+    canvas {
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <script type="importmap">
+    {
+      "imports": {
+        "three": "https://unpkg.com/three@0.160.0/build/three.module.js"
+      }
+    }
+  </script>
+  <script type="module">
+    import * as THREE from 'three';
+
+    const renderer = new THREE.WebGLRenderer({ antialias: true });
+    renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+    renderer.setSize(window.innerWidth, window.innerHeight);
+    document.body.appendChild(renderer.domElement);
+
+    const scene = new THREE.Scene();
+    const camera = new THREE.PerspectiveCamera(45, window.innerWidth / window.innerHeight, 0.1, 100);
+    camera.position.z = 6;
+
+    // Draw the text onto a canvas, then use it as a texture on a plane.
+    const textCanvas = document.createElement('canvas');
+    const ctx = textCanvas.getContext('2d');
+    textCanvas.width = 1024;
+    textCanvas.height = 256;
+    ctx.fillStyle = '#ffffff';
+    ctx.font = '700 180px system-ui, -apple-system, sans-serif';
+    ctx.textAlign = 'center';
+    ctx.textBaseline = 'middle';
+    ctx.fillText('abimisme', textCanvas.width / 2, textCanvas.height / 2);
+
+    const texture = new THREE.CanvasTexture(textCanvas);
+    const geometry = new THREE.PlaneGeometry(6, 1.5);
+    const material = new THREE.MeshBasicMaterial({ map: texture, transparent: true });
+    const text = new THREE.Mesh(geometry, material);
+    scene.add(text);
+
+    // Shrink the text on narrow screens so it never gets cut off.
+    function fit() {
+      camera.aspect = window.innerWidth / window.innerHeight;
+      camera.updateProjectionMatrix();
+      renderer.setSize(window.innerWidth, window.innerHeight);
+      const visibleWidth = 2 * Math.tan(THREE.MathUtils.degToRad(camera.fov) / 2) * camera.position.z * camera.aspect;
+      text.scale.setScalar(Math.min(1, (visibleWidth * 0.9) / geometry.parameters.width));
+    }
+    fit();
+
+    function animate(time) {
+      text.rotation.y = Math.sin(time / 1500) * 0.25;
+      renderer.render(scene, camera);
+    }
+    renderer.setAnimationLoop(animate);
+
+    window.addEventListener('resize', fit);
+  </script>
+</body>
+</html>
