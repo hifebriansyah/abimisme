@@ -1,0 +1,21 @@
+{
+  "name": "abimisme — Kitab Wejangan Bapak-Bapak",
+  "short_name": "abimisme",
+  "start_url": "../#/",
+  "scope": "../",
+  "display": "standalone",
+  "background_color": "#f7f1e6",
+  "theme_color": "#b5532c",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
