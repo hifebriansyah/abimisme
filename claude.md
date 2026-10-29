@@ -51,3 +51,7 @@ Beliau lalu memutar arah kipas angin ke dinding dan mematikan lampu kamar, sambi
 Keesokan subuhnya, Bima terbangun dan menghampiri Pak Abi yang sedang duduk tenang di teras ditemani secangkir kopi hitam pekat, sambil meminta maaf karena janji membersihkan halaman kemarin sore belum sempat ia tepati. Saat Bima mencoba menyeruput kopi itu sedikit dan mengernyit karena pahit, Pak Abi tersenyum tipis menatap jalanan yang mulai terang, lalu berucap:
 
 *Seduhan kopi hitam tanpa gula memang terasa pahit (Nak), namun jauh lebih getir janji manis yang terucap, tanpa pernah berwujud nyata* `(3:6:1–3)`.
+
+PENTING!
+- jangan pernah merubah 4 bab pertama
+- jangan pernah merubah 4 bab pertama

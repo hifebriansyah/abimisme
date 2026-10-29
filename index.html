@@ -629,7 +629,7 @@
           <button class="pill" id="flip-all">🔄 Balik semua</button>
         </div>
         <div class="flip-grid">
-          ${babs.flatMap(bab => bab.baits).map(b => `
+          ${babs.flatMap(bab => bab.baits).filter(b => S.kutipan.has(`${b.bab}:${b.no}`)).map(b => `
             <div class="flip" role="button" tabindex="0" aria-label="Balik kartu ${b.bab}:${b.no}">
               <div class="flip-in">
                 <div class="face front card">
