@@ -138,8 +138,6 @@
     .stats b { display: block; font-family: var(--serif); font-size: 1.8rem; color: var(--ink); }
 
     /* Kitab */
-    .jilid-head { margin: 40px 0 16px; padding-bottom: 12px; border-bottom: 2px solid var(--line); }
-    .jilid-head h2 { font-family: var(--serif); font-size: clamp(1.5rem, 4.5vw, 2rem); margin: 2px 0 0; line-height: 1.2; color: var(--accent); }
     .bab { margin: 32px 0 12px; scroll-margin-top: 80px; }
     .bab h2, .bab h3 { font-family: var(--serif); font-size: 1.65rem; margin: 0; line-height: 1.2; }
     .bait { padding: 16px 20px; margin: 14px 0; scroll-margin-top: 90px; transition: border-color .3s; }
@@ -533,7 +531,6 @@
         </div>
         ${jilids.map(j => `
           <div class="jilid-group" id="jilid-${j.no}">
-            <div class="jilid-head"><div class="kicker">Jilid ${j.no} · Bab ${j.babs[0].no}–${j.babs[j.babs.length - 1].no}</div><h2>${esc(j.title)}</h2></div>
             ${j.babs.map(bab => `
               <section class="bab" id="bab-${bab.no}">
                 <div class="kicker">Jilid ${bab.jilid} · Bab ${bab.no}</div>
