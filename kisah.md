@@ -878,8 +878,8 @@ Saat Bima tersenyum karena Pak Abi kembali menceritakan kisah masa mudanya waktu
 
 *Sesungguhnya langkah kaki bapakmu hari ini telah menjadi lambat dan napasnya pun lekas terengah-engah; maka bersabarlah kamu dalam menggandeng tangan bapakmu yang telah keriput ini, sebagaimana dahulu bapakmu dengan penuh kesabaran menuntun langkah pertamamu tatkala kamu belajar berjalan* `(4:44:6:1–6)`.
 
-Di penghujung senja itu, Pak Abi menyerahkan buku catatan tebal berisi himpunan wejangan hidupnya ke pangkuan anak-anaknya, lalu menutup perbincangan dengan suara yang hening lagi dalam:
+Di penghujung senja itu, Pak Abi menyerahkan buku catatan tebal berisi himpunan nasihat hidupnya ke pangkuan anak-anaknya, lalu menutup perbincangan dengan suara yang hening lagi dalam:
 
-*Maka apabila pada suatu masa kelak kursi kayu tempat bapakmu biasa duduk di beranda ini telah kosong ditinggal penghuninya, bukalah kembali lembaran wasiat dan wejangan-wejangan yang sederhana ini; dan jadikanlah ia pelita penuntun langkahmu, bahwa kasih sayang seorang bapak tiada pernah ikut terkubur bersama jasadnya* `(4:44:10:1–6)`.
+*Maka apabila pada suatu masa kelak kursi kayu tempat bapakmu biasa duduk di beranda ini telah kosong ditinggal penghuninya, bukalah kembali lembaran wasiat dan nasihat-nasihat yang sederhana ini; dan jadikanlah ia pelita penuntun langkahmu, bahwa kasih sayang seorang bapak tiada pernah ikut terkubur bersama jasadnya* `(4:44:10:1–6)`.
 
 *Karena sesungguhnya seorang bapak itu tiada pernah benar-benar pergi meninggalkan dunia ini, selama wasiat kebaikannya, keteguhan kejujurannya, serta limpahan kasih sayangnya, masih terus hidup mengalir di dalam setiap langkah anak-anaknya* `(4:44:18:1–5)`.

@@ -1,4 +1,4 @@
-# KITAB WEJANGAN BAPAK BAPAK (THE BOOK OF ABI)
+# KITAB NASIHAT BAPAK BAPAK (THE BOOK OF ABI)
 
 ## Jilid 1: Pokok Perjalanan, Rumah Tangga, dan Raga
 
@@ -3509,7 +3509,7 @@
 4:44:10:1 Maka apabila pada suatu masa kelak
 4:44:10:2 kursi kayu tempat bapakmu biasa duduk
 4:44:10:3 di beranda ini telah kosong ditinggal penghuninya,
-4:44:10:4 bukalah kembali lembaran wasiat dan wejangan-wejangan yang sederhana ini;
+4:44:10:4 bukalah kembali lembaran wasiat dan nasihat-nasihat yang sederhana ini;
 4:44:10:5 dan jadikanlah ia pelita penuntun langkahmu,
 4:44:10:6 bahwa kasih sayang seorang bapak tiada pernah ikut terkubur bersama jasadnya.
 

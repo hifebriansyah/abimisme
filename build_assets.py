@@ -91,14 +91,14 @@ def main():
                "-gravity", "west", "-geometry", "+70+0", "-composite",
                "-gravity", "northwest",
                "-font", FONT_BOLD, "-fill", INK, "-pointsize", 104, "-annotate", "+590+170", "abimisme",
-               "-font", FONT_BOLD, "-fill", ACCENT, "-pointsize", 26, "-annotate", "+596+138", "KITAB WEJANGAN BAPAK-BAPAK",
+               "-font", FONT_BOLD, "-fill", ACCENT, "-pointsize", 26, "-annotate", "+596+138", "KITAB Nasihat BAPAK-BAPAK",
                "-font", FONT_ITALIC, "-fill", MUTED, "-pointsize", 34, "-interline-spacing", 8,
                "-annotate", "+596+320", TAGLINE,
                "-fill", ACCENT, "-draw", "rectangle 0,614 1200,630",
                "-strip", "-quality", 86, OUT / "og.jpg")
 
     (OUT / "site.webmanifest").write_text(json.dumps({
-        "name": "abimisme — Kitab Wejangan Bapak-Bapak",
+        "name": "abimisme — Kitab Nasihat Bapak-Bapak",
         "short_name": "abimisme",
         "start_url": "../#/",
         "scope": "../",

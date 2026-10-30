@@ -4,12 +4,12 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>abimisme</title>
-  <meta name="description" content="Kitab wejangan bapak-bapak Indonesia: kutipan asli, bait puitis, dan kisah-kisahnya.">
+  <meta name="description" content="Kitab nasihat bapak-bapak Indonesia: kutipan asli, bait puitis, dan kisah-kisahnya.">
   <meta name="theme-color" content="#b5532c">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="abimisme">
   <meta property="og:url" content="https://abimisme.situs.id/">
-  <meta property="og:title" content="abimisme — Kitab Wejangan Bapak-Bapak">
+  <meta property="og:title" content="abimisme — Kitab Nasihat Bapak-Bapak">
   <meta property="og:description" content="Nasihat bapak-bapak yang bijak, nyeleneh, dan bikin 'iya juga ya' — dikompilasi jadi kitab puitis lengkap dengan kisahnya.">
   <meta property="og:image" content="https://abimisme.situs.id/assets/og.jpg">
   <meta property="og:image:width" content="1200">
@@ -261,7 +261,7 @@
     </div>
   </header>
 
-  <main id="view"><div class="loading">Memuat wejangan…</div></main>
+  <main id="view"><div class="loading">Memuat nasihat…</div></main>
 
   <footer>Ketuk, pilih, bagikan. Setiap halaman punya tautannya sendiri.</footer>
 
@@ -420,58 +420,62 @@
     const view = $('#view');
     const setView = (html, title) => {
       view.innerHTML = `<div class="view">${html}</div>`;
-      document.title = title ? `${title} · abimisme` : 'abimisme — Kitab Wejangan Bapak-Bapak';
+      document.title = title ? `${title} · abimisme` : 'abimisme — Kitab Nasihat Bapak-Bapak';
     };
 
+    const dailyBaits = () => S.baits.filter(b => b.bab === '1' || b.bab === '2');
+
     function viewHome() {
-      const day = Math.floor((Date.now() - new Date().getTimezoneOffset() * 6e4) / 864e5);
-      const today = S.baits[day % S.baits.length];
+      const pool = dailyBaits();
+      const today = pick(pool.length ? pool : S.baits);
       setView(`
         <section class="hero">
           <img class="hero-logo" src="assets/logo.png" alt="Logo abimisme" width="640" height="537">
-          <div class="kicker">Kitab Wejangan Bapak-Bapak</div>
+          <div class="kicker">Kitab Nasihat Bapak-Bapak</div>
           <h1>abim<span>i</span>sme</h1>
-          <p>Nasihat bapak-bapak Indonesia — yang bijak, yang nyeleneh, dan yang bikin “iya juga ya” — dikompilasi jadi kitab puitis, lengkap dengan kisahnya.</p>
+          <p>Nasihat bapak-bapak Indonesia; Terkadang bijak, terkadang nyeleneh, dan terkadang bikin “iya juga ya”. Dikompilasi jadi kitab puitis, lengkap dengan kisahnya.</p>
         </section>
         <section class="daily card" id="daily"></section>
         <div class="doors">
-          <a class="door card" href="#/kata-bapak"><div class="emo">💬</div><h3>Kata Bapak</h3><p>Kutipan aslinya. Balik kartunya, lihat versi kitabnya.</p></a>
           <a class="door card" href="#/kitab"><div class="emo">📜</div><h3>Kitab</h3><p>Jilid, bab, bait, dan baris. Pilih baris, bagikan tautannya.</p></a>
           <a class="door card" href="#/kisah"><div class="emo">☕</div><h3>Kisah</h3><p>Cerita Pak Abi dan anak-anaknya, lengkap dengan rujukan.</p></a>
+          <a class="door card" href="#/kata-bapak"><div class="emo">💬</div><h3>Kutipan</h3><p>Kutipan aslinya. Balik kartunya, lihat versi kitabnya.</p></a>
           <a class="door card" href="#/tebak"><div class="emo">🎯</div><h3>Tebak</h3><p>Bait puitis ini aslinya bapak ngomong apa?</p></a>
         </div>
         <div class="stats">
           <div><b>${S.jilids.length}</b>jilid</div>
           <div><b>${S.babs.length}</b>bab</div>
-          <div><b>${S.baits.length}</b>wejangan</div>
+          <div><b>${S.baits.length}</b>nasihat</div>
           <div><b>${S.stories.length}</b>kisah</div>
         </div>`);
-      renderDaily(today, 'Wejangan hari ini');
+      renderDaily(today, 'Nasihat hari ini');
     }
 
-    function renderDaily(b, label) {
+    function renderDaily(b, label = 'Nasihat hari ini') {
       const box = $('#daily');
       const hash = baitHash(b);
       const code = baitCode(b);
       box.innerHTML = `
         <div class="kicker">${label}</div>
-        <p class="quote">“${esc(S.kutipan.get(`${b.bab}:${b.no}`) ?? '')}”</p>
-        <p class="poem" hidden>${b.verses.map(v => esc(v.text)).join('<br>')}</p>
+        <p class="quote">${b.verses.map(v => esc(v.text)).join(' ')}</p>
+        <p class="poem" hidden>“${esc(S.kutipan.get(`${b.bab}:${b.no}`) ?? '')}”</p>
         <div class="row">
-          <button class="btn primary" data-act="poem">📜 Versi kitab</button>
+          <button class="btn primary" data-act="poem">💬 Kutipan</button>
           <button class="btn" data-act="again">🎲 Lainnya</button>
-          <button class="btn" data-share="${hash}" data-title="Wejangan ${code}">${ICON.share} Bagikan</button>
+          <button class="btn" data-share="${hash}" data-title="Nasihat ${code}">${ICON.share} Bagikan</button>
           <a class="ref" href="${hash}" style="margin-left:auto">${esc(babTitle(b.bab))} · ${code} →</a>
         </div>`;
       box.querySelector('[data-act="poem"]').onclick = (e) => {
         const poem = box.querySelector('.poem');
         poem.hidden = !poem.hidden;
-        e.currentTarget.textContent = poem.hidden ? '📜 Versi kitab' : '💬 Sembunyikan';
+        e.currentTarget.textContent = poem.hidden ? '💬 Kutipan' : '💬 Sembunyikan';
       };
       box.querySelector('[data-act="again"]').onclick = () => {
+        const pool = dailyBaits();
+        const src = pool.length ? pool : S.baits;
         let next;
-        do next = pick(S.baits); while (S.baits.length > 1 && next === b);
-        renderDaily(next, 'Wejangan acak');
+        do next = pick(src); while (src.length > 1 && next === b);
+        renderDaily(next, label);
       };
     }
 
@@ -522,7 +526,7 @@
       const title = `Jilid ${activeJilid.no}: ${activeJilid.title}`;
       setView(`
         <div class="page-head">
-          <div class="kicker">Kitab Wejangan</div>
+          <div class="kicker">Kitab Nasihat</div>
           <h1>Kitab</h1>
           <p>Ketuk baris untuk memilih (ketuk baris lain di bait yang sama untuk memperluas), lalu salin atau bagikan.</p>
         </div>
@@ -596,7 +600,7 @@
         <div class="page-head">
           <div class="kicker">Kisah-kisah Bapak</div>
           <h1>Kisah</h1>
-          <p>Cerita sehari-hari Pak Abi. Setiap wejangan merujuk ke bait dan barisnya di kitab.</p>
+          <p>Cerita sehari-hari Pak Abi. Setiap nasihat merujuk ke bait dan barisnya di kitab.</p>
         </div>
         ${S.stories.map((s, i) => `
           <a class="story-card card" href="#/kisah/${s.slug}">
@@ -605,7 +609,7 @@
             <p>${esc(s.excerpt)}</p>
             <div class="tags">
               <span class="tag">± ${readMins(s.body)} menit</span>
-              <span class="tag">${s.refs.length} wejangan</span>
+              <span class="tag">${s.refs.length} nasihat</span>
               ${[...new Set(s.refs.map(r => r.jilid))].map(j => `<span class="tag">Jilid ${j}</span>`).join('')}
               ${[...new Set(s.refs.map(r => r.bab))].map(b => `<span class="tag">Bab ${b}</span>`).join('')}
             </div>
@@ -625,7 +629,7 @@
           <div class="kicker" style="margin-top:18px">Kisah ${i + 1} dari ${S.stories.length}</div>
           <h1>${esc(s.title)}</h1>
           <div class="meta">
-            <span>± ${readMins(s.body)} menit baca</span><span>·</span><span>${s.refs.length} wejangan</span>
+            <span>± ${readMins(s.body)} menit baca</span><span>·</span><span>${s.refs.length} nasihat</span>
             <button class="btn" data-share="#/kisah/${s.slug}" data-title="${esc(s.title)}">${ICON.share} Bagikan</button>
           </div>
           <div class="content">${marked.parse(s.body)}</div>
