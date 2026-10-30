@@ -138,8 +138,10 @@
     .stats b { display: block; font-family: var(--serif); font-size: 1.8rem; color: var(--ink); }
 
     /* Kitab */
-    .bab { margin: 36px 0 12px; scroll-margin-top: 80px; }
-    .bab h2 { font-family: var(--serif); font-size: 1.8rem; margin: 0; line-height: 1.2; }
+    .jilid-head { margin: 40px 0 16px; padding-bottom: 12px; border-bottom: 2px solid var(--line); }
+    .jilid-head h2 { font-family: var(--serif); font-size: clamp(1.5rem, 4.5vw, 2rem); margin: 2px 0 0; line-height: 1.2; color: var(--accent); }
+    .bab { margin: 32px 0 12px; scroll-margin-top: 80px; }
+    .bab h2, .bab h3 { font-family: var(--serif); font-size: 1.65rem; margin: 0; line-height: 1.2; }
     .bait { padding: 16px 20px; margin: 14px 0; scroll-margin-top: 90px; transition: border-color .3s; }
     .bait.active { border-color: var(--accent); }
     .bait header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 4px; }
@@ -254,7 +256,7 @@
       <nav class="nav" aria-label="Utama">
         <a href="#/kitab" data-nav="kitab">Kitab</a>
         <a href="#/kisah" data-nav="kisah">Kisah</a>
-        <a href="#/kata-bapak" data-nav="kata-bapak">Kata Bapak</a>
+        <a href="#/kata-bapak" data-nav="kata-bapak">Kutipan</a>
         <a href="#/tebak" data-nav="tebak">Tebak</a>
         <a href="#/acak" data-nav="acak" title="Bait acak" aria-label="Bait acak">🎲<span class="wide"> Acak</span></a>
       </nav>
@@ -338,54 +340,82 @@
     };
     addEventListener('scroll', updateBar, { passive: true });
 
-    // Parsing
+    // Parsing (jilid:bab:bait:baris)
     const slugify = (s) => s.toLowerCase().normalize('NFKD').replace(/[^\w\s-]/g, '').trim().replace(/\s+/g, '-');
-    const REF_RE = /\((\d+):(\d+):(\d+)(?:[–-](\d+))?\)/;
+    const REF_RE = /\((?:(\d+):)?(\d+):(\d+):(\d+)(?:[–-](\d+))?\)/;
 
     function parseKitab(md) {
+      const jilids = [];
       const babs = [];
+      let jilid = null;
       let bab = null;
       for (const raw of md.split('\n')) {
         const line = raw.trim();
         let m;
-        if ((m = line.match(/^## Bab (\d+): (.+)$/))) {
-          bab = { no: m[1], title: m[2], baits: [] };
+        if ((m = line.match(/^##\s+Jilid\s+(\d+):\s*(.+)$/))) {
+          jilid = { no: m[1], title: m[2], babs: [] };
+          jilids.push(jilid);
+        } else if ((m = line.match(/^#{2,3}\s+Bab\s+(\d+):\s*(.+)$/))) {
+          if (!jilid) {
+            jilid = { no: '1', title: 'Jilid 1', babs: [] };
+            jilids.push(jilid);
+          }
+          bab = { jilid: jilid.no, jilidTitle: jilid.title, no: m[1], title: m[2], baits: [] };
+          jilid.babs.push(bab);
           babs.push(bab);
-        } else if (bab && (m = line.match(/^(\d+):(\d+):(\d+) (.+)$/))) {
-          let bait = bab.baits.find(b => b.no === m[2]);
-          if (!bait) bab.baits.push(bait = { bab: m[1], no: m[2], verses: [] });
-          bait.verses.push({ sub: Number(m[3]), text: m[4] });
+        } else if (bab && (m = line.match(/^(?:(\d+):)?(\d+):(\d+):(\d+)\s+(.+)$/))) {
+          const jNo = m[1] || bab.jilid;
+          const babNo = m[2];
+          const baitNo = m[3];
+          const barisNo = Number(m[4]);
+          const text = m[5];
+          let bait = bab.baits.find(b => b.no === baitNo);
+          if (!bait) bab.baits.push(bait = { jilid: jNo, bab: babNo, no: baitNo, verses: [] });
+          bait.verses.push({ sub: barisNo, text });
         }
       }
-      return babs;
+      return { jilids, babs };
     }
 
     function parseKutipan(md) {
       const map = new Map();
       for (const raw of md.split('\n')) {
-        const m = raw.trim().match(/^(\d+):(\d+) (.+)$/);
-        if (m) map.set(`${m[1]}:${m[2]}`, m[3]);
+        const m = raw.trim().match(/^(?:(\d+):)?(\d+):(\d+)\s+(.+)$/);
+        if (m) {
+          map.set(`${m[2]}:${m[3]}`, m[4]);
+          if (m[1]) map.set(`${m[1]}:${m[2]}:${m[3]}`, m[4]);
+        }
       }
       return map;
     }
 
-    function parseKisah(md) {
+    function parseKisah(md, getJilidOfBab) {
       return md.split(/^## Kisah: /m).slice(1).map(chunk => {
         const [title, ...rest] = chunk.split('\n');
         const body = rest.join('\n').trim().replace(/\n-{3,}\s*$/, '').trim();
         const refs = [...body.matchAll(new RegExp('`' + REF_RE.source + '`', 'g'))]
-          .map(([, bab, bait, from, to]) => ({ bab, bait, from: Number(from), to: Number(to ?? from) }));
+          .map(([, jilid, bab, bait, from, to]) => ({
+            jilid: jilid || getJilidOfBab(bab),
+            bab,
+            bait,
+            from: Number(from),
+            to: Number(to ?? from),
+          }));
         const who = body.match(/\*\((\p{Lu}\p{Ll}+),\)/u)?.[1];
         const first = body.split(/\n\s*\n/)[0].replace(/[*_`]/g, '');
         return { title: title.trim(), slug: slugify(title), body, refs, who, excerpt: first.length > 170 ? first.slice(0, 167).trimEnd() + '…' : first };
       });
     }
 
-    const S = { babs: [], baits: [], kutipan: new Map(), stories: [], usedIn: new Map() };
+    const S = { jilids: [], babs: [], baits: [], kutipan: new Map(), stories: [], usedIn: new Map() };
+    const findBab = (bab) => S.babs.find(b => b.no === String(bab));
+    const jilidOfBab = (bab) => findBab(bab)?.jilid ?? '1';
     const findBait = (bab, bait) => S.baits.find(b => b.bab === String(bab) && b.no === String(bait));
-    const babTitle = (no) => S.babs.find(b => b.no === String(no))?.title ?? '';
-    const refText = (r) => `${r.bab}:${r.bait}:${r.from}${r.to !== r.from ? '–' + r.to : ''}`;
-    const refHash = (r) => `#/kitab/${r.bab}/${r.bait}/${r.from}${r.to !== r.from ? '-' + r.to : ''}`;
+    const babTitle = (no) => findBab(no)?.title ?? '';
+    const baitCode = (b) => `${b.jilid}:${b.bab}:${b.no}`;
+    const baitHash = (b) => `#/kitab/${b.jilid}/${b.bab}/${b.no}`;
+    const refText = (r) => `${r.jilid || jilidOfBab(r.bab)}:${r.bab}:${r.bait}:${r.from}${r.to !== r.from ? '–' + r.to : ''}`;
+    const refHash = (r) => `#/kitab/${r.jilid || jilidOfBab(r.bab)}/${r.bab}/${r.bait}/${r.from}${r.to !== r.from ? '-' + r.to : ''}`;
     const versesOf = (r) => findBait(r.bab, r.bait)?.verses.filter(v => v.sub >= r.from && v.sub <= r.to) ?? [];
 
     // Views
@@ -408,11 +438,12 @@
         <section class="daily card" id="daily"></section>
         <div class="doors">
           <a class="door card" href="#/kata-bapak"><div class="emo">💬</div><h3>Kata Bapak</h3><p>Kutipan aslinya. Balik kartunya, lihat versi kitabnya.</p></a>
-          <a class="door card" href="#/kitab"><div class="emo">📜</div><h3>Kitab</h3><p>Bab demi bait. Pilih baris, bagikan tautannya.</p></a>
+          <a class="door card" href="#/kitab"><div class="emo">📜</div><h3>Kitab</h3><p>Jilid, bab, bait, dan baris. Pilih baris, bagikan tautannya.</p></a>
           <a class="door card" href="#/kisah"><div class="emo">☕</div><h3>Kisah</h3><p>Cerita Pak Abi dan anak-anaknya, lengkap dengan rujukan.</p></a>
           <a class="door card" href="#/tebak"><div class="emo">🎯</div><h3>Tebak</h3><p>Bait puitis ini aslinya bapak ngomong apa?</p></a>
         </div>
         <div class="stats">
+          <div><b>${S.jilids.length}</b>jilid</div>
           <div><b>${S.babs.length}</b>bab</div>
           <div><b>${S.baits.length}</b>wejangan</div>
           <div><b>${S.stories.length}</b>kisah</div>
@@ -422,7 +453,8 @@
 
     function renderDaily(b, label) {
       const box = $('#daily');
-      const hash = `#/kitab/${b.bab}/${b.no}`;
+      const hash = baitHash(b);
+      const code = baitCode(b);
       box.innerHTML = `
         <div class="kicker">${label}</div>
         <p class="quote">“${esc(S.kutipan.get(`${b.bab}:${b.no}`) ?? '')}”</p>
@@ -430,8 +462,8 @@
         <div class="row">
           <button class="btn primary" data-act="poem">📜 Versi kitab</button>
           <button class="btn" data-act="again">🎲 Lainnya</button>
-          <button class="btn" data-share="${hash}" data-title="Wejangan ${b.bab}:${b.no}">${ICON.share} Bagikan</button>
-          <a class="ref" href="${hash}" style="margin-left:auto">${esc(babTitle(b.bab))} · ${b.bab}:${b.no} →</a>
+          <button class="btn" data-share="${hash}" data-title="Wejangan ${code}">${ICON.share} Bagikan</button>
+          <a class="ref" href="${hash}" style="margin-left:auto">${esc(babTitle(b.bab))} · ${code} →</a>
         </div>`;
       box.querySelector('[data-act="poem"]').onclick = (e) => {
         const poem = box.querySelector('.poem');
@@ -448,11 +480,13 @@
     function baitHTML(b) {
       const asli = S.kutipan.get(`${b.bab}:${b.no}`);
       const used = S.usedIn.get(`${b.bab}:${b.no}`) ?? [];
+      const code = baitCode(b);
+      const hash = baitHash(b);
       return `
-        <article class="bait card" id="b-${b.bab}-${b.no}" data-bab="${b.bab}" data-bait="${b.no}">
+        <article class="bait card" id="b-${b.bab}-${b.no}" data-jilid="${b.jilid}" data-bab="${b.bab}" data-bait="${b.no}">
           <header>
-            <a class="num" href="#/kitab/${b.bab}/${b.no}">${b.bab}:${b.no}</a>
-            <button class="icon-btn" data-share="#/kitab/${b.bab}/${b.no}" data-title="Kitab ${b.bab}:${b.no}" aria-label="Bagikan bait ${b.bab}:${b.no}">${ICON.share}</button>
+            <a class="num" href="${hash}">${code}</a>
+            <button class="icon-btn" data-share="${hash}" data-title="Kitab ${code}" aria-label="Bagikan bait ${code}">${ICON.share}</button>
           </header>
           ${b.verses.map(v => `<span class="verse" id="v-${b.bab}-${b.no}-${v.sub}" data-sub="${v.sub}"><sup>${v.sub}</sup>${esc(v.text)}</span>`).join('')}
           ${asli ? `<details class="asli"><summary>Kata Bapak aslinya</summary><p>“${esc(asli)}”</p></details>` : ''}
@@ -460,35 +494,62 @@
         </article>`;
     }
 
-    function viewKitab([babNo, baitNo, range]) {
-      const babs = babNo ? S.babs.filter(b => b.no === babNo) : S.babs;
-      if (!babs.length || (baitNo && !findBait(babNo, baitNo))) return viewNotFound();
-      const title = babNo ? `Bab ${babNo}: ${babs[0].title}` : 'Kitab';
+    function resolveKitabParams(rest) {
+      if (!rest.length) return { jilidNo: '1', babNo: null, baitNo: null, range: null };
+      if (rest.length === 1) {
+        const jNo = rest[0].replace(/^jilid-?/i, '');
+        return { jilidNo: jNo || '1', babNo: null, baitNo: null, range: null };
+      }
+      if (rest.length === 2) {
+        const [babNo, baitNo] = rest;
+        return { jilidNo: jilidOfBab(babNo), babNo, baitNo, range: null };
+      }
+      if (rest.length === 3) {
+        // Either [jilidNo, babNo, baitNo] or legacy [babNo, baitNo, range]
+        if (S.jilids.some(j => j.no === rest[0]) && findBait(rest[1], rest[2]) && !rest[2].includes('-')) {
+          return { jilidNo: rest[0], babNo: rest[1], baitNo: rest[2], range: null };
+        }
+        return { jilidNo: jilidOfBab(rest[0]), babNo: rest[0], baitNo: rest[1], range: rest[2] };
+      }
+      const [jilidNo, babNo, baitNo, range] = rest;
+      return { jilidNo, babNo, baitNo, range };
+    }
+
+    function viewKitab(rest) {
+      const { jilidNo, babNo, baitNo, range } = resolveKitabParams(rest);
+      const activeJilidNo = jilidNo || '1';
+      const jilids = S.jilids.filter(j => j.no === activeJilidNo);
+      if (!jilids.length || (baitNo && !findBait(babNo, baitNo))) return viewNotFound();
+      const activeJilid = jilids[0];
+      const title = `Jilid ${activeJilid.no}: ${activeJilid.title}`;
       setView(`
         <div class="page-head">
           <div class="kicker">Kitab Wejangan</div>
-          <h1>${babNo ? esc(babs[0].title) : 'Kitab'}</h1>
+          <h1>Kitab</h1>
           <p>Ketuk baris untuk memilih (ketuk baris lain di bait yang sama untuk memperluas), lalu salin atau bagikan.</p>
         </div>
         <div class="pills">
-          <a class="pill" href="#/kitab" aria-current="${!babNo}">Semua</a>
-          ${S.babs.map(b => `<a class="pill" href="#/kitab/${b.no}" aria-current="${b.no === babNo}">Bab ${b.no}</a>`).join('')}
+          ${S.jilids.map(j => `<a class="pill" href="#/kitab/${j.no}" aria-current="${j.no === activeJilidNo}">Jilid ${j.no}: ${esc(j.title)}</a>`).join('')}
         </div>
-        ${babs.map(bab => `
-          <section class="bab" id="bab-${bab.no}">
-            <div class="kicker">Bab ${bab.no}</div>
-            <h2>${esc(bab.title)}</h2>
-            ${bab.baits.map(baitHTML).join('')}
-          </section>`).join('')}`, baitNo ? `Kitab ${babNo}:${baitNo}` : title);
+        ${jilids.map(j => `
+          <div class="jilid-group" id="jilid-${j.no}">
+            <div class="jilid-head"><div class="kicker">Jilid ${j.no} · Bab ${j.babs[0].no}–${j.babs[j.babs.length - 1].no}</div><h2>${esc(j.title)}</h2></div>
+            ${j.babs.map(bab => `
+              <section class="bab" id="bab-${bab.no}">
+                <div class="kicker">Jilid ${bab.jilid} · Bab ${bab.no}</div>
+                <h3>${esc(bab.title)}</h3>
+                ${bab.baits.map(baitHTML).join('')}
+              </section>`).join('')}
+          </div>`).join('')}`, baitNo ? `Kitab ${jilidNo}:${babNo}:${baitNo}` : title);
 
-      sel.base = babNo ? `#/kitab/${babNo}` : '#/kitab';
+      sel.base = `#/kitab/${activeJilidNo}`;
       if (baitNo) {
         const b = findBait(babNo, baitNo);
         const [from, to] = (range ?? '').split('-').map(Number);
         const subs = b.verses.map(v => v.sub);
         const lo = from || subs[0];
         const hi = to || from || subs[subs.length - 1];
-        setSelection(babNo, baitNo, Math.min(lo, hi), Math.max(lo, hi), false);
+        setSelection(b.jilid, babNo, baitNo, Math.min(lo, hi), Math.max(lo, hi), false);
         const card = $(`#b-${babNo}-${baitNo}`);
         const asli = card.querySelector('details');
         if (asli) asli.open = true;
@@ -499,9 +560,9 @@
 
     // Verse selection
     const selbar = $('#selbar');
-    const sel = { bab: null, bait: null, from: 0, to: 0, base: '#/kitab' };
-    function setSelection(bab, bait, from, to, updateUrl = true) {
-      Object.assign(sel, { bab, bait, from, to });
+    const sel = { jilid: null, bab: null, bait: null, from: 0, to: 0, base: '#/kitab' };
+    function setSelection(jilid, bab, bait, from, to, updateUrl = true) {
+      Object.assign(sel, { jilid, bab, bait, from, to });
       document.querySelectorAll('.verse.sel').forEach(el => el.classList.remove('sel'));
       document.querySelectorAll('.bait.active').forEach(el => el.classList.remove('active'));
       if (!bab) {
@@ -524,13 +585,13 @@
 
     function onVerseClick(el) {
       const card = el.closest('.bait');
-      const { bab, bait } = card.dataset;
+      const { jilid, bab, bait } = card.dataset;
       const sub = Number(el.dataset.sub);
       const same = sel.bab === bab && sel.bait === bait;
-      if (!same) return setSelection(bab, bait, sub, sub);
+      if (!same) return setSelection(jilid, bab, bait, sub, sub);
       if (sel.from === sel.to && sel.from === sub) return setSelection(null);
-      if (sub >= sel.from && sub <= sel.to) return setSelection(bab, bait, sub, sub);
-      setSelection(bab, bait, Math.min(sel.from, sub), Math.max(sel.to, sub));
+      if (sub >= sel.from && sub <= sel.to) return setSelection(jilid, bab, bait, sub, sub);
+      setSelection(jilid, bab, bait, Math.min(sel.from, sub), Math.max(sel.to, sub));
     }
 
     function viewKisahList() {
@@ -538,7 +599,7 @@
         <div class="page-head">
           <div class="kicker">Kisah-kisah Bapak</div>
           <h1>Kisah</h1>
-          <p>Cerita sehari-hari Pak Abi. Setiap wejangan merujuk ke baitnya di kitab.</p>
+          <p>Cerita sehari-hari Pak Abi. Setiap wejangan merujuk ke bait dan barisnya di kitab.</p>
         </div>
         ${S.stories.map((s, i) => `
           <a class="story-card card" href="#/kisah/${s.slug}">
@@ -548,6 +609,7 @@
             <div class="tags">
               <span class="tag">± ${readMins(s.body)} menit</span>
               <span class="tag">${s.refs.length} wejangan</span>
+              ${[...new Set(s.refs.map(r => r.jilid))].map(j => `<span class="tag">Jilid ${j}</span>`).join('')}
               ${[...new Set(s.refs.map(r => r.bab))].map(b => `<span class="tag">Bab ${b}</span>`).join('')}
             </div>
           </a>`).join('')}`, 'Kisah');
@@ -581,11 +643,11 @@
       for (const em of content.querySelectorAll('em')) {
         em.innerHTML = em.innerHTML.replace(/\(([^()]+)\)/g, '<span class="ctx">($1)</span>');
       }
-      // Turn reference codes like (3:3:1–3) into chips that open the verse inline
+      // Turn reference codes like (1:3:3:1–3) into chips that open the verse inline
       for (const code of content.querySelectorAll('code')) {
         const m = code.textContent.match(new RegExp('^' + REF_RE.source + '$'));
         if (!m) continue;
-        const r = { bab: m[1], bait: m[2], from: Number(m[3]), to: Number(m[4] ?? m[3]) };
+        const r = { jilid: m[1] || jilidOfBab(m[2]), bab: m[2], bait: m[3], from: Number(m[4]), to: Number(m[5] ?? m[4]) };
         const chip = document.createElement('button');
         chip.className = 'ref-chip';
         chip.textContent = refText(r);
@@ -614,9 +676,11 @@
       chip.setAttribute('aria-expanded', 'true');
     }
 
-    function viewKataBapak([babNo]) {
-      const babs = babNo ? S.babs.filter(b => b.no === babNo) : S.babs;
-      if (!babs.length) return viewNotFound();
+    function viewKataBapak([jilidNo]) {
+      const activeJilidNo = jilidNo || '1';
+      const jilids = S.jilids.filter(j => j.no === activeJilidNo);
+      if (!jilids.length) return viewNotFound();
+      const babs = jilids.flatMap(j => j.babs);
       setView(`
         <div class="page-head">
           <div class="kicker">Kutipan Asli</div>
@@ -624,27 +688,26 @@
           <p>Begini bapak-bapak ngomongnya. Ketuk kartu untuk membaliknya ke versi kitab.</p>
         </div>
         <div class="pills">
-          <a class="pill" href="#/kata-bapak" aria-current="${!babNo}">Semua</a>
-          ${S.babs.map(b => `<a class="pill" href="#/kata-bapak/${b.no}" aria-current="${b.no === babNo}">${esc(b.title)}</a>`).join('')}
+          ${S.jilids.map(j => `<a class="pill" href="#/kata-bapak/${j.no}" aria-current="${j.no === activeJilidNo}">Jilid ${j.no}: ${esc(j.title)}</a>`).join('')}
           <button class="pill" id="flip-all">🔄 Balik semua</button>
         </div>
         <div class="flip-grid">
           ${babs.flatMap(bab => bab.baits).filter(b => S.kutipan.has(`${b.bab}:${b.no}`)).map(b => `
-            <div class="flip" role="button" tabindex="0" aria-label="Balik kartu ${b.bab}:${b.no}">
+            <div class="flip" role="button" tabindex="0" aria-label="Balik kartu ${baitCode(b)}">
               <div class="flip-in">
                 <div class="face front card">
-                  <div class="lbl"><span>${b.bab}:${b.no}</span><span>💬</span></div>
+                  <div class="lbl"><span>${baitCode(b)}</span><span>💬</span></div>
                   <q>${esc(S.kutipan.get(`${b.bab}:${b.no}`) ?? '')}</q>
                   <div class="hint">ketuk untuk membalik</div>
                 </div>
                 <div class="face back card">
-                  <div class="lbl"><span>Kitab ${b.bab}:${b.no}</span><span>📜</span></div>
+                  <div class="lbl"><span>Kitab ${baitCode(b)}</span><span>📜</span></div>
                   <div class="p">${b.verses.map(v => esc(v.text)).join('<br>')}</div>
-                  <a href="#/kitab/${b.bab}/${b.no}">Buka di kitab →</a>
+                  <a href="${baitHash(b)}">Buka di kitab →</a>
                 </div>
               </div>
             </div>`).join('')}
-        </div>`, babNo ? `Kata Bapak · ${babs[0].title}` : 'Kata Bapak');
+        </div>`, `Kata Bapak · Jilid ${jilids[0].no}`);
 
       const cards = [...view.querySelectorAll('.flip')];
       for (const card of cards) {
@@ -682,7 +745,7 @@
           <span>Beruntun <b>${quiz.streak}</b></span>
           <span>Rekor <b>${quiz.best}</b></span>
         </div>
-        <div class="kicker">Bab ${q.bab}: ${esc(babTitle(q.bab))}</div>
+        <div class="kicker">Jilid ${q.jilid} · Bab ${q.bab}: ${esc(babTitle(q.bab))}</div>
         <div class="poem">${q.verses.map(v => esc(v.text)).join('<br>')}</div>
         <div class="opts">
           ${options.map(o => `<button class="opt" data-key="${o.bab}:${o.no}">“${esc(S.kutipan.get(`${o.bab}:${o.no}`) ?? '')}”</button>`).join('')}
@@ -690,7 +753,7 @@
         <p class="verdict" aria-live="polite"></p>
         <div class="row" id="quiz-next" hidden>
           <button class="btn primary">Soal berikutnya →</button>
-          <a class="btn" href="#/kitab/${q.bab}/${q.no}">Lihat di kitab</a>
+          <a class="btn" href="${baitHash(q)}">Lihat di kitab</a>
         </div>`;
       const key = `${q.bab}:${q.no}`;
       for (const btn of box.querySelectorAll('.opt')) {
@@ -720,7 +783,7 @@
         <div class="page-head" style="text-align:center;padding:40px 0">
           <div style="font-size:3rem">🧭</div>
           <h1>Nyasar, Nak?</h1>
-          <p>Tatkala simpang jalan mengaburkan arah, rendahkanlah hati untuk bertanya. <a href="#/kitab/1/3">(1:3:1–2)</a></p>
+          <p>Tatkala simpang jalan mengaburkan arah, rendahkanlah hati untuk bertanya. <a href="#/kitab/1/1/3/1-2">(1:1:3:1–2)</a></p>
           <p style="margin-top:20px"><a class="btn primary" href="#/">Pulang ke beranda</a></p>
         </div>`, 'Tidak ditemukan');
     }
@@ -731,9 +794,9 @@
       const [page, ...rest] = parts;
       if (page === 'acak') {
         const b = pick(S.baits);
-        return location.replace(`#/kitab/${b.bab}/${b.no}`);
+        return location.replace(baitHash(b));
       }
-      setSelection(null, null, 0, 0, false);
+      setSelection(null, null, null, 0, 0, false);
       for (const a of document.querySelectorAll('[data-nav]')) {
         a.toggleAttribute('aria-current', a.dataset.nav === page);
         if (a.dataset.nav === page) a.setAttribute('aria-current', 'page');
@@ -770,10 +833,12 @@
     try {
       const get = (f) => fetch(f).then(r => { if (!r.ok) throw new Error(f); return r.text(); });
       const [kitabMd, kisahMd, kutipanMd] = await Promise.all([get('kitab.md'), get('kisah.md'), get('kutipan.md')]);
-      S.babs = parseKitab(kitabMd);
+      const parsedKitab = parseKitab(kitabMd);
+      S.jilids = parsedKitab.jilids;
+      S.babs = parsedKitab.babs;
       S.baits = S.babs.flatMap(b => b.baits);
       S.kutipan = parseKutipan(kutipanMd);
-      S.stories = parseKisah(kisahMd);
+      S.stories = parseKisah(kisahMd, jilidOfBab);
       for (const s of S.stories) {
         for (const r of s.refs) {
           const k = `${r.bab}:${r.bait}`;
