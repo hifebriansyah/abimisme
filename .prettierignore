@@ -1,0 +1,9 @@
+build/
+node_modules/
+public/
+tools/
+manga/
+.react-router/
+# the content files are written by hand and by Claude (see claude.md), never reformatted
+*.md
+package-lock.json

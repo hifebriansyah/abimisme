@@ -15,7 +15,7 @@ import tempfile
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
-OUT = ROOT / "assets"
+OUT = ROOT / "public" / "assets"
 BG = "#f7f1e6"      # page --bg (light)
 INK = "#2a2118"     # --ink
 MUTED = "#7a6b5a"   # --muted
@@ -23,7 +23,7 @@ ACCENT = "#E68355"  # --accent
 FONTS = Path("/System/Library/Fonts/Supplemental")
 FONT_BOLD = FONTS / "Georgia Bold.ttf"
 FONT_ITALIC = FONTS / "Georgia Italic.ttf"
-TAGLINE = "Nasihat bapak-bapak yang bijak,\nnyeleneh, dan bikin “iya juga ya” —\ndikompilasi jadi kitab puitis."
+TAGLINE = "Nasihat bapak-bapak yang bijak,\nnyeleneh dan bikin “iya juga ya” —\ndikompilasi jadi kitab puitis."
 
 
 def magick(*args):
@@ -97,7 +97,7 @@ def main():
                "-gravity", "west", "-geometry", "+70+0", "-composite",
                "-gravity", "northwest",
                "-font", FONT_BOLD, "-fill", INK, "-pointsize", 104, "-annotate", "+590+170", "abimisme",
-               "-font", FONT_BOLD, "-fill", ACCENT, "-pointsize", 26, "-annotate", "+596+138", "KITAB Nasihat BAPAK-BAPAK",
+               "-font", FONT_BOLD, "-fill", ACCENT, "-pointsize", 26, "-annotate", "+596+138", "KITAB NASIHAT BAPAK-BAPAK",
                "-font", FONT_ITALIC, "-fill", MUTED, "-pointsize", 34, "-interline-spacing", 8,
                "-annotate", "+596+320", TAGLINE,
                "-fill", ACCENT, "-draw", "rectangle 0,614 1200,630",
