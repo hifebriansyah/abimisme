@@ -6,7 +6,7 @@ Langit sore di atas rumah baru saja berubah jingga ketika suara motor bebek tua 
 
 "Pak, ayo cepat sedikit, nanti keburu macet di perempatan pasar!" seru Raka sambil menyambar helm hitam dari atas spion dan langsung menangkupkannya begitu saja di kepala.
 
-Pak Abi keluar dari pintu teras sambil merapikan lipatan kerah kaosnya dengan tenang. Bukannya langsung naik ke boncengan, beliau berhenti di samping stang motor. Melihat tali pengunci helm Raka masih menjuntai bebas di dekat rahang, Pak Abi mengulurkan kedua tangannya, menarik kedua ujung pengait besi itu, lalu menekannya hingga terdengar bunyi *klik* yang nyaring.
+Pak Abi keluar dari pintu teras sambil merapikan lipatan kerah kaosnya dengan tenang. Bukannya langsung naik ke boncengan, beliau berhenti di samping stang motor. Melihat tali pengunci helm Raka masih menjuntai bebas di dekat rahang, Pak Abi mengulurkan kedua tangannya, menarik kedua ujung pengait besi itu, lalu menekannya hingga terdengar bunyi klik yang nyaring.
 
 *(Raka,) kancingkan tali pelindung (helm) di kepalamu, sebab ia bukan sekadar mahkota hiasan, melainkan penjaga nyawa kala benturan tiba* `(1:1:5:1–3)`.
 
@@ -132,7 +132,7 @@ Sore itu hujan turun rintik-rintik ketika seorang teman kuliah Dinda datang bert
 
 Dengan penuh percaya diri, Dinda membawa kaleng itu ke hadapan temannya. "Kebetulan di rumah masih ada biskuit mentega, ayo dimakan," ujar Dinda sambil mencungkil tutup kaleng yang rapat dengan ujung sendok.
 
-Begitu tutup kaleng terbuka dan mengeluarkan bunyi *pop*, senyum Dinda langsung membeku. Di dalamnya sama sekali tidak ada biskuit cokelat maupun taburan gula, melainkan tumpukan rengginang terasi buatan Ibu yang mekar kecokelatan di atas lembaran kertas tisu. Teman Dinda tertawa renyah, sementara wajah Dinda memerah menahan malu.
+Begitu tutup kaleng terbuka dan mengeluarkan bunyi pop, senyum Dinda langsung membeku. Di dalamnya sama sekali tidak ada biskuit cokelat maupun taburan gula, melainkan tumpukan rengginang terasi buatan Ibu yang mekar kecokelatan di atas lembaran kertas tisu. Teman Dinda tertawa renyah, sementara wajah Dinda memerah menahan malu.
 
 Dari pintu ruang tengah, Pak Abi muncul sambil membawa nampan berisi dua gelas teh manis hangat yang masih mengepul. Melihat wajah putrinya yang salah tingkah menatap kaleng merah itu, Pak Abi terkekeh pelan dan berucap:
 
@@ -242,13 +242,13 @@ Pak Abi mengangguk-angguk pelan, seolah kisah seperti itu sudah puluhan kali bel
 
 *(Raka,) tidakkah kamu memperhatikan tingkah laku sebagian manusia tatkala mereka datang hendak berhutang? Wajah mereka tertunduk memelas bagaikan kucing yang basah diguyur hujan, namun tatkala tiba waktu penagihan, suara mereka lebih keras lagi garang daripada pemilik harta itu sendiri* `(2:9:1:1–5)`.
 
-"Dia cuma balas singkat, Pak: *'Tenang saja, nanti habis gajian pasti kubayar'*—tapi tidak bilang tanggal berapa, terus pesannya sekarang centang satu," keluh Raka getir.
+"Dia cuma balas singkat, Pak: 'Tenang saja, nanti habis gajian pasti kubayar'—tapi tidak bilang tanggal berapa, terus pesannya sekarang centang satu," keluh Raka getir.
 
 Pak Abi tersenyum tipis dan menyandarkan punggungnya ke sofa:
 
 *Sesungguhnya perkataan "akan kulunasi setelah turunnya upah (gajian) nanti", tanpa menyebutkan hari dan bulan yang terang, adalah janji yang paling semu di muka bumi ini* `(2:9:4:1–3)`.
 
-Mendengar percakapan itu, Dinda yang sedari tadi menatap ponselnya di atas karpet ikut menyahut sambil menyodorkan layar gawainya ke arah Raka. "Kak, kalau uang Kak Raka belum balik, pakai fitur *paylater* saja dulu buat talangan bulan ini. Sekalian nih, lagi ada diskon tengah malam buat jaket sama tas, bayarnya baru bulan depan kok, ringan!"
+Mendengar percakapan itu, Dinda yang sedari tadi menatap ponselnya di atas karpet ikut menyahut sambil menyodorkan layar gawainya ke arah Raka. "Kak, kalau uang Kak Raka belum balik, pakai fitur paylater saja dulu buat talangan bulan ini. Sekalian nih, lagi ada diskon tengah malam buat jaket sama tas, bayarnya baru bulan depan kok, ringan!"
 
 Mendengar usulan Dinda itu, Pak Abi langsung menegakkan duduknya. Beliau meminta kedua anaknya menutup aplikasi belanja dan pinjaman tunda bayar di layar gawai mereka masing-masing, lalu menatap Dinda dan Raka bergantian:
 
@@ -266,7 +266,7 @@ Waktu makan malam selepas isya adalah saat ketika meja makan kayu di ruang tenga
 
 Tanpa mengalihkan pandangan dari layar ponsel, tangan kanan Bima yang memegang sendok makan—sendok yang baru saja keluar dari mulutnya untuk menyuap nasi—langsung menjulur hendak mencelup ke dalam mangkuk sayur lodeh di tengah meja.
 
-*Ting!* Ujung sendok Pak Abi mengetuk tepi mangkuk sayur itu perlahan, menghentikan gerakan tangan Bima di udara.
+Ting! Ujung sendok Pak Abi mengetuk tepi mangkuk sayur itu perlahan, menghentikan gerakan tangan Bima di udara.
 
 *(Bima,) dan apabila keluargamu telah duduk berkumpul mengelilingi meja makan, maka letakkanlah gawai (HP) di genggamanmu; sebab sesungguhnya hangatnya hidangan dan kehadiran keluargamu itu jauh lebih nyata daripada bayang-bayang di dalam layar* `(2:10:5:1–4)`.
 
@@ -274,7 +274,7 @@ Tanpa mengalihkan pandangan dari layar ponsel, tangan kanan Bima yang memegang s
 
 Bima buru-buru membalikkan layar ponselnya ke meja dan mengambil sendok sayur bergagang panjang untuk menuang kuah lodeh ke piringnya. Namun baru dua suap ia makan, sambil tertawa menyahuti cerita Raka dengan mulut penuh nasi dan kerupuk, tiba-tiba Bima tersedak hebat. Wajahnya memerah dan ia terbatuk-batuk memegang lehernya.
 
-Ibu segera menyodorkan segelas air putih hangat, sementara Pak Abi bangkit berdiri di samping kursi Bima. Sambil menepuk punggung Bima perlahan, Pak Abi menunduk dan meniup ubun-ubun kepala putranya sebanyak tiga kali—*fuh, fuh, fuh*—dengan tiupan yang lembut. Ajaibnya, beberapa detik setelah meminum air hangat dan ditiup ubun-ubunnya, batuk Bima langsung reda dan napasnya kembali lega.
+Ibu segera menyodorkan segelas air putih hangat, sementara Pak Abi bangkit berdiri di samping kursi Bima. Sambil menepuk punggung Bima perlahan, Pak Abi menunduk dan meniup ubun-ubun kepala putranya sebanyak tiga kali—fuh, fuh, fuh—dengan tiupan yang lembut. Ajaibnya, beberapa detik setelah meminum air hangat dan ditiup ubun-ubunnya, batuk Bima langsung reda dan napasnya kembali lega.
 
 Dinda yang duduk di seberang meja mengerjap heran menahan senyum. "Pak, dari dulu Dinda bingung deh. Yang keselek kan tenggorokannya Bima, kenapa yang ditiup malah ubun-ubun kepalanya?"
 
@@ -324,7 +324,7 @@ Minggu pagi ketika kabut tipis masih menggantung di atas atap-atap rumah, Pak Ab
 
 Setibanya di pasar tradisional yang sudah riuh oleh suara pedagang dan aroma daun pisang basah, mata Bima langsung tertuju pada tumpukan buah semangka bulat besar di lapak depan. Tanpa ragu, Bima menunjuk buah semangka yang ukurannya paling raksasa dan meminta ayahnya langsung menimbangnya.
 
-Pak Abi menahan tangan Bima. Beliau mengangkat tiga buah semangka satu per satu, mendekatkannya ke telinga, lalu menepuk-nepuk kulit hijaunya yang bergaris dengan telapak tangan terbuka hingga terdengar bunyi *buk-buk* yang nyaring dan membal:
+Pak Abi menahan tangan Bima. Beliau mengangkat tiga buah semangka satu per satu, mendekatkannya ke telinga, lalu menepuk-nepuk kulit hijaunya yang bergaris dengan telapak tangan terbuka hingga terdengar bunyi buk-buk yang nyaring dan membal:
 
 *(Bima,) dan apabila kamu hendak memilih buah semangka di tengah keramaian pasar, maka tepuklah kulitnya dengan telapak tanganmu dan dengarkanlah gema suaranya; apabila terdengar nyaring lagi mantap bunyinya, maka itulah tanda telah matang lagi manis isinya* `(2:12:1:1–5)`.
 
@@ -338,7 +338,7 @@ Di sebelahnya, Dinda yang baru selesai membayar cabai dan bawang kepada seorang 
 
 *Dan hitunglah uang kembalian belanjaanmu dengan cermat sebelum kamu melangkah meninggalkan pasar; akan tetapi apabila pedagang itu keliru memberikan kelebihan kepadamu walau hanya seribu (dua ribu) perak, maka kembalikanlah haknya itu seketika, sebab sesungguhnya keuntungan mereka hanyalah sedikit* `(2:12:8:1–6)`.
 
-Ketika seluruh kantong belanjaan telah terikat rapi di gantungan motor dan mereka bersiap keluar dari pelataran parkir pasar yang padat, terdengar bunyi peluit nyaring—*priiit!*—dari bapak juru parkir yang membantu menarik mundur motor mereka di tengah kerumunan. Dinda merogoh dompetnya dengan panik karena hanya memiliki lembaran uang lima puluh ribuan, sementara antrean motor di belakang sudah mendesak.
+Ketika seluruh kantong belanjaan telah terikat rapi di gantungan motor dan mereka bersiap keluar dari pelataran parkir pasar yang padat, terdengar bunyi peluit nyaring—priiit!—dari bapak juru parkir yang membantu menarik mundur motor mereka di tengah kerumunan. Dinda merogoh dompetnya dengan panik karena hanya memiliki lembaran uang lima puluh ribuan, sementara antrean motor di belakang sudah mendesak.
 
 Saat itulah Pak Abi dengan santai merogoh saku jaketnya dan menyerahkan empat keping uang logam lima ratusan yang tadi pagi hendak ditinggalkan Dinda di sudut laci rumah, seraya menoleh kepada putrinya dengan senyum penuh kemenangan:
 
@@ -368,7 +368,7 @@ Pak Abi tidak berdebat. Beliau mengambil batu asahan halus dari laci gudang untu
 
 *Ketahuilah bahwa setinggi apa pun pangkat dan kedudukan seorang bapak di tempatnya bekerja, tatkala kakinya telah melangkah masuk melewati ambang pintu rumahnya, maka sesungguhnya ia tetaplah pemikul utama galon air minum dan pemasang tabung gas di dapur* `(2:13:17:1–5)`.
 
-Setelah tabung gas terpasang dengan bunyi *klik* yang rapat dan gunting kain kembali tajam di atas meja, Pak Abi menghampiri Ibu, meminta maaf dengan lembut atas ulah anak-anak mereka tadi pagi, lalu menawarkan diri membelikan ikan bakar kesukaan Ibu untuk makan siang bersama. Wajah Ibu yang tadinya mendung perlahan kembali teduh dan tersenyum. Saat melangkah keluar bersama Raka menuju warung ikan bakar, Pak Abi menepuk bahu putranya seraya berujar pelan:
+Setelah tabung gas terpasang dengan bunyi klik yang rapat dan gunting kain kembali tajam di atas meja, Pak Abi menghampiri Ibu, meminta maaf dengan lembut atas ulah anak-anak mereka tadi pagi, lalu menawarkan diri membelikan ikan bakar kesukaan Ibu untuk makan siang bersama. Wajah Ibu yang tadinya mendung perlahan kembali teduh dan tersenyum. Saat melangkah keluar bersama Raka menuju warung ikan bakar, Pak Abi menepuk bahu putranya seraya berujar pelan:
 
 *Dan apabila terjadi perselisihan paham antara kamu dengan istrimu di rumah tangga, maka berhentilah kamu dari memperturutkan perdebatan tentang siapakah yang paling benar; sebab sesungguhnya suami yang lebih dahulu meminta maaf itu adalah ketetapan alam supaya rumah kembali damai* `(4:36:3:1–7)`.
 
@@ -440,7 +440,7 @@ Pak Abi yang sedang melipat kantong plastik belanjaan menjadi segitiga rapi di m
 
 Setelah Ibu menuangkan potongan ayam dan kuah gulai yang kental ke dalam mangkuk di atas piring Bu Rahma, Dinda melangkah keluar pagar ditemani oleh Bima yang hendak membeli buku tulis ke warung ujung gang. Di depan pagar rumah sebelah, tampak Pak Haji dan Bu Rahma sedang berdiri menyapu guguran daun mangga.
 
-Bima yang memasang pengeras suara (*headset*) putih di kedua telinganya berjalan lurus melewati Pak Haji begitu saja sambil mengangguk sekilas, bahkan ketika Pak Haji menyapanya menanyakan kabar sekolahnya, Bima tidak mendengar sama sekali. Pak Abi yang mengikuti dari beranda segera memanggil Bima dan memberi isyarat agar ia melepaskan pengeras suara dari telinganya:
+Bima yang memasang pengeras suara (headset) putih di kedua telinganya berjalan lurus melewati Pak Haji begitu saja sambil mengangguk sekilas, bahkan ketika Pak Haji menyapanya menanyakan kabar sekolahnya, Bima tidak mendengar sama sekali. Pak Abi yang mengikuti dari beranda segera memanggil Bima dan memberi isyarat agar ia melepaskan pengeras suara dari telinganya:
 
 *(Bima,) dan apabila orang yang lebih tua mengajakmu berbicara, maka lepaskanlah pendengar suara (headset) dari kedua telingamu dan hadapkanlah wajahmu kepadanya dengan penuh hormat* `(2:16:9:1–3)`.
 
@@ -466,7 +466,7 @@ Pak Abi terkekeh sambil menyerahkan sebatang sapu lidi lagi dan pengki kaleng ke
 
 Di sepanjang lorong gang, suasana kerja bakti berlangsung hangat oleh canda tawa bapak-bapak yang mengeruk pasir selokan dan ibu-ibu yang mengantarkan nampan berisi pisang rebus serta teh hangat. Seusai membersihkan endapan lumpur di selokan depan rumah, Pak Abi mengajak Bima mengangkat tangga lipat aluminium milik Pak RT yang kemarin sore dipinjam untuk memangkas dahan pohon jambu di halaman.
 
-Ketika Bima sedang menyemprot kaki tangga itu dengan selang air agar bersih dari tanah basah, seorang warga dari gang sebelah yang kebetulan melintas berhenti dan berkata, "Wah, kebetulan ada tangga Pak RT di sini, saya pinjam bawa ke rumah saya sebentar ya, Dek, mau benerin talang!"
+Ketika Bima sedang menyemprot kaki tangga কমলা air agar bersih dari tanah basah, seorang warga dari gang sebelah yang kebetulan melintas berhenti dan berkata, "Wah, kebetulan ada tangga Pak RT di sini, saya pinjam bawa ke rumah saya sebentar ya, Dek, mau benerin talang!"
 
 Bima sudah hampir mengangguk mengiyakan, namun Pak Abi segera keluar dari teras sambil mengelap tangannya dan menahan tangga aluminium itu dengan sopan:
 
@@ -528,7 +528,7 @@ Tak berselang lama, rintik hujan di luar berubah menjadi curahan hujan deras yan
 
 ## Kisah: Mawar Selamat Pagi dan Suara dari Perantauan
 
-Pagi-pagi sekali di meja sarapan, ponsel Dinda dan Bima berdenting nyaris bersamaan. Di layar grup WhatsApp keluarga besar, tampak kiriman gambar sekuntum mawar merah berkilauan di samping secangkir kopi bertuliskan *"Selamat Pagi, Semoga Hari Ini Penuh Berkah"* dari Pakde di kampung. Dinda tersenyum geli melihat gambar bergaya lama itu dan hendak langsung menutup layar ponselnya.
+Pagi-pagi sekali di meja sarapan, ponsel Dinda dan Bima berdenting nyaris bersamaan. Di layar grup WhatsApp keluarga besar, tampak kiriman gambar sekuntum mawar merah berkilauan di samping secangkir kopi bertuliskan "Selamat Pagi, Semoga Hari Ini Penuh Berkah" dari Pakde di kampung. Dinda tersenyum geli melihat gambar bergaya lama itu dan hendak langsung menutup layar ponselnya.
 
 Di ujung meja, Pak Abi tampak memegang gawainya agak jauh dari wajah sambil mengetik balasan menggunakan satu jari telunjuk kanan dengan penuh kesungguhan. Melihat huruf-huruf di layar ponsel bapaknya yang ukurannya diatur luar biasa besar hingga satu baris hanya memuat dua kata, Bima menahan tawa di samping ayahnya. Pak Abi melirik kedua anaknya dari balik kacamata bacanya lalu berujar:
 
@@ -580,11 +580,11 @@ Bima berlari ke dapur dan benar saja, gantungan kunci itu tergeletak di sudut at
 
 Sabtu siang itu cuaca berubah begitu cepat. Sejak pagi matahari bersinar terik membakar halaman, membuat Ibu mencuci dua ember penuh pakaian beserta seprai kasur dan menjemurnya berderet di tali jemuran samping teras. Namun menjelang pukul dua siang, ketika Ibu baru saja selesai mengepel seluruh lantai keramik ruang tengah hingga basah mengkilap dan harum karbol, angin kencang mendadak bertiup membawa gumpalan awan hitam pekat di atas atap.
 
-Tak lama kemudian, butir-butir hujan yang besar mulai jatuh mengetuk atap seng—*letak, letuk, deresss!*
+Tak lama kemudian, butir-butir hujan yang besar mulai jatuh mengetuk atap seng—letak, letuk, deresss!
 
 Dinda yang sedang membaca di kamar keluar ke ambang pintu depan. Bukannya langsung melangkah ke tali jemuran, ia justru berdiri terpaku di depan pintu sambil menengadahkan tangan ke luar teras dan berseru ke arah dalam rumah, "Pak, Bu, di luar turun hujan ya?"
 
-Pak Abi yang sudah lebih dulu berlari menyambar keranjang plastik dan melepaskan jepitan jemuran satu per satu di bawah rintik hujan menoleh kepada putrinya sambil berseru:
+Pak Abi yang sudah lebih dulu berlari menyambar keranjang plastik dan melepaskan jepitan jemuran satu per satu di bawah rintik hujan menoleh kepada putranya sambil berseru:
 
 *(Dinda,) maka apabila kamu melihat awan hitam telah menggantung pekat dan rintik hujan mulai jatuh dari langit, bersegeralah kamu berlari menyelamatkan pakaian-pakaian yang tergantung pada tali jemuran; dan janganlah kamu hanya berdiri terpaku di ambang pintu seraya bertanya, "Apakah di luar sedang turun hujan?"* `(3:22:2:1–5)`.
 
@@ -606,7 +606,7 @@ Satu jam kemudian, hujan deras itu pun reda menyisakan udara sore yang sejuk dan
 
 ## Kisah: Siulan Burung Perkutut dan Kucing di Atas Pelana
 
-Awal bulan di hari Minggu pagi selalu memiliki aroma ketenteraman yang khas di beranda rumah Pak Abi. Pagi itu, setelah seluruh tagihan listrik, air, dan cicilan bulanan selesai dibayarkan dengan tertib, Pak Abi duduk di kursi kayu beranda sambil menyeruput kopi tubruk hangatnya. Di atas kerekan bambu di sudut halaman yang disinari matahari pukul tujuh, burung perkutut peliharaannya manggung bersahut-sahutan—*klau-ketekuk...*—diiringi siulan kecil dari bibir Pak Abi.
+Awal bulan di hari Minggu pagi selalu memiliki aroma ketenteraman yang khas di beranda rumah Pak Abi. Pagi itu, setelah seluruh tagihan listrik, air, dan cicilan bulanan selesai dibayarkan dengan tertib, Pak Abi duduk di kursi kayu beranda sambil menyeruput kopi tubruk hangatnya. Di atas kerekan bambu di sudut halaman yang disinari matahari pukul tujuh, burung perkutut peliharaannya manggung bersahut-sahutan—klau-ketekuk...—diiringi siulan kecil dari bibir Pak Abi.
 
 Dinda yang keluar membawa piring sarapan tersenyum melihat wajah bapaknya yang tampak begitu cerah dan damai pagi itu. "Bapak kelihatannya senang sekali pagi ini, burung perkututnya sampai rajin bunyi," sapa Dinda.
 
@@ -734,7 +734,7 @@ Dinda yang keluar dari kamar untuk mengambil air minum tersenyum geli melihat ga
 
 Saat jeda turun minum menjelang pukul setengah sepuluh malam, Raka yang matanya mulai agak berat hendak pergi ke dapur untuk menyeduh segelas penuh kopi hitam pekat yang baru agar kuat begadang, sementara di sekitar kakinya kulit-kulit kacang mulai berserakan jatuh ke atas karpet ruang tamu Ibu. Pak Abi segera mengingatkan Raka untuk memunguti remah kulit kacang itu dan melarangnya menyeduh kopi pekat lagi di larut malam:
 
-*(Raka,) dan janganlah kamu meminum kopi hitam yang pekat setelah lewat pukul delapan (atau sembilan) malam, jika kamu tidak ingin matamu terus terjaga menghitung cicak di langit-langit kamar hingga waktu subuh* `(2:11:15:1–4)`.
+*(Raka,) dan janganlah kamu memumin kopi hitam yang pekat setelah lewat pukul delapan (atau sembilan) malam, jika kamu tidak ingin matamu terus terjaga menghitung cicak di langit-langit kamar hingga waktu subuh* `(2:11:15:1–4)`.
 
 Pertandingan babak kedua berjalan kian sengit hingga skor imbang harus ditentukan melalui tendangan penalti pada menit terakhir. Begitu penendang terakhir melangkah menuju titik putih, Pak Abi yang tadinya paling lantang memberi komando mendadak bangkit berdiri dari sofa. Dengan wajah tegang, beliau berjalan mundur menuju ambang pintu dapur, bersembunyi di balik tembok sambil mengintip layar televisi hanya dengan sebelah matanya.
 
@@ -746,7 +746,7 @@ Melihat tingkah bapaknya itu, Raka dan Bima tertawa tertahan di sofa, sementara 
 
 ## Kisah: Panggilan dari Dapur dan Kabel yang Digulung Rapi
 
-Sore hari menjelang magrib, Bima sedang duduk di depan konsol permainan bersama Raka dengan kedua telinga tertutup rapat oleh pengeras suara (*headset*) berukuran besar. Dari arah dapur, sudah dua kali terdengar suara Ibu memanggil Bima untuk membantu mengangkat mangkuk sayur dan piring ke meja makan, namun Bima tidak menyahut sedikit pun. Bahkan ketika Raka menyenggol lengannya memberi tahu bahwa Ibu memanggil, Bima malah berseru bahwa permainan daringnya sedang berlangsung seru dan tidak memiliki tombol jeda (*pause*).
+Sore hari menjelang magrib, Bima sedang duduk di depan konsol permainan bersama Raka dengan kedua telinga tertutup rapat oleh pengeras suara (headset) berukuran besar. Dari arah dapur, sudah dua kali terdengar suara Ibu memanggil Bima untuk membantu mengangkat mangkuk sayur dan piring ke meja makan, namun Bima tidak menyahut sedikit pun. Bahkan ketika Raka menyenggol lengannya memberi tahu bahwa Ibu memanggil, Bima malah berseru bahwa permainan daringnya sedang berlangsung seru dan tidak memiliki tombol jeda (pause).
 
 Pak Abi yang baru selesai mengunci pagar depan melangkah masuk ke ruang tengah. Dengan gerakan tenang namun tegas, beliau mengangkat sebelah bantalan pengeras suara dari telinga Bima hingga suara Ibu dari dapur terdengar jelas:
 
@@ -756,7 +756,7 @@ Pak Abi yang baru selesai mengunci pagar depan melangkah masuk ke ruang tengah. 
 
 Karena terburu-buru hendak bangkit ke dapur samtidigt masih kesal lantaran baru saja kalah angka dari Raka, Bima menarik kabel stik pengendalinya dengan kasar dan melilitkannya kencang-kencang memutari bodi plastik stik tersebut. Saat melilitkan kabel itu, tampak bagian kulit karet kabel di dekat pangkalnya sudah sedikit terkelupas akibat terlalu sering ditekuk paksa. Bima mengeluh bahwa stiknya sebentar lagi pasti rusak dan harus dibuang.
 
-Pak Abi mengambil stik itu dari tangan Bima, mengurai kembali lilitan kabel yang terlalu mencekik tadi, lalu mengeluarkan segulung pita perekat listrik berwarna hitam (*lakban*) dari laci meja perkakasnya:
+Pak Abi mengambil stik itu dari tangan Bima, mengurai kembali lilitan kabel yang terlalu mencekik tadi, lalu mengeluarkan segulung pita perekat listrik berwarna hitam (lakban) dari laci meja perkakasnya:
 
 *Dan apabila kamu selesai bermain, maka gulunglah kabel pengendali permainanmu itu dengan longgar lagi rapi; dan janganlah kamu melilitkannya dengan terlampau kencang sehingga terputus kawat tembaga di bagian dalamnya* `(3:29:11:1–4)`.
 
@@ -794,7 +794,7 @@ Tangan Pak Abi dengan sigap menahan pergelangan tangan Bima sebelum kayu pemukul
 
 Sore menjelang magrib, Bima baru saja keluar dari kamarnya dengan tergesa-gesa karena ingin mencoba payung hitam besar yang baru ditemukan Ibu di lemari gudang. Begitu keluar kamar, ia membiarkan lampu kamarnya tetap menyala terang benderang tanpa seorang pun di dalamnya.
 
-Pak Abi yang baru melintas dari ruang makan berhenti di depan kamar Bima, menekan sakelar lampu hingga terdengar bunyi *ctek*, lalu memanggil putra bungsunya:
+Pak Abi yang baru melintas dari ruang makan berhenti di depan kamar Bima, menekan sakelar lampu hingga terdengar bunyi ctek, lalu memanggil putra bungsunya:
 
 *(Bima,) saat langkahmu meninggalkan ruang yang lengang, padamkanlah pelita (lampu) yang tak lagi menerangi; sebab tiap pijar ditebus dengan peluh, bukan dengan guguran daun kering di halaman* `(1:2:1:1–4)`.
 
@@ -820,7 +820,7 @@ Memasuki bulan-bulan menjelang pemilihan umum, suasana di warung kopi Mang Ujang
 
 Sore itu, Raka yang sedang pulang libur diminta Ibu membeli gula pasir ke warung Mang Ujang. Sekembalinya ke rumah, Raka bercerita sambil menggelengkan kepala kepada Pak Abi yang sedang berjongkok di samping teras meneteskan minyak pelumas ke rantai motor bebeknya.
 
-"Pak, tadi di warung Mang Ujang ramai betul. Dua bapak-bapak dari blok belakang debat soal calon presiden sampai gebrak meja dan urat lehernya keluar semua. Tapi yang paling lucu, pas selesai debat dan mau pulang, bapak yang paling keras suaranya tadi malah bilang ke Mang Ujang: *'Mang, kopi sama gorengan empat biji catat di buku dulu ya!'*" cerita Raka sambil tertawa.
+"Pak, tadi di warung Mang Ujang ramai betul. Dua bapak-bapak dari blok belakang debat soal calon presiden sampai gebrak meja dan urat lehernya keluar semua. Tapi yang paling lucu, pas selesai debat dan mau pulang, bapak yang paling keras suaranya tadi malah bilang ke Mang Ujang: 'Mang, kopi sama gorengan empat biji catat di buku dulu ya!'" cerita Raka sambil tertawa.
 
 Pak Abi ikut terkekeh pelan sambil memutar roda belakang motornya agar oli meresap rata ke mata rantai, lalu mengelap tangannya dengan kain perca:
 
@@ -874,7 +874,7 @@ Pak Abi menyandarkan joran pancingnya dengan tenang di sudut dinding teras, mele
 
 *Dan apabila bapakmu pulang dari memancing seharian dengan menenteng kantong (atau ember) yang kosong hampa, maka janganlah kamu menyambutnya dengan pertanyaan di manakah gerangan ikannya; sebab sesungguhnya pada hari itu ikan-ikan sedang menahan diri dari makan (berpuasa), sedangkan bapakmu pulang dengan membawa pahala kesabaran* `(3:34:5:1–5)`.
 
-Keesokan subuhnya, seluruh anggota keluarga sudah bersiap melakukan perjalanan mudik menengok kakek dan nenek di kampung halaman. Di dapur, Ibu telah menyiapkan bekal ayam goreng lengkuas dan sambal goreng kentang di dalam tiga wadah plastik pusaka (*Tupperware*) berwarna ungu kesayangannya. Saat menyerahkan tas bekal itu kepada Dinda dan Bima untuk dibawa ke kendaraan, Pak Abi mewanti-wanti kedua anaknya dengan wajah setengah berbisik:
+Keesokan subuhnya, seluruh anggota keluarga sudah bersiap melakukan perjalanan mudik menengok kakek dan nenek di kampung halaman. Di dapur, Ibu telah menyiapkan bekal ayam goreng lengkuas dan sambal goreng kentang di dalam tiga wadah plastik pusaka (Tupperware) berwarna ungu kesayangannya. Saat menyerahkan tas bekal itu kepada Dinda dan Bima untuk dibawa ke kendaraan, Pak Abi mewanti-wanti kedua anaknya dengan wajah setengah berbisik:
 
 *(Dinda dan Bima,) dan peliharalah wadah bekal makanan milik ibumu itu sebagaimana kamu menjaga harta pusaka yang berharga; sebab apabila hilang satu saja tutupnya di perjalanan, niscaya tujuh hari tujuh malam lamanya telinga seisi rumah akan mendengar peringatannya* `(2:13:4:1–5)`.
 
@@ -944,7 +944,7 @@ Bima yang berjalan sambil memasukkan kedua tangan ke saku jaketnya melangkah beg
 
 Setibanya di beranda rumah ketika fajar mulai merekah terang, tampak Dinda sedang menyapu lantai ruang tamu. Karena terburu-buru ingin segera menyiapkan sarapan, Dinda menggiring gumpalan debu sapuannya hanya sampai ke dekat ambang pintu, lalu mengangkat ujung keset kaki dan hendak menyembunyikan tumpukan debu itu ke bawah keset.
 
-Pada saat yang bersamaan, ketika Bima mendorong daun pintu depan lebih lebar, engsel besi pintu itu mengeluarkan bunyi derit panjang yang nyaring—*kriiieeet!*—hingga Bima spontan nyeletuk bahwa mereka harus memanggil tukang kayu untuk membongkar pintu tersebut.
+Pada saat yang bersamaan, ketika Bima mendorong daun pintu depan lebih lebar, engsel besi pintu itu mengeluarkan bunyi derit panjang yang nyaring—kriiieeet!—hingga Bima spontan nyeletuk bahwa mereka harus memanggil tukang kayu untuk membongkar pintu tersebut.
 
 Pak Abi tersenyum melihat kedua anaknya pagi itu. Beliau mengambilkan pengki plastik untuk Dinda, lalu berjalan ke dapur mengambil secawan kecil minyak goreng bersih beserta sebatang lidi kapas:
 
@@ -1016,7 +1016,7 @@ Setibanya di toko material yang luas dan berdebu semen itu, suasana tampak sibuk
 
 Karena merasa sudah menunggu sepuluh menit dan ingin segera dilayani, Raka menghampiri bapak tua bersandal jepit itu dengan dada membusung dan nada suara yang agak tinggi. "Pak, tolong panggilkan bos atau pemilik tokonya di dalam dong, saya mau pesan kayu banyak, jangan lama-lama ya!"
 
-Bapak tua itu mengangkat wajahnya, tersenyum ramah tanpa sedikit pun tampak tersinggung, lalu berdiri menepuk debu di tangannya. Namun ketika seorang kepala gudang berseragam rapi berlari menghampiri sambil membungkuk hormat menyapa bapak tua itu dengan sebutan *"Pak Haji Pemilik"*, wajah Raka seketika berubah pucat lalu memerah padam menahan malu sampai ke pangkal telinganya. Ternyata bapak tua bersandal jepit yang baru saja ia suruh-suruh itu adalah pemilik dari seluruh deretan lima ruko material di jalan tersebut.
+Bapak tua itu mengangkat wajahnya, tersenyum ramah tanpa sedikit pun tampak tersinggung, lalu berdiri menepuk debu di tangannya. Namun ketika seorang kepala gudang berseragam rapi berlari menghampiri sambil membungkuk hormat menyapa bapak tua itu dengan sebutan "Pak Haji Pemilik", wajah Raka seketika berubah pucat lalu memerah padam menahan malu sampai ke pangkal telinganya. Ternyata bapak tua bersandal jepit yang baru saja ia suruh-suruh itu adalah pemilik dari seluruh deretan lima ruko material di jalan tersebut.
 
 Dalam perjalanan pulang melintasi jalan tepi sawah yang bulir-bulir padinya mulai menguning merunduk, Raka duduk terdiam seribu bahasa di boncengan motor. Pak Abi memelankan laju motornya, menunjuk ke arah hamparan sawah di sebelah kiri mereka, lalu berucap dengan suara yang tenang namun menembus relung hati putranya:
 
@@ -1032,7 +1032,7 @@ Dalam perjalanan pulang melintasi jalan tepi sawah yang bulir-bulir padinya mula
 
 Malam itu sekitar pukul sembilan, Bima baru saja pulang dari membeli roti bakar di ujung lorong menggunakan motor bebek Pak Abi. Begitu memarkir motor di halaman depan, Bima langsung melenggang masuk ke ruang tamu dengan santai. Ketika Dinda melongok dari jendela dan mengingatkan bahwa leher kemudi motor itu belum dikunci ke kiri—bahkan anak kuncinya masih tampak menggantung berkilau di lubang kontak—Bima hanya melambaikan tangan sambil menjawab enteng, "Tenang saja Kak, kampung kita aman kok, tadi Bima juga sudah baca doa waktu turun dari motor, tawakal saja!"
 
-Pak Abi yang mendengar jawaban itu dari meja makan langsung bangkit berdiri. Beliau melangkah keluar ke teras, memutar stang motor ke kiri, menekan dan memutar kunci leher kemudi hingga terdengar bunyi *klak* yang mantap, lalu mencabut anak kuncinya dan menunjukkannya ke hadapan Bima:
+Pak Abi yang mendengar jawaban itu dari meja makan langsung bangkit berdiri. Beliau melangkah keluar ke teras, memutar stang motor ke kiri, menekan dan memutar kunci leher kemudi hingga terdengar bunyi klak yang mantap, lalu mencabut anak kuncinya dan menunjukkannya ke hadapan Bima:
 
 *(Bima,) ketahuilah bahwa arti bertawakal yang benar itu adalah mengunci ganda leher kemudi tungganganmu (motormu) lebih dulu sebelum kamu memanjatkan doa; dan bukanlah kamu membiarkan anak kuncinya masih tergantung pada lubangnya, lalu kamu melenggang pergi seraya berkata, "Biarlah aku berserah diri kepada takdir"* `(4:41:3:1–6)`.
 
