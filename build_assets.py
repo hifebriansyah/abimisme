@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Rebuild everything in assets/ from logo.jpeg (or a path given as the first argument).
+"""Rebuild everything in assets/ from logo.png (or a path given as the first argument).
 
 Usage:  python3 build_assets.py [path/to/logo]
 Needs:  ImageMagick 7 (`magick`), e.g. `brew install imagemagick`.
@@ -31,7 +31,13 @@ def magick(*args):
 
 
 def cut_out(src, dst):
-    """Make the white around the logo transparent, keeping white inside it (the "A")."""
+    """Trim transparent logo, or remove outer white background if the source is opaque."""
+    opaque = subprocess.check_output(
+        ["magick", str(src), "-format", "%[opaque]", "info:"], text=True
+    ).strip() == "True"
+    if not opaque:
+        magick(src, "-trim", "+repage", dst)
+        return
     magick(
         src,
         "-bordercolor", "white", "-border", 4,      # so all outer white is one connected area
@@ -55,7 +61,7 @@ def tile(logo, dst, size, logo_pct):
 def main():
     if not shutil.which("magick"):
         sys.exit("ImageMagick not found. Install it with: brew install imagemagick")
-    src = Path(sys.argv[1]) if len(sys.argv) > 1 else ROOT / "logo.jpeg"
+    src = Path(sys.argv[1]) if len(sys.argv) > 1 else ROOT / "logo.png"
     if not src.exists():
         sys.exit(f"Logo not found: {src}")
     OUT.mkdir(exist_ok=True)

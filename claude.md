@@ -40,6 +40,12 @@ Referensi harus dalam format seperti ini:
 - gabungan lebih dari satu baris diperbolehkan dan ditulis dalam format misal `(jilid:bab:bait:barisA–C)`
 - referensi harus dalam baris baru
 
+Aturan Penulisan Kisah (44 Kisah):
+- Target keseluruhan adalah **44 kisah** dengan kesinambungan suasana keluarga Pak Abi (Pak Abi, Ibu, Raka, Dinda, Bima).
+- **Bebas lintas Jilid dan lintas Bab**: Satu kisah **tidak boleh dikurung** hanya pada satu Bab atau satu Jilid. Dalam kehidupan nyata, satu kejadian (misalnya ban bocor di jalan sore hari) secara alami bisa menyentuh urusan jalan raya (Jilid 1), seduhan teh hangat di warung (Jilid 2), hingga uang darurat di lipatan terdalam dompet bapak (Jilid 3). Pilih kombinasi bait lintas bab/jilid yang benar-benar menyatu dalam satu alur cerita.
+- **Jangan memaksakan terlalu banyak referensi** di dalam satu kisah. Gunakan cukup **2–4 kutipan kitab** yang muncul secara organik dari situasi cerita agar kisah punya ruang bernapas dan berkreasi.
+- Bangun alur cerita yang mengalir secara alami (ada pembuka situasi, dialog sehari-hari yang wajar, detail suasana, konflik kecil yang masuk akal, dan penyelesaian yang hangat), bukan sekadar melompat dari satu adegan ke adegan lain hanya demi menempelkan ayat.
+
 contoh kisah
 
 ## Kisah: Angin Malam dan Secangkir Kopi di Beranda Subuh
